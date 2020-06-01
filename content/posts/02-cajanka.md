@@ -16,7 +16,7 @@ photo_credit_handle: "jorgeblah"
 
 *Primer 4:* “Ne bom! Ne maram čaja.”
 
-*Primer 5:* “Zakaj sploh piješ ta čaj? Čaj je pomoje najbolj precenjena stvar kar jih poznam! Okej, daj mi en požirek, da probam. Ja, ni slabo, samo vseeno, ne bom, hvala.”
+*Primer 5:* “Zakaj sploh piješ ta čaj? Čaj je pomoje ena najbolj precenjenih stvari! Zakaj bi pil vročo vodo z okusom? Okej, daj mi en požirek, da probam. Ja, ni slabo, samo vseeno, ne bom, hvala.”
 
 *Primer 6:* “Sem ti že povedal, da ne maram čaja.”
 
