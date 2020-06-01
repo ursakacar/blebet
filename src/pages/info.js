@@ -15,20 +15,3 @@ export default function Info() {
     </Layout>
   )
 }
-
-/*
-        <ul>
-          <li>
-            <p>
-             <a href={`mailto:${infoData.contact.email}`}>Email: {infoData.contact.email}</a>
-            </p>
-          </li>
-          <li>
-            <p>
-              <a href={`https://instagram.com/${infoData.contact.instagram_handle}`}>
-                Instagram: @{infoData.contact.instagram_handle}
-              </a>
-            </p>
-          </li>
-        </ul>
-        */

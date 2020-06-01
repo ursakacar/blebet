@@ -8,8 +8,10 @@ export default function useBlogData() {
           node {
             id
             frontmatter {
-              date(formatString: "MMMM Do, YYYY")
+              date(formatString: "MMYYYY")
               title
+              photo_credit
+              photo_credit_handle
               hero_image {
                 childImageSharp {
                   fluid( maxWidth: 800 ) {
