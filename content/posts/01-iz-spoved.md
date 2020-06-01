@@ -11,7 +11,7 @@ Danes sem se odločila, da nikoli ne bom pisateljica. Pri mojih letih je itak ž
 
 Vedno sem želela pisati. Nikoli nisem. Všeč mi je bila ideja o pisanju, zataknilo se je pa pri drugem koraku, kjer je treba zbrano sedeti in preliti nekaj čustev v besedno obliko. Kratki odseki zgodb, ki se mi vedno pletli po glavi, se mi jeguljasto izmuznejo v trenutku, ko jih poskušam zvrniti na papir, in tako se znajdem v večnih vicah odločanja, katerega naj prvo lovim. 
 
-Na začetku mi je v resnici še nekako šlo, izgledalo je da situacija le ni povsem brezupna, če bi jo le nadgrajevala z leti in trdnim delom, ki pa ga, roko na srce, nisem vajena ne na področju pisanja, ne na katerem drugem. In ko se je po koncu pubertete začelo resno življenje, v tem resnem življenju ni bilo časa niti prostora za naumljanje izmišljotin in ustvarjanje slabe poezije ob treh ponoči, ob steklenici janževca, odprtem oknu in prižgani sveči, ki je v svoj plamen navabljala nočne žuželke, kjer so z zoprno rezkim prasketom doživele svoj konec.
+Na začetku mi je v resnici še nekako šlo, izgledalo je da situacija le ni povsem brezupna, če bi jo le nadgrajevala z leti in trdnim delom, ki pa ga, roko na srce, nisem vajena ne na področju pisanja, ne na katerem drugem. In ko se je po koncu pubertete začelo resno življenje, v tem resnem življenju ni bilo časa niti prostora za naumljanje izmišljotin in ustvarjanje slabe poezije ob treh ponoči, ob steklenici janževca, odprtem oknu in prižgani sveči, ki je v svoj plamen navabljala nočne žuželke, kjer so z zoprno rezkim prasketom doživljale svoj konec.
 
 Čas je, da prebolim. S tem dnem in s tem zapisom torej opuščam svoje blodnje in zablode, da bom nekoč pisateljica. Nikoli ne bom pisateljica. 
 
