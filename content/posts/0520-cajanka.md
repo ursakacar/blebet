@@ -1,14 +1,14 @@
 ---
 date: 2020-05-19T22:40:32Z
 title: "Čajanka za dva"
-hero_image: "/content/images/04-tea.jpg"
+hero_image: "/content/images/cajanka.jpg"
 photo_credit: "Jorge Garcia"
 photo_credit_handle: "jorgeblah"
 ---
 
 ## “Boš čaj?”
 
-*(Primer 1:* **“Ne.”**
+*Primer 1:* **“Ne.”**
 
 *Primer 1.1:* **“Ne!”**
 
@@ -22,7 +22,7 @@ photo_credit_handle: "jorgeblah"
 
 *Primer 5:* **“Ne maram čaja.”**
 
-*Primer 4&5.1:* **“Ne bom! Ne maram čaja.”**
+*Primer 4 & 5.1:* **“Ne bom! Ne maram čaja.”**
 
 *Primer 6:* **“Zakaj sploh piješ ta čaj? Čaj je pomoje ena najbolj precenjenih stvari! Zakaj bi pil vročo vodo z okusom?”**
 

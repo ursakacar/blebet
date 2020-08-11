@@ -1,10 +1,9 @@
 ---
-date: 2020-04-01T22:40:32Z
+date: 2020-03-01T22:40:32Z
 title: "((Iz)/s)poved"
-hero_image: "/content/images/01-pens.jpg"
+hero_image: "/content/images/izpoved.jpg"
 photo_credit: "Jessica Lewis"
 photo_credit_handle: "thepaintedsquare"
-
 ---
 
 Danes sem se odločila, da nikoli ne bom pisateljica. Pri mojih letih je itak že prepozno. Vsekakor bo to eno mojih večjih življenjskih obžalovanj, takoj za izbiro faksa in eksanjem črne vodke na valeti.
