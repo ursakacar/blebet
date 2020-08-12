@@ -38,7 +38,6 @@ export default function Header(props) {
         <div></div>
         <div>
           <ul>
-              <li></li>
               <li>
             <a href={`https://instagram.com/4050.32`} target ="_blank">
               Instič: @4050.32
