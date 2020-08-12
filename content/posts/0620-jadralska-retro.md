@@ -50,9 +50,13 @@ Preša je zmagoslavno prinešena na palubo, kot trofeja, polna dišeče, rjave, 
 
 Počasi, počasi se preša pomika proti dnu, precejoč kavo. Rahlo sparjeni od zgodnje ure in prejšnjevečernega gina opazujemo kot v transu.
 Preša se ustavi.
+
 V zgornji prvi četrtini.
+
 Nepričakovan zaplet nas surovo vrže iz melanholije opazovanja in sledi trenutek tišine, ki je vseskozi komičen, se pa začne nabit z zmedo in nejevero, ki se preobrazita en v spoznanje, drug v sprejemanje.
+
 “Koliko si ti dal kave?”
+
 Nonšalantno: “Deset zvrhanih žlic.”
 
 ![](/content/images/mini-frenchpress.jpg)
