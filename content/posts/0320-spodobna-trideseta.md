@@ -1,7 +1,7 @@
 ---
 date: 2020-03-10T22:40:32Z
 title: "Spodobna trideseta"
-hero_image: "/content/images/trideseta.jpg"
+hero_image: "/content/images/hero/trideseta.jpg"
 photo_credit: "Jakob Owens"
 photo_credit_handle: "jakobowens1"
 ---

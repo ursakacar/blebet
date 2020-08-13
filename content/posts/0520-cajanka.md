@@ -1,7 +1,7 @@
 ---
 date: 2020-05-19T22:40:32Z
 title: "Čajanka za dva"
-hero_image: "/content/images/cajanka.jpg"
+hero_image: "/content/images/hero/cajanka.jpg"
 photo_credit: "Jorge Garcia"
 photo_credit_handle: "jorgeblah"
 ---

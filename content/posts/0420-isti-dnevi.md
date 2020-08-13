@@ -1,7 +1,7 @@
 ---
 date: 2020-04-22T22:40:32Z
 title: "Vsi dnevi so isti"
-hero_image: "/content/images/isti-dnevi.jpg"
+hero_image: "/content/images/hero/isti-dnevi.jpg"
 photo_credit: "Roman Bozhko"
 photo_credit_handle: "romanbozhko"
 ---

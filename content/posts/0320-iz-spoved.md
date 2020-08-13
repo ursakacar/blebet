@@ -1,7 +1,7 @@
 ---
 date: 2020-03-01T22:40:32Z
 title: "((Iz)/s)poved"
-hero_image: "/content/images/izpoved.jpg"
+hero_image: "/content/images/hero/izpoved.jpg"
 photo_credit: "Jessica Lewis"
 photo_credit_handle: "thepaintedsquare"
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2020-06-22T22:40:32Z
 title: "Jadralska retrospektiva"
-hero_image: "/content/images/jadralska.jpg"
+hero_image: "/content/images/hero/jadralska.jpg"
 photo_credit: "Little John"
 photo_credit_handle: "joao_freire"
 ---
@@ -13,7 +13,7 @@ Kot bogate stare vdove se jadrnice nežno zibljejo v marini, postrojene tesno en
 
 Na odprtem, zasidrane, so povsem drugačne. V mehkem večernem mraku vsaka s svojo lučko visoko na jamboru ponosno in srborito oznanja svojo prisotnost. Nikogar ne pustijo blizu. Kot uspešne karieristke, občudovane od daleč, dame srednjih let, ki ne želijo, da jih kdorkoli moti, se zibljejo vsaka sredi svoje oaze temne modrine, in nas celo noč čuvajo pred ostrimi morskimi vetrovi in jeznimi norveškimi turisti, katerih plani za resne dalmatinske počitnice, smo bili onečastili z veselim rajanjem.
 
-![](/content/images/mini-marina.jpg)
+![](/content/images/blog/mini-marina.jpg)
 
 ## Najboljša pica na Visu
 Navodila:
@@ -28,18 +28,18 @@ Navodila:
 1. Naroči pico
 1. To bo najboljša pica tvojega življenja
 
-![](/content/images/mini-pizza.jpg)
+![](/content/images/blog/mini-pizza.jpg)
 
 ## Kaj je za zajtrk?
 Vodka.
 
-![](/content/images/mini-vodka.jpg)
+![](/content/images/blog/mini-vodka.jpg)
 
 ## Lepim se
 Vsa se lepim. Sončna očala se mi lepijo na nos, dlani se lepijo na vse, česar se dotaknem, lasje, slani od soli in grobi od morskega vetra, se mi lepijo na vrat, pet dni stara brisača se mi lepi na telo, kopalke se mi lepijo na rit.
 Srce se mi lepi na lesene dele jadrnice, spraskam si od komarjev popikano kožo na gležnju in kri se mi lepi na natikače. Od soka, razredčenega z vodko se mi lepijo ustnice in jezik se mi lepi na nebo. Ideja svobode, pa čeprav samo za teden dni, se mi svaljkasto lepi na lobanjo.
 
-![](/content/images/mini-lepimse.jpg)
+![](/content/images/blog/mini-lepimse.jpg)
 
 ## Francoska preša
 Jutranji ritualistični obred priprave kave v francoski preši se je vzpostavil že drugi dan. Izvajalci smo se menjavali, nadzornik načeloma ne, in ko se tisto zgodnje junijsko jutro za pripravo javi svež (zgolj metaforično) obraz, je bilo to prej normativa kot razlog za sumničavost. V pripravi smo še vsi novinci in je itak je treba dati vsakemu priložnost, da se nauči. Postopek je jasen, ga je pa treba malo izpiliti. Kava, vrela voda, čakaj. Več vrele vode, čakaj, prešaj.
@@ -59,7 +59,7 @@ Nepričakovan zaplet nas surovo vrže iz melanholije opazovanja in sledi trenute
 
 Nonšalantno: “Deset zvrhanih žlic.”
 
-![](/content/images/mini-frenchpress.jpg)
+![](/content/images/blog/mini-frenchpress.jpg)
 
 ## Pomisleki glede nakupovalnega seznama
 Ostalo nam je trinajst litrov sadnega soka. Drugo leto lahko kupimo manj oliv, juh iz vrečk, testenin in konzerv tun. Gobe smo sicer tudi vrgli stran, a to zato ker smo jih založili in nanje pozabili, ne zato ker bi bile odveč. Zadnji dan nam je zmanjkalo tudi pitne vode, a smo neizbirčni nadoknadili z Radensko, izbirčni pa s pritoževanjem. Mocarele količinsko ne moremo komentirati, ker smo jo izgubili.

@@ -1,7 +1,7 @@
 ---
 date: 2020-04-27T22:40:32Z
 title: "Karantensko razodetje"
-hero_image: "/content/images/karantensko-razodetje.jpg"
+hero_image: "/content/images/hero/karantensko-razodetje.jpg"
 photo_credit: "Edwin Hooper"
 photo_credit_handle: "edwinhooper"
 ---
