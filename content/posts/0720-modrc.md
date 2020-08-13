@@ -14,11 +14,17 @@ Med sprehajanjem po trgovskem centru mojo pozornost ujame izložba spodnjega per
 
 V ranljivem trenutku navdiha in želje po lepem, zapeljivem novem kosu spodnjega perila, vstopim, in k meni takoj prifrfota prodajalka, oči kot žareče oglje, za osebnost pa brbotajoč optimizem. Zanima jo, če lahko kako pomaga. Povem ji, da kupujem modrc. Polna spoštljive vljudnosti me vpraša po velikosti. 
 
-Ko ji diskretno zaupam številko in črko, me sumničavo prestreli s pogledom, pri čeme se ji le-ta brez zadrege pase na mojih joških, skritih pod ohlapno majico, in še dodatno zavarovanih z usnjeno jakno. “Ne, to pa ne,” zatrdi, “ mislim da bo C čisto dovolj.” In začne prinašati modrce. Na kupe jih je. Čudoviti so. Več odtenkov rdeče, romantične čipke, umazano beli, čisto beli, pisani, barvni, taki brez kosti in taki s kostjo. Vzhičeno jih valjam po rokah, med prevzetnostjo pa se me tiho polašča sumničavost in mimogrede omenim, da se mi zdijo malo majhni. 
+Ko ji diskretno zaupam številko in črko, me sumničavo prestreli s pogledom, pri čemer se ji le-ta brez zadrege pase na mojih joških, skritih pod ohlapno majico, in še dodatno zavarovanih z usnjeno jakno. “Ne, to pa ne,” zatrdi, “ mislim da bo C čisto dovolj.” In začne prinašati modrce. 
+
+Na kupe jih je. 
+
+Čudoviti so. 
+
+Več odtenkov rdeče, romantične čipke, umazano beli, čisto beli, pisani, barvni, taki brez kosti in taki s kostjo. Vzhičeno jih valjam po rokah, med prevzetnostjo pa se me tiho polašča sumničavost in mimogrede omenim, da se mi zdijo malo majhni. 
 
 “Pojdite poskusit, pa bova potem videli kako bo, prav?” me potolaži, in verjamem ji. Bo že vedela, saj je menda izurjena in plačana za to, da zna s svojim strokovnim pogledom izmeriti velikost oprsja svojih strank!
 
-Previdno odnesem izbor čudovitih modrcev v kabino, si jih skrbno zložim na stolček in v živčnem pričakovanju pričnem s pomerjanjem. 
+Previdno odnesem izbor Ćudovitih Modrcev v kabino, si jih skrbno zložim na stolček in v živčnem pričakovanju pričnem s pomerjanjem. 
 
 Še preden si poskušam zapeti prvega, mi na oči pade mrak. 
 
