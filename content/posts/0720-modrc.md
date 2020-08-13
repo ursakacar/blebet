@@ -24,7 +24,7 @@ Več odtenkov rdeče, romantične čipke, umazano beli, čisto beli, pisani, bar
 
 “Pojdite poskusit, pa bova potem videli kako bo, prav?” me potolaži, in verjamem ji. Bo že vedela, saj je menda izurjena in plačana za to, da zna s svojim strokovnim pogledom izmeriti velikost oprsja svojih strank!
 
-Previdno odnesem izbor Ćudovitih Modrcev v kabino, si jih skrbno zložim na stolček in v živčnem pričakovanju pričnem s pomerjanjem. 
+Previdno odnesem izbor Čudovitih Modrcev v kabino, si jih skrbno zložim na stolček in v živčnem pričakovanju pričnem s pomerjanjem. 
 
 Še preden si poskušam zapeti prvega, mi na oči pade mrak. 
 
