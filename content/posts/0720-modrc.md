@@ -14,7 +14,7 @@ Med sprehajanjem po trgovskem centru mojo pozornost ujame izložba spodnjega per
 
 V ranljivem trenutku navdiha in želje po lepem, zapeljivem novem kosu spodnjega perila, vstopim, in k meni takoj prifrfota prodajalka, oči kot žareče oglje, za osebnost pa brbotajoč optimizem. Zanima jo, če lahko kako pomaga. Povem ji, da kupujem modrc. Polna spoštljive vljudnosti me vpraša po velikosti. 
 
-Ko ji diskretno zaupam številko in črko, me sumničavo prestreli s pogledom, pri čemer se ji le-ta brez zadrege pase na mojih joških, skritih pod ohlapno majico, in še dodatno zavarovanih z usnjeno jakno. “Ne, to pa ne,” zatrdi, “ mislim da bo C čisto dovolj.” In začne prinašati modrce. 
+Ko ji diskretno zaupam številko in črko, me sumničavo prestreli s pogledom, pri čemer se ji le-ta brez zadrege pase na mojih joških, skritih pod ohlapno majico, in še dodatno zavarovanih z usnjeno jakno. “Ne, to pa ne,” zatrdi, “mislim da bo C čisto dovolj.” In začne prinašati modrce. 
 
 Na kupe jih je. 
 
@@ -48,7 +48,7 @@ Vrne se z veliko, zaprašeno škatlo, jo odpre in opravičujoče pridrži predm
 
 “Zdajle trenutno imamo samo tole, bomo pa verjetno kmalu dobili še kakšen model.”
 
-Razočaranje znam že dobro prekriti. Skozi identičen proces grem vsakič, ko kupujem modrc, njihov ‘zdajle trenutno’ pa itak traja že odkar sem se vpisala v srednjo šolo, tako da ga preslišim. Preletim revno izbiro, ki se razprostira pred mano. En sam model.
+Razočaranje znam že dobro prekriti. Skozi identičen proces grem vsakič, ko kupujem modrc, tale njihov ‘zdajle trenutno’ pa itak traja že odkar sem se vpisala v srednjo šolo, tako da ga preslišim. Preletim borno izbiro, ki se razprostira pred mano. En sam model.
 
 “Imate pa potem različne barve,” poskuša biti vzpodbudna, a ji glas z vsako naslednjo črko zamira v gosti mešanici sramu in poraza. 
 
