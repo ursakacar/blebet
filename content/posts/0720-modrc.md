@@ -44,7 +44,7 @@ Pusti me samo, v čudovitem, čipkastem, premajhnem modro-belem modrcu, iz kater
 
 Vem, kaj sledi.
 
-Vrne se z veliko, prašno škatlo, jo odpre in opravičujoče pridrži predme. 
+Vrne se z veliko, zaprašeno škatlo, jo odpre in opravičujoče pridrži predme. 
 
 “Zdajle trenutno imamo samo tole, bomo pa verjetno kmalu dobili še kakšen model.”
 

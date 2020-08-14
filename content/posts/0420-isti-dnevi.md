@@ -21,7 +21,7 @@ In včeraj je bil. In jutri bo. Mogoče za vedno. Ujeti smo v 22. april. A res n
 "Pomiri se, vse je v redu. Glej, na telefonu mi piše 22. april, na uri mi piše 22. april, še na računalnik sem šla pogledat, in tudi piše 22. april. Tu imam še en tisti bedni koledar, ki mu vsak dan odtrgaš en listek, tamala ga je na vsak način hotela imeti. No, po tem koledarju smo še 21., to pa zato, ker ga vedno odtrga po šele zajtrku, se pa dobro spomnim, da ga je včeraj odtrgala, tako da je moral biti 21. april."
 
 Vem, da je 22. april. Problem je drugje. Ne gre zato, da se datum ne spreminja, ampak da se dan ponavlja.
-Vsako jutro dobim vabilo na isti, izredni sestanek, opomnik, naj zalijem rože, kar počnem ob sredah in gledam soseda, kako do ceste vsakič znova odvleče bio kante, ki jih praznejo samo enkrat na teden.
+Vsako jutro dobim vabilo na isti, izredni sestanek, opomnik, naj zalijem rože, kar počnem ob sredah, in gledam soseda, kako do ceste vsakič znova odvleče bio kante, ki jih praznejo samo enkrat na teden.
 
 "Mislim da ti je karantena na živce udarila, pa saj bomo verjetno vsi postopoma zblazneli, če nas ne spustijo iz hiš. Spij kozarec vina in vrži nekaj na TV, prav? Poslušaj, moram it, tamala se nekaj dere v dnevni, mislim da se je zataknila v preprogo. Se slišiva spet jutri, zmenjeno?"
 
