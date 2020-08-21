@@ -5,8 +5,8 @@ import headerStyles from "../styles/components/header.module.scss"
 export default function Header(props) {
   return (
     <header
-      className={`${headerStyles.header} ${props.page === 'info' &&
-        headerStyles.info_page}`}
+      className={`${headerStyles.header} ${(props.page === 'info' || props.page === 'cookies') &&
+        headerStyles.sub_page}`}
     >
       <nav
         className={headerStyles.header__nav}
@@ -32,7 +32,22 @@ export default function Header(props) {
             </Link>
           </h2>
         </div>
-        <div></div>
+        <div>
+          <h2>
+            <Link
+              to={
+                props.page === 'cookies'
+                ? "/"
+                : "/cookies"
+              }
+              activeClassName={headerStyles.navItemActive}
+              >
+              {props.page === 'cookies'
+                ? "Piškotki!"
+                : "Uporabljam piškotke"}
+            </Link>
+          </h2>
+        </div>
         <div></div>
         <div></div>
         <div></div>

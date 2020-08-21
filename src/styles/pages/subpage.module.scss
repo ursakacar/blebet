@@ -1,0 +1,25 @@
+.subpage_blurb {
+  max-width: 1000px;
+  padding: 1.5rem 1.25rem;
+  p {
+    color: #EBEBEB;
+    font-size: 1.2rem;
+    text-align: left;
+  }
+  h2 div p {
+    padding: 1rem;
+    margin-right: 1rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .subpage_blurb {
+    padding: 2rem;
+  }
+}
+
+@media(min-width: 1440px) {
+  .subpage_blurb {
+    padding: 3rem;
+  }
+}

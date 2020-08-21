@@ -12,6 +12,10 @@ export default function useSiteMetadata() {
             description
             background_color
           }
+          cookiesData {
+            description
+            background_color
+          }
         }
       }
     }

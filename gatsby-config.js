@@ -1,5 +1,6 @@
 const config = require("./config.json")
 const infoData = require("./content/data/info.json")
+const cookiesData = require("./content/data/cookies.json")
 
 require("dotenv").config({
   path: ".env.${process.env.NODE_ENV}"
@@ -13,7 +14,8 @@ module.exports = {
     repoUrl: config.repository_url,
     about: config.about,
     primaryColor: config.primary_color,
-    infoData: infoData
+    infoData: infoData,
+    cookiesData: cookiesData
   },
   plugins: [
     "gatsby-plugin-sass",
