@@ -44,7 +44,7 @@ export default function Header(props) {
             </a>
           </li>
           <li>
-              <a href={`mailto:4050.32@gmail.com`}> {`4050.32@gmail.com`}</a>
+              <a href={`mailto:ursa@blebet.si`}> {`ursa@blebet.si`}</a>
           </li>
               <li>&copy; Urša Kačar 2020</li>
           </ul>
