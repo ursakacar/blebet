@@ -1,6 +1,10 @@
 const config = require("./config.json")
 const infoData = require("./content/data/info.json")
 
+require("dotenv").config({
+  path: ".env.${process.env.NODE_ENV}"
+})
+
 module.exports = {
   //this makes the site config available to forestry cms
   siteMetadata: {
@@ -65,6 +69,12 @@ module.exports = {
             },
           },
         ],
+      },
+    },
+    {
+      resolve: "gatsby-plugin-google-analytics",
+      options: {
+        trackingId: process.env.GA_TRACKING_ID,
       },
     },
   ],
