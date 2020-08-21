@@ -16,38 +16,45 @@ export default function Header(props) {
         <Link to="/">
           <h1>{props.title}</h1>
         </Link>
-        <div>
-          <h2>
-            <Link
-              to={
-                props.page === 'info'
-                ? "/"
-                : "/info"
-              }
-              activeClassName={headerStyles.navItemActive}
-              >
-              {props.page === 'info'
-                ? "Ni fore."
-                : "Kaj je fora?"}
-            </Link>
-          </h2>
+        <div
+        className={headerStyles.subpage__nav}
+        >
+          <div>
+            <h2>
+              <Link
+                to={
+                  props.page === 'info'
+                  ? "/"
+                  : "/info"
+                }
+                activeClassName={headerStyles.navItemActive}
+                >
+                {props.page === 'info'
+                  ? "• Ni fore."
+                  : "• Kaj je fora?"}
+              </Link>
+            </h2>
+          </div>
+          <div>
+            <h2>
+              <Link
+                to={
+                  props.page === 'cookies'
+                  ? "/"
+                  : "/cookies"
+                }
+                activeClassName={headerStyles.navItemActive}
+                >
+                {props.page === 'cookies'
+                  ? "• Zastonj piškotki!"
+                  : "• Ta stran uporablja piškotke."}
+              </Link>
+            </h2>
+          </div>
         </div>
-        <div>
-          <h2>
-            <Link
-              to={
-                props.page === 'cookies'
-                ? "/"
-                : "/cookies"
-              }
-              activeClassName={headerStyles.navItemActive}
-              >
-              {props.page === 'cookies'
-                ? "Piškotki!"
-                : "Uporabljam piškotke"}
-            </Link>
-          </h2>
-        </div>
+        <div></div>
+        <div></div>
+        <div></div>
         <div></div>
         <div></div>
         <div></div>

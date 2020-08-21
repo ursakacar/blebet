@@ -16,8 +16,20 @@
   }
 }
 
+.subpage__nav {
+  padding-bottom: 2rem;
+}
+
 ul {
   text-align: center;
+}
+
+h1 {
+  padding: 3rem 0;
+}
+
+h2 {
+  font-size: 1.5rem;
 }
 
 @media (min-width: 768px) {
