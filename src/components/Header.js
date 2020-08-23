@@ -30,24 +30,8 @@ export default function Header(props) {
                 activeClassName={headerStyles.navItemActive}
                 >
                 {props.page === 'info'
-                  ? "• Ni fore."
-                  : "• Kaj je fora?"}
-              </Link>
-            </h2>
-          </div>
-          <div>
-            <h2>
-              <Link
-                to={
-                  props.page === 'cookies'
-                  ? "/"
-                  : "/cookies"
-                }
-                activeClassName={headerStyles.navItemActive}
-                >
-                {props.page === 'cookies'
-                  ? "• Zastonj piškotki!"
-                  : "• Ta stran uporablja piškotke."}
+                  ? "Ni fore."
+                  : "Kaj je fora?"}
               </Link>
             </h2>
           </div>
