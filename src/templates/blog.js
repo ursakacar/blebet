@@ -28,11 +28,13 @@ export default function Blog(props) {
     const allSlugs = allBlogData.map(blog => {
       return blog.node.fields.slug
     })
+    // debugger
     const previousSlug = allSlugs[allSlugs.indexOf(slug) - 1]
     if (previousSlug !== undefined && previousSlug !== "") {
       return previousSlug
     } else {
-      return allSlugs[0]
+      const slugLength = allSlugs.length
+      return allSlugs[slugLength-1]
     }
   }
 
@@ -68,13 +70,13 @@ export default function Blog(props) {
             to={`blog/${nextSlug}`}
             className={blogTemplateStyles.footer__next}
           >
-            <div>&gt;&gt;</div>
+            <div>prejšnja</div>
           </Link>
           <Link
             to={`blog/${previousSlug}`}
             className={blogTemplateStyles.footer__next}
           >
-            <div>&lt;&lt;</div>
+            <div>naslednja</div>
           </Link>
         </div>
       </article>

@@ -65,12 +65,13 @@
 }
 
 .blog__footer {
+  display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 1.5rem 1.25rem;
   width: 100%;
   max-width: 800px;
-  margin: 0 auto;
+  margin: 3rem auto;
   h2 {
     margin-bottom: 0;
   }
@@ -79,9 +80,7 @@
     justify-content: space-between;
     align-items: center;
     float: right;
-    svg {
-      width: 35px;
-    }
+    font-size: 1.8rem;
   }
 }
 
