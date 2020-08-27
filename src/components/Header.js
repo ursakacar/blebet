@@ -46,7 +46,7 @@ export default function Header(props) {
                 activeClassName={headerStyles.navItemActive}
                 >
                 {props.page === 'subscription'
-                  ? "In to na mail!"
+                  ? "Enostavno in brez napora!"
                   : "Obveščanje o novih zapisih?"}
               </Link>
             </h2>
