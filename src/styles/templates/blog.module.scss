@@ -70,16 +70,11 @@
   align-items: center;
   padding: 1.5rem 1.25rem;
   width: 100%;
-  max-width: 800px;
   margin: 3rem auto;
   h2 {
     margin-bottom: 0;
   }
   a {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    float: right;
     font-size: 1.8rem;
   }
 }
@@ -129,6 +124,7 @@
   }
   .blog__footer {
     padding: 1.25rem;
+    max-width: 600px;
   }
 }
 
@@ -142,5 +138,6 @@
   }
   .blog__footer {
     padding: 2rem 2rem 3rem 2rem;
+    max-width: 800px;
   }
 }
