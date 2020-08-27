@@ -35,7 +35,7 @@ export default function Header(props) {
               </Link>
             </h2>
           </div>
-          {/* <div>
+          <div>
             <h2>
               <Link
                 to={
@@ -46,11 +46,11 @@ export default function Header(props) {
                 activeClassName={headerStyles.navItemActive}
                 >
                 {props.page === 'subscription'
-                  ? "subscription."
-                  : "blabla subscription"}
+                  ? "In to na mail!"
+                  : "Obveščanje o novih zapisih?"}
               </Link>
             </h2>
-          </div> */}
+          </div>
         </div>
         <div></div>
         <div></div>
