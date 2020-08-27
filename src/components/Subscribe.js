@@ -24,21 +24,20 @@ export default class Subscribe extends React.Component {
     
     render() {
         return (
-            <div className="subscribe">
-              <h3 className="subscribeInfo">
-                So ti moje besedne nebuloze všeč? Pusti mi svoj mail, pa ti pošljem opomnik ob vsaki novi objavi.
-              </h3>
+            <div className={subscribeFormStyles.subscribeForm}>
+              <p className={subscribeFormStyles.subscribeInfo}>
+                Blablabla, add CTA: So ti moje besedne nebuloze všeč? Pusti mi svoj mail, pa ti pošljem opomnik ob vsaki novi objavi.
+              </p>
               <form onSubmit={this.handleSubmit}>
             <label>
-                <input
+                <input className={subscribeFormStyles.subscribeInput}
                 type="text"
                 name="email"
                 placeholder="email"
-                //value={this.state.email}
                 onChange={this.handleEmailChange}
                 required />
             </label>
-            <button type="submit">Prijava</button>
+            <button type="submit" className={subscribeFormStyles.subscribeButton}>Prijava</button>
             </form>
             </div>
         )

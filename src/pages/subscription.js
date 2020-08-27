@@ -8,12 +8,12 @@ export default function Subscription() {
   const { subscriptionData } = useSiteMetaData()
   return (
     <Layout page="subscription" bgColor={subscriptionData.background_color}>
-        <Subscribe />
       <section className={subscriptionStyles.subpage_blurb}>
         <h2>
         <div dangerouslySetInnerHTML={{__html: subscriptionData.description}}></div>
         </h2>
       </section>
+        <Subscribe />
     </Layout>
   )
 }
