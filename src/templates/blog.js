@@ -1,23 +1,36 @@
 import React from "react"
 import Layout from "../components/Layout"
 import { graphql, Link } from "gatsby"
-import useBlogData from '../static_queries/useBlogData'
+import useBlogData from "../static_queries/useBlogData"
 import blogTemplateStyles from "../styles/templates/blog.module.scss"
 //this component handles the blur img & fade-ins
-import Img from 'gatsby-image'
+import Img from "gatsby-image"
 
 export default function Blog(props) {
   const data = props.data.markdownRemark
   const allBlogData = useBlogData()
   const nextSlug = getNextSlug(data.fields.slug)
+  const previousSlug = getPreviousSlug(data.fields.slug)
 
   function getNextSlug(slug) {
     const allSlugs = allBlogData.map(blog => {
       return blog.node.fields.slug
     })
     const nextSlug = allSlugs[allSlugs.indexOf(slug) + 1]
-    if(nextSlug !== undefined && nextSlug !== '') {
+    if (nextSlug !== undefined && nextSlug !== "") {
       return nextSlug
+    } else {
+      return allSlugs[0]
+    }
+  }
+
+  function getPreviousSlug(slug) {
+    const allSlugs = allBlogData.map(blog => {
+      return blog.node.fields.slug
+    })
+    const previousSlug = allSlugs[allSlugs.indexOf(slug) - 1]
+    if (previousSlug !== undefined && previousSlug !== "") {
+      return previousSlug
     } else {
       return allSlugs[0]
     }
@@ -32,7 +45,14 @@ export default function Blog(props) {
             alt={data.frontmatter.title}
           />
           <div className={blogTemplateStyles.blog__photocredit}>
-              <a href={`https://unsplash.com/${data.frontmatter.photo_credit_handle}`} class="photo__credit" target="_blank" rel="noopener nofollow">Fotka: {data.frontmatter.photo_credit} / Unsplash</a>
+            <a
+              href={`https://unsplash.com/${data.frontmatter.photo_credit_handle}`}
+              class="photo__credit"
+              target="_blank"
+              rel="noopener nofollow noreferrer"
+            >
+              Fotka: {data.frontmatter.photo_credit} / Unsplash
+            </a>
           </div>
         </figure>
         <div className={blogTemplateStyles.blog__info}>
@@ -44,10 +64,17 @@ export default function Blog(props) {
           dangerouslySetInnerHTML={{ __html: data.html }}
         ></div>
         <div className={blogTemplateStyles.blog__footer}>
-            <Link to={`blog/${nextSlug}`} className={blogTemplateStyles.footer__next}>
-            <svg xmlns="http://www.w3.org/2000/svg"  version="1.1" x="0px" y="0px" viewBox="0 0 26 26" enableBackground="new 0 0 26 26" >
-              <path d="M23.021,12.294l-8.714-8.715l-1.414,1.414l7.007,7.008H2.687v2h17.213l-7.007,7.006l1.414,1.414l8.714-8.713  C23.411,13.317,23.411,12.685,23.021,12.294z"/>
-            </svg>
+          <Link
+            to={`blog/${nextSlug}`}
+            className={blogTemplateStyles.footer__next}
+          >
+            <div>&gt;&gt;</div>
+          </Link>
+          <Link
+            to={`blog/${previousSlug}`}
+            className={blogTemplateStyles.footer__next}
+          >
+            <div>&lt;&lt;</div>
           </Link>
         </div>
       </article>
