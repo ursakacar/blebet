@@ -31,7 +31,7 @@ export default class Subscribe extends React.Component {
           <label className={subscribeFormStyles.subscribeLabel}>
             <input
               className={subscribeFormStyles.subscribeInput}
-              type="text"
+              type="email"
               name="email"
               placeholder="vtipkajte vaš mail"
               onChange={this.handleEmailChange}
