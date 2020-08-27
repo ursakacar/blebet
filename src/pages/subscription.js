@@ -12,8 +12,8 @@ export default function Subscription() {
         <h2>
         <div dangerouslySetInnerHTML={{__html: subscriptionData.description}}></div>
         </h2>
-      </section>
         <Subscribe />
+      </section>
     </Layout>
   )
 }
