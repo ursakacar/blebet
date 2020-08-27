@@ -49,7 +49,7 @@ export default function Blog(props) {
           <div className={blogTemplateStyles.blog__photocredit}>
             <a
               href={`https://unsplash.com/${data.frontmatter.photo_credit_handle}`}
-              class="photo__credit"
+              className="photo__credit"
               target="_blank"
               rel="noopener nofollow noreferrer"
             >
