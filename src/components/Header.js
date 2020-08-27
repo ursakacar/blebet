@@ -5,7 +5,7 @@ import headerStyles from "../styles/components/header.module.scss"
 export default function Header(props) {
   return (
     <header
-      className={`${headerStyles.header} ${(props.page === 'info' || props.page === 'cookies') &&
+      className={`${headerStyles.header} ${(props.page === 'info' || props.page === 'subscription') &&
         headerStyles.sub_page}`}
     >
       <nav
@@ -35,6 +35,22 @@ export default function Header(props) {
               </Link>
             </h2>
           </div>
+          {/* <div>
+            <h2>
+              <Link
+                to={
+                  props.page === 'subscription'
+                  ? "/"
+                  : "/subscription"
+                }
+                activeClassName={headerStyles.navItemActive}
+                >
+                {props.page === 'subscription'
+                  ? "subscription."
+                  : "blabla subscription"}
+              </Link>
+            </h2>
+          </div> */}
         </div>
         <div></div>
         <div></div>

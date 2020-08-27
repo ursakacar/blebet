@@ -1,9 +1,9 @@
 const config = require("./config.json")
 const infoData = require("./content/data/info.json")
-const cookiesData = require("./content/data/cookies.json")
+const subscriptionData = require("./content/data/subscription.json")
 
 require("dotenv").config({
-  path: ".env.${process.env.NODE_ENV}"
+  path: `.env.${process.env.NODE_ENV}`,
 })
 
 module.exports = {
@@ -15,7 +15,7 @@ module.exports = {
     about: config.about,
     primaryColor: config.primary_color,
     infoData: infoData,
-    cookiesData: cookiesData
+    subscriptionData: subscriptionData,
   },
   plugins: [
     "gatsby-plugin-sass",
@@ -33,8 +33,8 @@ module.exports = {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "posts",
-        path: `${__dirname}/content/posts`
-      }
+        path: `${__dirname}/content/posts`,
+      },
     },
     {
       resolve: "gatsby-source-filesystem",
@@ -53,8 +53,8 @@ module.exports = {
     {
       resolve: "gatsby-plugin-sharp",
       options: {
-        defaultQuality: 75
-      }
+        defaultQuality: 75,
+      },
     },
     `gatsby-transformer-sharp`,
     {
@@ -74,9 +74,9 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-mailchimp',
+      resolve: "gatsby-plugin-mailchimp",
       options: {
-        endpoint: "process.env.MAILCHIMP_ENDPOINT",
+        endpoint: process.env.MAILCHIMP_ENDPOINT,
       },
     },
   ],

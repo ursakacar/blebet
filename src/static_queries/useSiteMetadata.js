@@ -12,7 +12,7 @@ export default function useSiteMetadata() {
             description
             background_color
           }
-          cookiesData {
+          subscriptionData {
             description
             background_color
           }
