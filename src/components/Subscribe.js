@@ -13,9 +13,9 @@ export default class Subscribe extends React.Component {
     const result = await addToMailchimp(this.state.email)
     debugger
     if (result.result === "error") {
-      alert(`Opala, na obveščanje si že prijavljen!`)
+      alert(`Opala, na obveščanje si že prijavljen! Ali pa je prišlo do neke druge napake. Daj mi pošlji mail, pa bova zrihtala.`)
     } else {
-      alert(`Prijava poslana! Preverite svoj email`)
+      alert(`Prijava zabeležena! Preverite svoj email`)
     }
     this.setState({ result: result })
   }
