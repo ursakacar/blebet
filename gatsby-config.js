@@ -6,11 +6,21 @@ require("dotenv").config({
   path: `.env.${process.env.NODE_ENV}`,
 })
 
+const {
+  NODE_ENV,
+  URL: NETLIFY_SITE_URL =  config.site_url,
+  DEPLOY_PRIME_URL: NETLIFY_DEPLOY_URL = NETLIFY_SITE_URL,
+  CONTEXT: NETLIFY_ENV = NODE_ENV,
+} = process.env
+const isNetlifyProduction = NETLIFY_ENV === 'production'
+const siteUrl = isNetlifyProduction ? NETLIFY_SITE_URL : NETLIFY_DEPLOY_URL
+
 module.exports = {
   //this makes the site config available to forestry cms
   siteMetadata: {
     title: config.title,
     description: config.description,
+    siteUrl: config.site_url,
     repoUrl: config.repository_url,
     about: config.about,
     primaryColor: config.primary_color,
@@ -21,7 +31,31 @@ module.exports = {
     "gatsby-plugin-sass",
     "gatsby-transformer-remark",
     "gatsby-plugin-react-helmet",
+    `gatsby-plugin-sitemap`,
     "gatsby-transformer-yaml",
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: config.site_url,
+        sitemap: `${config.site_url}/sitemap.xml`,
+        resolveEnv: () => NETLIFY_ENV,
+        env: {
+          production: {
+            policy: [{ userAgent: '*' }],
+          },
+          'branch-deploy': {
+            policy: [{ userAgent: '*', disallow: ['/'] }],
+            sitemap: null,
+            host: null,
+          },
+          'deploy-preview': {
+            policy: [{ userAgent: '*', disallow: ['/'] }],
+            sitemap: null,
+            host: null,
+          },
+        },
+      },
+    },
     {
       resolve: "gatsby-source-filesystem",
       options: {

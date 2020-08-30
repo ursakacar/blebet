@@ -8,8 +8,9 @@ export default function Layout(props) {
   const { title, description } = useSiteMetadata()
   return (
     <section
-      className={`${layoutStyles.layout} ${
-        (props.page === "info" || props.page === "subscription") && 
+      className={`${layoutStyles.layout} ${(props.page === "info" ||
+        props.page === "subscription" ||
+        props.page === "404") &&
         layoutStyles.sub_page}`}
       style={{
         backgroundColor: props.bgColor,

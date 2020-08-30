@@ -8,6 +8,7 @@ export default function useSiteMetadata() {
           title
           description
           repoUrl
+          siteUrl
           infoData {
             description
             background_color

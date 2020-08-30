@@ -1,17 +1,18 @@
 .not-found__container {
-    width: 100%;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .not-found__message {
-    padding: 1rem;
-    margin-right: 7rem;
+  padding: 1rem;
+  margin-right: 4rem;
+  color:#EBEBEB;
 }
 
 a:hover {
-	opacity: inherit;
-	transition: none;
+  opacity: inherit;
+  transition: none;
 }
