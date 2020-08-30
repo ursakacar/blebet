@@ -1,12 +1,12 @@
 .header {
   h1 {
-    margin-bottom: 0; 
+    margin-bottom: 0;
   }
 }
 
 .header__nav {
   padding: 1.5rem 1.25rem;
-  border-bottom: 1px solid #EBEBEB;
+  border-bottom: 1px solid #ebebeb;
   display: flex;
   justify-content: space-between;
   flex-direction: column;
@@ -18,6 +18,7 @@
 
 .subpage__nav {
   padding-bottom: 2rem;
+  text-align: center;
 }
 
 ul {
@@ -29,7 +30,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 
 @media (min-width: 768px) {
@@ -40,11 +41,11 @@ h2 {
     left: 0;
     top: 0;
   }
-  
+
   .header__nav {
     padding: 2rem;
     height: 100%;
-    border-right: 1px solid #EBEBEB;
+    border-right: 1px solid #ebebeb;
     border-bottom: none;
     flex-direction: column;
     align-items: flex-start;
@@ -53,6 +54,12 @@ h2 {
     }
   }
   ul {
-  text-align: left;
-}
+    text-align: left;
+  }
+  .subpage__nav {
+    text-align: left;
+  }
+  h2 {
+    font-size: 1.5rem;
+  }
 }
