@@ -8,8 +8,10 @@ export default function useBlogData() {
           node {
             id
             frontmatter {
+              post_author
+              post_description
+              post_title
               date(formatString: "MMYYYY")
-              title
               photo_credit
               photo_credit_handle
               hero_image {

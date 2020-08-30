@@ -1,6 +1,9 @@
 ---
 date: 2020-04-22T22:40:32Z
-title: "Vsi dnevi so isti"
+post_author: "Urša Kačar"
+post_title: "Vsi dnevi so isti"
+post_description: "Ne, nisem mislila enaki. Isti. Vsi dnevi so isti."
+post_keywords: "koledar april koronavirus karantena blog zgodba"
 hero_image: "/content/images/hero/isti-dnevi.jpg"
 photo_credit: "Roman Bozhko"
 photo_credit_handle: "romanbozhko"

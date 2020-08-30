@@ -1,6 +1,9 @@
 ---
 date: 2020-06-22T22:40:32Z
-title: "Jadralska retrospektiva"
+post_author: "Urša Kačar"
+post_title: "Jadralska retrospektiva"
+post_description: "Šli smo jadrat, tradicionalno, letos že drugič. Ostalo mi je nekaj razrtrganih spominov, lepih utrinkov in grenak okus v možganih."
+post_keywords: "jadranje retrospektiva jadrnica dopust potopis vodka blog zgodba"
 hero_image: "/content/images/hero/jadralska.jpg"
 photo_credit: "Little John"
 photo_credit_handle: "joao_freire"

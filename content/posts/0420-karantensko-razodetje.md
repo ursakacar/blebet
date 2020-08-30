@@ -1,6 +1,9 @@
 ---
 date: 2020-04-27T22:40:32Z
-title: "Karantensko razodetje"
+post_author: "Urša Kačar"
+post_title: "Karantensko razodetje"
+post_description: "Na ulicah mrtvilo, na dvoriščih praznina, na cestah prah, pri sosedu tišina."
+post_keywords: "karantena koronavirus tišina korona blog zgodba"
 hero_image: "/content/images/hero/karantensko-razodetje.jpg"
 photo_credit: "Edwin Hooper"
 photo_credit_handle: "edwinhooper"
