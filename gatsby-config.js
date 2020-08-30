@@ -36,6 +36,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
+        host: config.site_url,
+        sitemap: `${config.site_url}/sitemap.xml`,
         resolveEnv: () => NETLIFY_ENV,
         env: {
           production: {
