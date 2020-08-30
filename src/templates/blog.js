@@ -44,7 +44,7 @@ export default function Blog(props) {
       <Helmet>
         <title>{data.frontmatter.post_title}</title>
         <meta name="author" content={data.frontmatter.post_author}></meta>
-        <meta name="description" content={data.frontmatter.post_descripton}></meta>
+        <meta name="description" content={data.frontmatter.post_description}></meta>
         <meta name="keywords" content={data.frontmatter.post_keywords}></meta>
       </Helmet>
       <article className={blogTemplateStyles.blog}>
@@ -101,8 +101,9 @@ export const getPostData = graphql`
       }
       frontmatter {
         post_author
-        post_description
         post_title
+        post_description
+        post_keywords
         date(formatString: "MMYYYY")
         photo_credit
         photo_credit_handle
