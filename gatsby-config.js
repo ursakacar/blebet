@@ -11,6 +11,7 @@ module.exports = {
   siteMetadata: {
     title: config.title,
     description: config.description,
+    siteUrl: config.site_url,
     repoUrl: config.repository_url,
     about: config.about,
     primaryColor: config.primary_color,
@@ -21,6 +22,7 @@ module.exports = {
     "gatsby-plugin-sass",
     "gatsby-transformer-remark",
     "gatsby-plugin-react-helmet",
+    `gatsby-plugin-sitemap`,
     "gatsby-transformer-yaml",
     {
       resolve: "gatsby-source-filesystem",
