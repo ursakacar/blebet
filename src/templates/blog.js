@@ -1,6 +1,7 @@
 import React from "react"
 import Layout from "../components/Layout"
 import { graphql, Link } from "gatsby"
+import Helmet from "react-helmet"
 import useBlogData from "../static_queries/useBlogData"
 import blogTemplateStyles from "../styles/templates/blog.module.scss"
 //this component handles the blur img & fade-ins
@@ -40,11 +41,17 @@ export default function Blog(props) {
 
   return (
     <Layout>
+      <Helmet>
+        <title>{data.frontmatter.post_title}</title>
+        <meta name="author" content={data.frontmatter.post_author}></meta>
+        <meta name="description" content={data.frontmatter.post_descripton}></meta>
+        <meta name="keywords" content={data.frontmatter.post_keywords}></meta>
+      </Helmet>
       <article className={blogTemplateStyles.blog}>
         <figure className={blogTemplateStyles.blog__hero}>
           <Img
             fluid={data.frontmatter.hero_image.childImageSharp.fluid}
-            alt={data.frontmatter.title}
+            alt={data.frontmatter.post_title}
           />
           <div className={blogTemplateStyles.blog__photocredit}>
             <a
@@ -58,7 +65,7 @@ export default function Blog(props) {
           </div>
         </figure>
         <div className={blogTemplateStyles.blog__info}>
-          <h1>{data.frontmatter.title}</h1>
+          <h1>{data.frontmatter.post_title}</h1>
           <h3>{data.frontmatter.date}</h3>
         </div>
         <div
@@ -93,7 +100,9 @@ export const getPostData = graphql`
         slug
       }
       frontmatter {
-        title
+        post_author
+        post_description
+        post_title
         date(formatString: "MMYYYY")
         photo_credit
         photo_credit_handle

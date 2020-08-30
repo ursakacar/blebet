@@ -1,6 +1,9 @@
 ---
 date: 2020-03-10T22:40:32Z
-title: "Spodobna trideseta"
+post_author: "Urša Kačar"
+post_title: "Spodobna trideseta"
+post_description: "Ne moreš pri tridesetih ob štirih zjutraj naključnih ljudi žicati za kokain."
+post_keywords: "trideset trideseta staranje kokain blog zgodba"
 hero_image: "/content/images/hero/trideseta.jpg"
 photo_credit: "Jakob Owens"
 photo_credit_handle: "jakobowens1"

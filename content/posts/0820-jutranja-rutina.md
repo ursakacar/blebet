@@ -1,6 +1,9 @@
 ---
 date: 2020-08-10T22:40:32Z
-title: "Jutranja rutina"
+post_author: "Urša Kačar"
+post_title: "Jutranja rutina"
+post_description: "Zjutraj vstanem ob pol šestih."
+post_keywords: "jutranja rutina uspeh samodisciplina vztrajnost volja predanost tek meditacija botoks blog"
 hero_image: "/content/images/hero/jutranja.jpg"
 photo_credit: "Ramiz Dedaković"
 photo_credit_handle: "ramche"
