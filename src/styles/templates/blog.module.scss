@@ -50,7 +50,7 @@
   p {
     color: #464646;
     font-weight: normal;
-    margin-right: 1rem;
+    margin: 0.5rem 1rem;
     text-align: left;
   }
   ul {
@@ -72,13 +72,15 @@
   padding: 1.5rem 1.25rem;
   width: 100%;
   margin: 3rem auto;
-  h2 {
-    margin-bottom: 0;
-  }
-  a {
-    font-size: 1.8rem;
-  }
+  font-size: 1.8rem;
 }
+
+.blog__footersubscribe {
+  color: #3d559d;
+  font-size: 1rem;
+  text-align: center;
+  padding: 0rem 2rem;
+  }
 
 .blog__photocredit {
   float: right;
@@ -125,6 +127,10 @@
   .blog__footer {
     padding: 1.25rem;
     max-width: 600px;
+  }
+
+  .blog__footersubscribe {
+    padding: 0rem 4rem;
   }
 }
 

@@ -49,10 +49,12 @@ export default function Blog(props) {
       </Helmet>
       <article className={blogTemplateStyles.blog}>
         <figure className={blogTemplateStyles.blog__hero}>
-          <Img
-            fluid={data.frontmatter.hero_image.childImageSharp.fluid}
-            alt={data.frontmatter.post_title}
-          />
+          <Link to="/subscription">
+            <Img
+              fluid={data.frontmatter.hero_image.childImageSharp.fluid}
+              alt={data.frontmatter.post_title}
+            />
+          </Link>
           <div className={blogTemplateStyles.blog__photocredit}>
             <a
               href={`https://unsplash.com/${data.frontmatter.photo_credit_handle}`}
@@ -73,19 +75,18 @@ export default function Blog(props) {
           dangerouslySetInnerHTML={{ __html: data.html }}
         ></div>
         <div className={blogTemplateStyles.blog__footer}>
-          <Link
-            to={`blog/${nextSlug}`}
-            className={blogTemplateStyles.footer__next}
-          >
+          <Link to={`blog/${nextSlug}`}>
             <div>prejšnja</div>
           </Link>
-          <Link
-            to={`blog/${previousSlug}`}
-            className={blogTemplateStyles.footer__next}
-          >
+          <Link to="/subscription" className={blogTemplateStyles.blog__footersubscribe}>prijava na nove objave</Link>
+          <Link to={`blog/${previousSlug}`}>
             <div>naslednja</div>
           </Link>
         </div>
+        <div>
+            <h4>
+            </h4>
+          </div>
       </article>
     </Layout>
   )
