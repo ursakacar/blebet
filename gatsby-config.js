@@ -33,7 +33,7 @@ module.exports = {
     "gatsby-plugin-sass",
     "gatsby-transformer-remark",
     "gatsby-plugin-react-helmet",
-    `gatsby-plugin-sitemap`,
+    "gatsby-plugin-sitemap",
     "gatsby-transformer-yaml",
     {
       resolve: 'gatsby-plugin-robots-txt',

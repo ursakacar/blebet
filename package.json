@@ -2,7 +2,6 @@
   "name": "blebet",
   "private": true,
   "description": "personal blog about nothing in particular",
-  "license": "MIT",
   "version": "0.1.0",
   "author": "Ursa Kacar",
   "scripts": {
@@ -39,9 +38,8 @@
   "keywords": [
     "writing",
     "blog",
-    "stories",
-    "pisanje",
-    "zgodbe"
+    "netlify",
+    "gatsby"
   ],
   "repository": {
     "type": "git",
