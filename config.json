@@ -1,6 +1,8 @@
 {
   "title": "Blebet",
   "description": "To spletišče je zbirališče verbalne diareje, slabih idej, nedodelanih misli in prežvečenih besed, neštetokrat slišanih in neoriginalnih domislic in predolgih povedi. Skladovnica prenapihnjenih pridevnikov in prilastkov, nepravilne uporabe vejic in neokusne uporabe oklepajev. Nekaj o ničemer.",
+  "author": "Ursa Kacar",
+  "keywords": "blebet, ursa kacar, blog",
   "site_url": "https://blebet.si",
   "repository_url": "https://github.com/ursakacar/blebet"
 }

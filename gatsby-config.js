@@ -20,6 +20,8 @@ module.exports = {
   siteMetadata: {
     title: config.title,
     description: config.description,
+    author: config.author,
+    keywords: config.keywords,
     siteUrl: config.site_url,
     repoUrl: config.repository_url,
     about: config.about,
