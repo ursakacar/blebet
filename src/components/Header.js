@@ -61,8 +61,8 @@ export default function Header(props) {
         <div>
           <ul>
               <li>
-            <a href={`https://instagram.com/4050.32`} target ="_blank" rel="noopener noreferrer">
-              Instič: @4050.32
+            <a href={`https://instagram.com/blebetalka`} target ="_blank" rel="noopener noreferrer">
+              Instič: @blebetalka
             </a>
           </li>
           <li>
