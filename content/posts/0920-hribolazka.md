@@ -2,8 +2,8 @@
 date: 2020-09-10T22:40:32Z
 post_author: "Urša Kačar"
 post_title: "Hribolazka"
-post_description: "Zjutraj vstanem ob pol šestih."
-post_keywords: "jutranja rutina uspeh samodisciplina vztrajnost volja predanost tek meditacija botoks blog"
+post_description: "Hoji v hribe se pa še kar upiram."
+post_keywords: "hribi gore ratitovec pohod pohodnistvo hribolazenje blog"
 hero_image: "/content/images/hero/hribolazka.jpg"
 photo_credit: "Brad Barmore"
 photo_credit_handle: "bradbarmore"
