@@ -1,5 +1,5 @@
 ---
-date: 2020-07-01T22:40:32Z
+date: 2020-07-03T22:40:32Z
 post_author: "Urša Kačar"
 post_title: "Vedno znova me nategnejo"
 post_description: "Med sprehajanjem po trgovskem centru mojo pozornost ujame izložba spodnjega perila, in v trenutku kapitalistične šibkosti mi otrpne korak, kar izkoristim za občudovanje razstavljenih modrcev."

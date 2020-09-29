@@ -1,5 +1,5 @@
 ---
-date: 2020-03-10T22:40:32Z
+date: 2020-03-17T22:40:32Z
 post_author: "Urša Kačar"
 post_title: "Spodobna trideseta"
 post_description: "Ne moreš pri tridesetih ob štirih zjutraj naključnih ljudi žicati za kokain."

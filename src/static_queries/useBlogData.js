@@ -11,7 +11,7 @@ export default function useBlogData() {
               post_author
               post_description
               post_title
-              date(formatString: "MMYYYY")
+              date(formatString: "DDMMYYYY")
               photo_credit
               photo_credit_handle
               hero_image {

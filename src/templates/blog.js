@@ -29,7 +29,6 @@ export default function Blog(props) {
     const allSlugs = allBlogData.map(blog => {
       return blog.node.fields.slug
     })
-    // debugger
     const previousSlug = allSlugs[allSlugs.indexOf(slug) - 1]
     if (previousSlug !== undefined && previousSlug !== "") {
       return previousSlug
@@ -84,9 +83,9 @@ export default function Blog(props) {
           </Link>
         </div>
         <div>
-            <h4>
-            </h4>
-          </div>
+          <h4>
+          </h4>
+        </div>
       </article>
     </Layout>
   )
@@ -105,7 +104,7 @@ export const getPostData = graphql`
         post_title
         post_description
         post_keywords
-        date(formatString: "MMYYYY")
+        date(formatString: "DDMMYYYY")
         photo_credit
         photo_credit_handle
         hero_image {

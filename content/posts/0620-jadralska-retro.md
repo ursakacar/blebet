@@ -1,5 +1,5 @@
 ---
-date: 2020-06-22T22:40:32Z
+date: 2020-06-27T22:40:32Z
 post_author: "Urša Kačar"
 post_title: "Jadralska retrospektiva"
 post_description: "Šli smo jadrat, tradicionalno, letos že drugič. Ostalo mi je nekaj razrtrganih spominov, lepih utrinkov in grenak okus v možganih."
