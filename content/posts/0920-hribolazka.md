@@ -1,5 +1,5 @@
 ---
-date: 2020-09-10T22:40:32Z
+date: 2020-09-09T22:40:32Z
 post_author: "Urša Kačar"
 post_title: "Hribolazka"
 post_description: "Hoji v hribe se pa še kar upiram."

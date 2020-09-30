@@ -1,5 +1,5 @@
 ---
-date: 2020-03-01T22:40:32Z
+date: 2020-03-04T22:40:32Z
 post_author: "Urša Kačar"
 post_title: "((Iz)/s)poved"
 post_description: "Danes sem se odločila, da nikoli ne bom pisateljica. Pri mojih letih je itak že prepozno. "

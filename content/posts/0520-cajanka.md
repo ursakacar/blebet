@@ -9,7 +9,7 @@ photo_credit: "Jorge Garcia"
 photo_credit_handle: "jorgeblah"
 ---
 
-## “Boš čaj?”
+### “Boš čaj?”
 
 *Primer 1:* **“Ne.”**
 
@@ -37,4 +37,4 @@ photo_credit_handle: "jorgeblah"
 
 *Primer 10:* **"Pa ne rabiš vsak dan znova vprašat! Ne bom!”**
 
-## Ampak jaz vseeno vprašam. Vedno.
+### Ampak jaz vseeno vprašam. Vedno.
