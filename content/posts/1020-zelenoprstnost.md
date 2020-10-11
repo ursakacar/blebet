@@ -1,5 +1,5 @@
 ---
-date: 2020-10-07T22:40:32Z
+date: 2020-10-12T22:40:32Z
 post_author: "Urša Kačar"
 post_title: "Zelenoprstnost in zemljegrebstvo"
 post_description: "Trenutno imam v oskrbi petinštirideset rastlin. O tem, kako visoka bi bila ta številka, če bi vse preživele, raje ne bi govorila."
