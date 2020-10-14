@@ -17,9 +17,9 @@ Nekje do meseca tri p.k. (po koroni) sem zborbala s temi mojimi lončnicami, bre
 
 Po začetku pandemije pa je v meni, in v petinsedemdesetih odstotkih ostalega prebivalstva, zrasla nenadna težnja po pretirani skrbi za lončnice. Spustila sem se iz svojega kraljevskega prestola, ter si po dolgem obdobju zanemarjanja vzela čas za svoje klorofilne podložnice. V tiranskem vladanju sem spregledala, da se je med njimi že začel množični eksodus, ena za drugo so odmetavale ali sušile svoje listke, od mnogih so ostale le še rogovile in nagniti štrclji. 
 
-Sistematično sem začela s koraki zajezitve neizbežne katastrofe. Najprej sem odredila raziskavo kdo te zelene gmote sploh so. Prej sem jih ločila na palme, sukulente in vse ostalo. Veliko več jim pomeni, če se naučiš njihovih pravih imen. Nato sem za vsako posebej naštudirala kakšne ima zahteve glede vode, zraka, sonca, položaja, gnojenja, dodatnih dni dopusta, alergij in občutljivosti na gluten. 
+Sistematično sem začela s koraki zajezitve neizbežne katastrofe. Najprej sem odredila raziskavo kdo te zelene gmote sploh so. Prej sem jih ločila na palme, kaktuse in vse ostalo. Veliko več jim pomeni, če se naučiš njihovih pravih imen. Nato sem za vsako posebej naštudirala kakšne ima zahteve glede vode, zraka, sonca, položaja, gnojenja, dodatnih dni dopusta, alergij in občutljivosti na gluten. 
 
-Tekom izobraževanje sem odkrila zakladnico neuporabnih nasvetov in šokantnih ugotovitev, v nadaljevanju nazorno predstavljenih s primeri:
+Tekom izobraževanja sem odkrila zakladnico neuporabnih nasvetov in šokantnih ugotovitev, v nadaljevanju nazorno predstavljenih s primeri:
 
 ![](/content/images/blog/mini-plants2.jpg)
 
