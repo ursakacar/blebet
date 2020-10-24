@@ -5,7 +5,8 @@ import headerStyles from "../styles/components/header.module.scss"
 export default function Header(props) {
   return (
     <header
-      className={`${headerStyles.header} ${(props.page === 'info' || props.page === 'subscription') &&
+      className={`${headerStyles.header} ${(props.page === "info" ||
+        props.page === "subscription") &&
         headerStyles.sub_page}`}
     >
       <nav
@@ -16,36 +17,24 @@ export default function Header(props) {
         <Link to="/">
           <h1>{props.title}</h1>
         </Link>
-        <div
-        className={headerStyles.subpage__nav}
-        >
+        <div className={headerStyles.subpage__nav}>
           <div>
             <h2>
               <Link
-                to={
-                  props.page === 'info'
-                  ? "/"
-                  : "/info"
-                }
+                to={props.page === "info" ? "/" : "/info"}
                 activeClassName={headerStyles.navItemActive}
-                >
-                {props.page === 'info'
-                  ? "Ni fore."
-                  : "Kaj je fora?"}
+              >
+                {props.page === "info" ? "Ni fore." : "Kaj je fora?"}
               </Link>
             </h2>
           </div>
           <div>
             <h2>
               <Link
-                to={
-                  props.page === 'subscription'
-                  ? "/"
-                  : "/subscription"
-                }
+                to={props.page === "subscription" ? "/" : "/subscription"}
                 activeClassName={headerStyles.navItemActive}
-                >
-                {props.page === 'subscription'
+              >
+                {props.page === "subscription"
                   ? "Enostavno in brez napora!"
                   : "Obveščanje o novih zapisih?"}
               </Link>
@@ -60,15 +49,19 @@ export default function Header(props) {
         <div></div>
         <div>
           <ul>
-              <li>
-            <a href={`https://instagram.com/blebetalka`} target ="_blank" rel="noopener noreferrer">
-              Instič: @blebetalka
-            </a>
-          </li>
-          <li>
+            <li>
+              <a
+                href={`https://instagram.com/blebetalka`}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Instič: @blebetalka
+              </a>
+            </li>
+            <li>
               <a href={`mailto:ursa@blebet.si`}> {`ursa@blebet.si`}</a>
-          </li>
-              <li>&copy; Urša Kačar 2020</li>
+            </li>
+            <li>&copy; Urša Kačar 2020</li>
           </ul>
         </div>
       </nav>

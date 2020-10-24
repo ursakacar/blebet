@@ -95,7 +95,7 @@
 
 .blog__footersubscribe {
   color: #3d559d;
-  font-size: 1rem;
+  font-size: 1.2rem;
   text-align: center;
   padding: 0rem 2rem;
 }
@@ -119,6 +119,7 @@
   .blog__body {
     max-width: 900px;
     padding: 0 3rem 0 1rem;
+    margin-bottom: 6rem;
     h1,
     h2,
     h4,
@@ -140,8 +141,8 @@
     }
   }
   .blog__hero {
-    min-height: 600px;
-    height: 47vh;
+    min-height: 500px;
+    height: 40vh;
     img {
       min-width: 100%;
     }
@@ -155,15 +156,20 @@
     }
   }
   .blog__footer {
-    padding: 1.25rem;
-    max-width: 600px;
+    padding: 1.7rem;
     flex-direction: row;
+    margin: 0;
+    position: fixed;
+    width: 75%;
+    bottom: 0;
+    right: 0;
+    height: 50px;
+    background: #fff8eb;
   }
 
   .blog__footersubscribe {
     padding: 0rem 4rem;
   }
-
 
   .blog__footer a {
     margin: 0;
@@ -176,9 +182,5 @@
   }
   .blog__info {
     padding: 3rem 0;
-  }
-  .blog__footer {
-    padding: 2rem 2rem 3rem 2rem;
-    max-width: 800px;
   }
 }

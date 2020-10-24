@@ -6,7 +6,6 @@
 
 .header__nav {
   padding: 1.5rem 1.25rem;
-  border-bottom: 1px solid #ebebeb;
   display: flex;
   justify-content: space-between;
   flex-direction: column;
@@ -17,7 +16,6 @@
 }
 
 .subpage__nav {
-  padding-bottom: 2rem;
   text-align: center;
 }
 
@@ -40,13 +38,17 @@ h2 {
     position: fixed;
     left: 0;
     top: 0;
+    background-color: #fff8eb;
+    &.sub_page {
+      width: 25%;
+      border-right: 1px solid #ebebeb;
+      background-color: transparent;
+    }
   }
 
   .header__nav {
     padding: 2rem;
-    height: 100%;
-    border-right: 1px solid #ebebeb;
-    border-bottom: none;
+    height: 99%;
     flex-direction: column;
     align-items: flex-start;
     img {
@@ -64,5 +66,11 @@ h2 {
   }
   h2 {
     font-size: 1.5rem;
+  }
+}
+
+@media (min-width: 1440px) {
+  .header {
+    width: 25%;
   }
 }

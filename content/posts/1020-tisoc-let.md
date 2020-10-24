@@ -4,7 +4,7 @@ post_author: "Urša Kačar"
 post_title: "Čez tisoč let"
 post_description: "Trenutno imam v oskrbi petinštirideset rastlin. O tem, kako visoka bi bila ta številka, če bi vse preživele, raje ne bi govorila."
 post_keywords: "nostalgija vrt 1000 tisoc ursa kacar blog"
-hero_image: "/content/images/hero/1000let.jpg"
+hero_image: "/content/images/hero/1000let1.jpg"
 photo_credit: "Markus Spiske"
 photo_credit_handle: "markusspiske"
 ---
