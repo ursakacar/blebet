@@ -3,6 +3,10 @@
   h1 {
     margin-bottom: 0;
   }
+  &.sub_page {
+    background-color: transparent;
+    border-bottom: 1px solid #afafaf;
+  }
 }
 
 .header__nav {
@@ -39,30 +43,11 @@ h2 {
     position: fixed;
     left: 0;
     top: 0;
-    background-color: #48bf91;
-    background-color: #ffb100;
-    background-color: #e87573;
-    background-color: #e65f5c;
-    background-color: #ff855c;
-    background-color: #5276b7;
-    background-color: #1b998b;
-    background-color: #e76f51;
-    background-color: #e9c46a;
-    background-color: #2a9d8f;
-    background-color: #f4a261;
-    background-color: #118ab2;
-    background-color: #f47c98;
-    background-color: #90be6d;
-    background-color: #43aa8b;
-    background-color: #0582ca;
-    background-color: #9278ba;
-    background-color: #00afb9;
-    background-color: #f07167;
     background-color: #ebebeb;
     &.sub_page {
       width: 25%;
-      border-right: 1px solid #ebebeb;
-      background-color: transparent;
+      border-right: 1px solid #afafaf;
+      border-bottom: none;
     }
   }
 
