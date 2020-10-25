@@ -7,10 +7,10 @@ post_keywords: "jutranja rutina uspeh samodisciplina vztrajnost volja predanost 
 hero_image: "/content/images/hero/jutranja.jpg"
 photo_credit: "Ramiz Dedaković"
 photo_credit_handle: "ramche"
+header_background_color: "#e87573"
 ---
 
 #### **Predgovor:** Do nedavnega v mojem življenju pojma jutranje rutine ni bilo zaslediti. Zjutraj sem vstala vsa polomljena, vase zlila kavo, med umivanjem zob brala novice na telefonu, in se zvlekla naravnost na delovno mesto. Na dober dan sem se mogoče še počesala. Sčasoma pa so se začele kopičiti težave in bolečine, tako mentalne kot telesne, in ena izmed prvih stvari, ki mi jih je predlagal življenjski trener, je bila uvedba stroge jutranje rutine, s katero naj bi dan začela sveža, polna energije, zagona in iskrečih oči. Trajalo je dobro leto, da sva sestavila, izpopolnila, in do sekunde natančno izpilila sekvence vseh mojih trenutnih jutranjih ritualov, preživela sva nešteto vzponov in padcev, mnogo neprijetnih sprememb, izgub, bolečin in dramatiziranja. Zdaj pa je le napočil čas, ko sem to popolno rutino zrela deliti z vsakim posameznikom, ki je pripravljen oplemenititi svoje življenje. A opozarjam, pot ne bo lahka! Zahteva predanost, odrekanje in jekleno voljo, verjamem pa, da se je lahko počasi, postopoma in z veliko vztrajnosti, privadi vsak.
-
 
 Zjutraj vstanem ob pol šestih.
 

@@ -7,6 +7,7 @@ post_keywords: "izpoved spoved pisateljica blog zgodba"
 hero_image: "/content/images/hero/izpoved.jpg"
 photo_credit: "Jessica Lewis"
 photo_credit_handle: "thepaintedsquare"
+header_background_color: "#9278ba"
 ---
 
 Danes sem se odločila, da nikoli ne bom pisateljica. Pri mojih letih je itak že prepozno. Vsekakor bo to eno mojih večjih življenjskih obžalovanj, takoj za izbiro faksa in eksanjem črne vodke na valeti.

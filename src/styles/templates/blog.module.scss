@@ -4,6 +4,10 @@
   }
 }
 
+.blog {
+  background-color: #fcfcfc;
+}
+
 .blog__hero {
   min-height: 300px;
   height: 30vh;
@@ -119,7 +123,7 @@
   .blog__body {
     max-width: 900px;
     padding: 0 3rem 0 1rem;
-    margin-bottom: 6rem;
+    margin-bottom: 8rem;
     h1,
     h2,
     h4,
@@ -141,7 +145,7 @@
     }
   }
   .blog__hero {
-    min-height: 500px;
+    min-height: 350px;
     height: 40vh;
     img {
       min-width: 100%;
@@ -164,7 +168,7 @@
     bottom: 0;
     right: 0;
     height: 50px;
-    background: #fff8eb;
+    background: #efefef;
   }
 
   .blog__footersubscribe {
@@ -178,7 +182,8 @@
 
 @media (min-width: 1440px) {
   .blog__hero {
-    height: 50vh;
+    min-height: 450px;
+    height: 45vh;
   }
   .blog__info {
     padding: 3rem 0;

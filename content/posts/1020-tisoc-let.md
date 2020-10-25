@@ -7,7 +7,7 @@ post_keywords: "nostalgija vrt 1000 tisoc ursa kacar blog"
 hero_image: "/content/images/hero/1000let.jpg"
 photo_credit: "Henri Picot"
 photo_credit_handle: "henrip"
-header_background_color: "#48bf91"
+header_background_color: "#ffb100"
 ---
 
 Ko bom stara, bom imela vrt. Gojila bom sočne paradižnike, debel krompir, hrustljav radič in ostro čebulo, zaradi katere bo jokala cela vas. Po gredicah se bo nenadzorovano razraščala meta, vrtnic nikoli ne bom obrezovala, dišali bodo grmički rožmarina in vsako pomlad me bodo pozdravili najlepši tulipani.

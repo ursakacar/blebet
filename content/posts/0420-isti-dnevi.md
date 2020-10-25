@@ -7,6 +7,7 @@ post_keywords: "koledar april koronavirus karantena blog zgodba"
 hero_image: "/content/images/hero/isti-dnevi.jpg"
 photo_credit: "Roman Bozhko"
 photo_credit_handle: "romanbozhko"
+header_background_color: "#f4a261"
 ---
 
 "Misliš enaki?"

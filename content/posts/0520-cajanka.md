@@ -7,34 +7,35 @@ post_description: "Boš čaj?"
 hero_image: "/content/images/hero/cajanka.jpg"
 photo_credit: "Jorge Garcia"
 photo_credit_handle: "jorgeblah"
+header_background_color: "#43aa8b"
 ---
 
 ### “Boš čaj?”
 
-*Primer 1:* **“Ne.”**
+_Primer 1:_ **“Ne.”**
 
-*Primer 1.1:* **“Ne!”**
+_Primer 1.1:_ **“Ne!”**
 
-*Primer 1.2:* **“NE!!!”**
+_Primer 1.2:_ **“NE!!!”**
 
-*Primer 2:* **“Pa saj veš da jaz ne pijem čaja!”**
+_Primer 2:_ **“Pa saj veš da jaz ne pijem čaja!”**
 
-*Primer 3:* **“A ne bi raje delala kave?”**
+_Primer 3:_ **“A ne bi raje delala kave?”**
 
-*Primer 4:* **“Ne bom!”**
+_Primer 4:_ **“Ne bom!”**
 
-*Primer 5:* **“Ne maram čaja.”**
+_Primer 5:_ **“Ne maram čaja.”**
 
-*Primer 4 & 5.1:* **“Ne bom! Ne maram čaja.”**
+_Primer 4 & 5.1:_ **“Ne bom! Ne maram čaja.”**
 
-*Primer 6:* **“Zakaj sploh piješ ta čaj? Čaj je pomoje ena najbolj precenjenih stvari! Zakaj bi pil vročo vodo z okusom?”**
+_Primer 6:_ **“Zakaj sploh piješ ta čaj? Čaj je pomoje ena najbolj precenjenih stvari! Zakaj bi pil vročo vodo z okusom?”**
 
-*Primer 7:* **“Sem ti že povedal, da ne maram čaja.”**
+_Primer 7:_ **“Sem ti že povedal, da ne maram čaja.”**
 
-*Primer 8:* ***Vzdih vdanosti v usodo***
+_Primer 8:_ **_Vzdih vdanosti v usodo_**
 
-*Primer 9:* **“Ne, hvala.”**
+_Primer 9:_ **“Ne, hvala.”**
 
-*Primer 10:* **"Pa ne rabiš vsak dan znova vprašat! Ne bom!”**
+_Primer 10:_ **"Pa ne rabiš vsak dan znova vprašat! Ne bom!”**
 
 ### Ampak jaz vseeno vprašam. Vedno.

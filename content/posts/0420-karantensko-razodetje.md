@@ -7,6 +7,7 @@ post_keywords: "karantena koronavirus tišina korona blog zgodba"
 hero_image: "/content/images/hero/karantensko-razodetje.jpg"
 photo_credit: "Edwin Hooper"
 photo_credit_handle: "edwinhooper"
+header_background_color: "#e87573"
 ---
 
 Mislim, da je sreda, sredi aprila, dva tisoč dvajset. Osemintrideseti dan samoizolacije z izgovorom koronavirusa, sicer petstosedemnajsti. Ljubljana je odeta v mehko dopoldansko svetlobo, ki izžete turobne stolpnice ovija v tople rumene odtenke. Na ulicah mrtvilo, na dvoriščih praznina, na cestah prah, pri sosedu tišina.

@@ -7,6 +7,7 @@ post_keywords: "trideset trideseta staranje kokain blog zgodba"
 hero_image: "/content/images/hero/trideseta.jpg"
 photo_credit: "Jakob Owens"
 photo_credit_handle: "jakobowens1"
+header_background_color: "#00afb9"
 ---
 
 ### "Delavnica kaligrafije ob petih, tehno žur ob desetih"
@@ -21,8 +22,8 @@ V moje veliko razočaranje mi ob jubileju s strani Javnega Urada Za Starejše Od
 
 Večina znank ima pri teh letih že kredit, otroka ali dva, ali pa vsaj psa in veliko dobro uspevajočih, bujnih sobnih rastlin, ter totalno zakompleksano samopodobo (pri slednji je sicer je pod vprašajem ali še vedno ali že). Vse našteto bi verjetno večina označila za spodobno, vključno s samosovraštvom vred.
 
- In jaz? Ob treh zjutraj opotekajoče zbiram kovančke za burek na Gospodarcu in neznanki, pol mlajši od mene, držim lase med bruhanjem po avtobusni postaji. (Punce (si) držimo (lase) skupaj!)
+In jaz? Ob treh zjutraj opotekajoče zbiram kovančke za burek na Gospodarcu in neznanki, pol mlajši od mene, držim lase med bruhanjem po avtobusni postaji. (Punce (si) držimo (lase) skupaj!)
 
 Najbolj bizarno pri refleksiji tega spomina je, da se psihoaktivnim substancam v resnici izogibam v kvadratni funkciji. Pa ne zaradi tega, ker sem krepostna in ker "droge so slabe", ampak zato, ker me je strah vase butniti snov, verjetno scmarjeno v higiensko oporečnem okolju in brez certifikata zanesljivosti porekla.
 
- Mogoče je pa ravno ta upravičen strah znak odraslosti in Spodobnosti Pri Tridesetih?
+Mogoče je pa ravno ta upravičen strah znak odraslosti in Spodobnosti Pri Tridesetih?
