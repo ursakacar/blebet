@@ -22,3 +22,11 @@
     margin-left: 25%;
   }
 }
+
+@media (min-width: 1440px) {
+  .content {
+    flex-grow: none;
+    width: 80%;
+    margin-left: 20%;
+  }
+}
