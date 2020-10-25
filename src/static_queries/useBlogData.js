@@ -14,9 +14,10 @@ export default function useBlogData() {
               date(formatString: "DDMMYYYY")
               photo_credit
               photo_credit_handle
+              header_background_color
               hero_image {
                 childImageSharp {
-                  fluid( maxWidth: 800 ) {
+                  fluid(maxWidth: 800) {
                     ...GatsbyImageSharpFluid
                   }
                 }

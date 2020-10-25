@@ -23,7 +23,11 @@ export default function Layout(props) {
         <meta name="author" content={author} />
         <meta name="keywords" content={keywords} />
       </Helmet>
-      <Header page={props.page} title={title} />
+      <Header
+        page={props.page}
+        title={title}
+        bgColorHeader={props.bgColorHeader}
+      />
       <div className={layoutStyles.content}>{props.children}</div>
     </section>
   )

@@ -34,16 +34,19 @@ export default function Blog(props) {
       return previousSlug
     } else {
       const slugLength = allSlugs.length
-      return allSlugs[slugLength-1]
+      return allSlugs[slugLength - 1]
     }
   }
 
   return (
-    <Layout>
+    <Layout bgColorHeader={data.frontmatter.header_background_color}>
       <Helmet>
         <title>{data.frontmatter.post_title}</title>
         <meta name="author" content={data.frontmatter.post_author}></meta>
-        <meta name="description" content={data.frontmatter.post_description}></meta>
+        <meta
+          name="description"
+          content={data.frontmatter.post_description}
+        ></meta>
         <meta name="keywords" content={data.frontmatter.post_keywords}></meta>
       </Helmet>
       <article className={blogTemplateStyles.blog}>
@@ -77,14 +80,18 @@ export default function Blog(props) {
           <Link to={`blog/${nextSlug}`}>
             <div>prejšnja</div>
           </Link>
-          <Link to="/subscription" className={blogTemplateStyles.blog__footersubscribe}>prijava na nove objave</Link>
+          <Link
+            to="/subscription"
+            className={blogTemplateStyles.blog__footersubscribe}
+          >
+            prijava na nove objave
+          </Link>
           <Link to={`blog/${previousSlug}`}>
             <div>naslednja</div>
           </Link>
         </div>
         <div>
-          <h4>
-          </h4>
+          <h4></h4>
         </div>
       </article>
     </Layout>
@@ -107,6 +114,7 @@ export const getPostData = graphql`
         date(formatString: "DDMMYYYY")
         photo_credit
         photo_credit_handle
+        header_background_color
         hero_image {
           childImageSharp {
             fluid(maxWidth: 1500) {

@@ -5,6 +5,7 @@ import headerStyles from "../styles/components/header.module.scss"
 export default function Header(props) {
   return (
     <header
+      style={{ backgroundColor: props.bgColorHeader }}
       className={`${headerStyles.header} ${(props.page === "info" ||
         props.page === "subscription") &&
         headerStyles.sub_page}`}
