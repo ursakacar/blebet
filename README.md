@@ -9,23 +9,23 @@ Built with [Gatsby](https://www.gatsbyjs.org/) & [Brevifolia](https://www.gatsby
 #### List of header background colors, for my own personal reference
 
 ```
-#48bf91
-#ffb100
-#e87573
-#e65f5c
-#ff855c
-#5276b7
-#1b998b
-#e76f51
 #e9c46a
-#2a9d8f
+#ffb100
 #f4a261
-#118ab2
+#ff855c
+#e76f51
+#e65f5c
+#f07167
+#e87573
 #f47c98
 #90be6d
 #43aa8b
-#0582ca
-#9278ba
-#f07167
+#1b998b
+#2a9d8f
+#48bf91
 #00afb9
+#118ab2
+#0582ca
+#5276b7
+#9278ba
 ```
