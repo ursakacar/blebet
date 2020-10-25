@@ -40,7 +40,6 @@ export default function Blog(props) {
   }
 
   useEffect(() => {
-    debugger
     setTimeout(() => {
       articleRef.current.scrollIntoView(true)
     }, 10)
