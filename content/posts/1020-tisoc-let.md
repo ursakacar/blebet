@@ -2,11 +2,12 @@
 date: 2020-10-26T22:40:32Z
 post_author: "Urša Kačar"
 post_title: "Čez tisoč let"
-post_description: "Trenutno imam v oskrbi petinštirideset rastlin. O tem, kako visoka bi bila ta številka, če bi vse preživele, raje ne bi govorila."
+post_description: "V globokih gubah svojega obraza bom skrivala spomine vseh festivalov elektronske glasbe, ki sem jih preplesala, krajev in celin, po katerih sem kolovratila, vsake ljubezni posebej, in tistega čudnega leta, ki sem ga preživela v Nemčiji."
 post_keywords: "nostalgija vrt 1000 tisoc ursa kacar blog"
-hero_image: "/content/images/hero/1000let1.jpg"
-photo_credit: "Markus Spiske"
-photo_credit_handle: "markusspiske"
+hero_image: "/content/images/hero/1000let.jpg"
+photo_credit: "Henri Picot"
+photo_credit_handle: "henrip"
+header_background_color: "#48bf91"
 ---
 
 Ko bom stara, bom imela vrt. Gojila bom sočne paradižnike, debel krompir, hrustljav radič in ostro čebulo, zaradi katere bo jokala cela vas. Po gredicah se bo nenadzorovano razraščala meta, vrtnic nikoli ne bom obrezovala, dišali bodo grmički rožmarina in vsako pomlad me bodo pozdravili najlepši tulipani.
