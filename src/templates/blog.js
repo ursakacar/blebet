@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useRef, useEffect } from "react"
 import Layout from "../components/Layout"
 import { graphql, Link } from "gatsby"
 import Helmet from "react-helmet"
@@ -12,6 +12,7 @@ export default function Blog(props) {
   const allBlogData = useBlogData()
   const nextSlug = getNextSlug(data.fields.slug)
   const previousSlug = getPreviousSlug(data.fields.slug)
+  const articleRef = useRef(null)
 
   function getNextSlug(slug) {
     const allSlugs = allBlogData.map(blog => {
@@ -38,6 +39,13 @@ export default function Blog(props) {
     }
   }
 
+  useEffect(() => {
+    debugger
+    setTimeout(() => {
+      articleRef.current.scrollIntoView(true)
+    }, 10)
+  })
+
   return (
     <Layout bgColorHeader={data.frontmatter.header_background_color}>
       <Helmet>
@@ -49,7 +57,7 @@ export default function Blog(props) {
         ></meta>
         <meta name="keywords" content={data.frontmatter.post_keywords}></meta>
       </Helmet>
-      <article className={blogTemplateStyles.blog}>
+      <article className={blogTemplateStyles.blog} ref={articleRef}>
         <figure className={blogTemplateStyles.blog__hero}>
           <Link to="/subscription">
             <Img
