@@ -30,7 +30,7 @@ Built with [Gatsby](https://www.gatsbyjs.org/) & [Brevifolia](https://www.gatsby
 #9278ba
 ```
 
-#### Release checklist for my own sanity
+#### Release checklist for my own personal sanity
 
 - header background color
 - optimise images
