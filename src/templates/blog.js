@@ -84,7 +84,10 @@ export default function Blog(props) {
           dangerouslySetInnerHTML={{ __html: data.html }}
         ></div>
         <div className={blogTemplateStyles.blog__footer}>
-          <Link to={`blog/${nextSlug}`}>
+          <Link
+            to={`blog/${nextSlug}`}
+            className={blogTemplateStyles.blog__footernav}
+          >
             <div>prejšnja</div>
           </Link>
           <Link
@@ -93,8 +96,25 @@ export default function Blog(props) {
           >
             prijava na nove objave
           </Link>
-          <Link to={`blog/${previousSlug}`}>
+          <Link
+            to={`blog/${previousSlug}`}
+            className={blogTemplateStyles.blog__footernav}
+          >
             <div>naslednja</div>
+          </Link>
+        </div>
+        <div className={blogTemplateStyles.blog__footermobile}>
+          <Link
+            to={`blog/${nextSlug}`}
+            className={blogTemplateStyles.blog__footermobilenext}
+          >
+            <div>&#8672;</div>
+          </Link>
+          <Link
+            to={`blog/${previousSlug}`}
+            className={blogTemplateStyles.blog__footermobileprev}
+          >
+            <div>&#8674;</div>
           </Link>
         </div>
         <div>

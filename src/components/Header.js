@@ -16,7 +16,7 @@ export default function Header(props) {
         role="navigation"
         aria-label="main navigation"
       >
-        <Link to="/">
+        <Link to="/" className={headerStyles.blogname}>
           <h1>{props.title}</h1>
         </Link>
         <div className={headerStyles.subpage__nav}>

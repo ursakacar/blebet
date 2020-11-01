@@ -82,7 +82,7 @@ Skrolam po straneh, na hitro preletavam odgovore, zapiram in odpiram nove zavihk
 
 Najdem članek, ki opisuje podobno težavo, se prek njega priplazim na dva foruma in eno uradno izjavo, iz vsega tega nakvačkam idejo o rešitvi, se vrnem v elektronski predal in s tremi kliki pričaram nazaj izginule mape. Absurdna povečava in nenaravna razmerja pa jasno morajo ostati, tega je že navajen in si ne drznem spreminjati.
 
-Dramatična glasba za ozadje so mi skozi celoten proces očetovi očitki, s katerimi ne oddobrava mojega prehitrega tipkanja in preklikavanja _(opomba: glej sekcijo o prikrivanju resnice)_. Umiri se šele, ko mu pokažem zaslon, na katerega so se vrnila imena izgubljenih map. Po začetnem proslavljanju ga hitro začne zanimati, kako je do te nerodnosti prišlo, da se ji bo v prihodnosti lahko izognil, in na kratko in v laičnem jeziku mu poskusim razložiti rezultate svojih raziskav.
+Dramatična glasba za ozadje so mi skozi celoten proces očetovi očitki, s katerimi ne odobrava mojega prehitrega tipkanja in preklikavanja _(opomba: glej sekcijo o prikrivanju resnice)_. Umiri se šele, ko mu pokažem zaslon, na katerega so se vrnila imena izgubljenih map. Po začetnem proslavljanju ga hitro začne zanimati, kako je do te nerodnosti prišlo, da se ji bo v prihodnosti lahko izognil, in na kratko in v laičnem jeziku mu poskusim razložiti rezultate svojih raziskav.
 
 No, potem se pa le spomni, da je pa res nekaj kliknil. In kaj je pisalo na tistem, kar je kliknil? Ah, tega pa ne ve več, nekaj o spremembi in posodobitvi izgleda _(opomba: glej sekcijo o pismenosti)_.
 

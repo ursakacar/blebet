@@ -56,12 +56,13 @@
     line-height: 1.2;
   }
   h2 {
-    font-size: 2.1rem;
+    font-size: 1.7rem;
+    margin: 0;
     color: #464646;
     text-align: center;
   }
   h3 {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-weight: normal;
     padding: 1rem;
     line-height: 1.2;
@@ -81,7 +82,7 @@
     margin-left: 1.25rem;
     margin-bottom: 1.25rem;
     padding-left: 1.45rem;
-    font-size: 1.04rem;
+    font-size: 1rem;
     color: #464646;
   }
 }
@@ -91,9 +92,8 @@
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  padding: 1.5rem 1.25rem;
-  width: 100%;
-  margin: 3rem auto;
+  padding-top: 1.5rem;
+  margin: 3rem;
   font-size: 1.8rem;
 }
 
@@ -104,8 +104,27 @@
   padding: 0rem 2rem;
 }
 
-.blog__footer a {
-  margin: 1rem;
+.blog__footermobile {
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  bottom: 0px;
+  font-size: 1.5rem;
+  color: #464646;
+  opacity: 100%;
+  background-color: #efefef;
+}
+
+.blog__footernav {
+  display: none;
+}
+
+.blog__footermobilenext {
+  padding-right: 5rem;
+}
+.blog__footermobileprev {
+  padding-left: 5rem;
 }
 
 .blog__photocredit {
@@ -131,8 +150,12 @@
     h6 {
       padding: 1.5rem;
     }
+    h2 {
+      font-size: 2rem;
+    }
     h3 {
       padding: 1rem;
+      font-size: 1.6rem;
     }
     span {
       width: 100%;
@@ -142,6 +165,7 @@
     ol {
       margin-left: 1.5rem;
       margin-bottom: 1.5rem;
+      font-size: 1.25rem;
     }
   }
   .blog__hero {
@@ -168,11 +192,19 @@
     bottom: 0;
     right: 0;
     height: 50px;
-    background: #efefef;
+    background-color: #efefef;
   }
 
   .blog__footersubscribe {
     padding: 0rem 4rem;
+  }
+
+  .blog__footernav {
+    display: block;
+  }
+
+  .blog__footermobile {
+    display: none;
   }
 
   .blog__footer a {
