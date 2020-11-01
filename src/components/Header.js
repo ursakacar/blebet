@@ -36,7 +36,9 @@ export default function Header(props) {
                 to={props.page === "subscription" ? "/" : "/subscription"}
                 activeClassName={headerStyles.navItemActive}
               >
-                {props.page === "subscription" ? "Prijava!" : "Nove objave?"}
+                {props.page === "subscription"
+                  ? "Daj mi mail."
+                  : "Nove objave?"}
               </Link>
             </h2>
           </div>
