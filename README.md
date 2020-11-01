@@ -29,3 +29,9 @@ Built with [Gatsby](https://www.gatsbyjs.org/) & [Brevifolia](https://www.gatsby
 #5276b7
 #9278ba
 ```
+
+#### Release checklist for my own sanity
+
+- header background color
+- optimise images
+- doublecheck post metadata: keywords, description, date, title
