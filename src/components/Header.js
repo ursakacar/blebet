@@ -7,7 +7,8 @@ export default function Header(props) {
     <header
       style={{ backgroundColor: props.bgColorHeader }}
       className={`${headerStyles.header} ${(props.page === "info" ||
-        props.page === "subscription") &&
+        props.page === "subscription" ||
+        props.page === "cookies") &&
         headerStyles.sub_page}`}
     >
       <nav
@@ -35,9 +36,17 @@ export default function Header(props) {
                 to={props.page === "subscription" ? "/" : "/subscription"}
                 activeClassName={headerStyles.navItemActive}
               >
-                {props.page === "subscription"
-                  ? "Enostavno in brez napora!"
-                  : "Obveščanje o novih zapisih?"}
+                {props.page === "subscription" ? "Prijava!" : "Nove objave?"}
+              </Link>
+            </h2>
+          </div>
+          <div>
+            <h2>
+              <Link
+                to={props.page === "cookies" ? "/" : "/cookies"}
+                activeClassName={headerStyles.navItemActive}
+              >
+                {props.page === "cookies" ? "Ni piškotkov." : "Piškotki?"}
               </Link>
             </h2>
           </div>

@@ -10,6 +10,7 @@ export default function Layout(props) {
     <section
       className={`${layoutStyles.layout} ${(props.page === "info" ||
         props.page === "subscription" ||
+        props.page === "cookies" ||
         props.page === "404") &&
         layoutStyles.sub_page}`}
       style={{
