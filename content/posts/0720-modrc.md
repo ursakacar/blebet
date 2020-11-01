@@ -2,7 +2,7 @@
 date: 2020-07-03T22:40:32Z
 post_author: "Urša Kačar"
 post_title: "Vedno znova me nategnejo"
-post_description: "Med sprehajanjem po trgovskem centru mojo pozornost ujame izložba spodnjega perila, in v trenutku kapitalistične šibkosti mi otrpne korak, kar izkoristim za občudovanje razstavljenih modrcev."
+post_description: "V ranljivem trenutku navdiha in želje po lepem, zapeljivem novem kosu spodnjega perila, vstopim, in k meni takoj prifrfota prodajalka, oči kot žareče oglje, za osebnost pa brbotajoč optimizem. Zanima jo, če lahko kako pomaga. Povem ji, da kupujem modrc. Polna spoštljive vljudnosti me vpraša po velikosti."
 post_keywords: "modrci nakupovanje kapitalizem razočaranje joški blog zgodba"
 hero_image: "/content/images/hero/modrc.jpg"
 photo_credit: "Pablo Heimplatz"
