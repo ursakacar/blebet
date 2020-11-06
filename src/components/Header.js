@@ -71,6 +71,15 @@ export default function Header(props) {
               </a>
             </li>
             <li>
+              <a
+                href={`https://www.facebook.com/blebetalka`}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Fejsbuk: @blebetalka
+              </a>
+            </li>
+            <li>
               <a href={`mailto:ursa@blebet.si`}> {`ursa@blebet.si`}</a>
             </li>
             <li>&copy; Urša Kačar 2020</li>
