@@ -48,25 +48,29 @@
   }
   h1,
   h2,
-  h4,
-  h5,
-  h6 {
+  h4 {
     font-weight: normal;
     padding: 1.5rem 1rem;
     line-height: 1.2;
+    h2 {
+      font-size: 1.7rem;
+      margin: 0;
+      color: #464646;
+      text-align: center;
+    }
+    h3 {
+      font-size: 1.3rem;
+      font-weight: normal;
+      padding: 1rem;
+      line-height: 1.2;
+      color: #464646;
+    }
   }
-  h2 {
-    font-size: 1.7rem;
-    margin: 0;
-    color: #464646;
-    text-align: center;
-  }
-  h3 {
-    font-size: 1.3rem;
+  h5,
+  h6 {
     font-weight: normal;
-    padding: 1rem;
+    padding: 0.5rem 1rem;
     line-height: 1.2;
-    color: #464646;
   }
   p {
     color: #464646;
@@ -144,9 +148,7 @@
     margin-bottom: 8rem;
     h1,
     h2,
-    h4,
-    h5,
-    h6 {
+    h4 {
       padding: 1.5rem;
     }
     h2 {
@@ -155,6 +157,10 @@
     h3 {
       padding: 1rem;
       font-size: 1.6rem;
+    }
+    h5,
+    h6 {
+      padding: 1rem 1rem 0 1rem;
     }
     span {
       width: 100%;
