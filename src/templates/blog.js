@@ -71,7 +71,7 @@ export default function Blog(props) {
               target="_blank"
               rel="noopener nofollow noreferrer"
             >
-              Fotka: {data.frontmatter.photo_credit} / Unsplash
+              Fotka: {data.frontmatter.photo_credit}
             </a>
           </div>
         </figure>
