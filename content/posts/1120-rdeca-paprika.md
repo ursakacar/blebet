@@ -2,8 +2,8 @@
 date: 2020-11-09T22:40:32Z
 post_author: "Urša Kačar"
 post_title: "Kje lahko kupim rdečo papriko?"
-post_description: "Nisem še srečala milenijca, ki ne bi bil agent tehnične podpore svojim staršem. Prostovoljno in za skrajšan delovni čas, tako v klicnem centru kot tudi na terenu."
-post_keywords: "ursa kacar blog"
+post_description: "In midva sva kronično utrujena in znervirana že iz predkoronskih časov, zato nimava časa čakati nedoločen čas v vrsti. Suvereno sva se obrnila in odpeljala nazaj domov. Bova na spletu naročila. Mava midva to."
+post_keywords: "ursa kacar blog koronavirus korona spletno nakupovanje drugi val"
 hero_image: "/content/images/hero/rdeca-paprika.jpg"
 photo_credit: "Eric Prouzet"
 photo_credit_handle: "eprouzet"
