@@ -6,11 +6,7 @@ export default function NotFound() {
   return (
     <Layout page="404" bgColor="#9d3d85">
       <div className={notFoundStyles.notFound__container}>
-        <a
-          href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href="https://blebet.si" target="_blank" rel="noopener noreferrer">
           <h2 className={notFoundStyles.notFound__message}>
             Stran ne obstaja.
           </h2>{" "}
