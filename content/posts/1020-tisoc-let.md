@@ -3,7 +3,7 @@ date: 2020-10-26T22:40:32Z
 post_author: "Urša Kačar"
 post_title: "Čez tisoč let"
 post_description: "V globokih gubah svojega obraza bom skrivala spomine vseh festivalov elektronske glasbe, ki sem jih preplesala, krajev in celin, po katerih sem kolovratila, vsake ljubezni posebej, in tistega čudnega leta, ki sem ga preživela v Nemčiji."
-post_keywords: "nostalgija vrt 1000 tisoc ursa kacar blog"
+post_keywords: "nostalgija vrt 1000 tisoc ursa kacar ursakacar zgodba blog"
 hero_image: "/content/images/hero/1000let.jpg"
 photo_credit: "Henri Picot"
 photo_credit_handle: "henrip"

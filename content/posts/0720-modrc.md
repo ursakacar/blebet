@@ -3,7 +3,7 @@ date: 2020-07-03T22:40:32Z
 post_author: "Urša Kačar"
 post_title: "Vedno znova me nategnejo"
 post_description: "V ranljivem trenutku navdiha in želje po lepem, zapeljivem novem kosu spodnjega perila, vstopim, in k meni takoj prifrfota prodajalka, oči kot žareče oglje, za osebnost pa brbotajoč optimizem. Zanima jo, če lahko kako pomaga. Povem ji, da kupujem modrc. Polna spoštljive vljudnosti me vpraša po velikosti."
-post_keywords: "modrci nakupovanje kapitalizem razočaranje joški blog zgodba"
+post_keywords: "modrci modrc nakupovanje kapitalizem razočaranje joški blog zgodba ursa kacar ursakacar"
 hero_image: "/content/images/hero/modrc.jpg"
 photo_credit: "Pablo Heimplatz"
 photo_credit_handle: "pabloheimplatz"

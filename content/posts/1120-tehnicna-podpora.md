@@ -3,7 +3,7 @@ date: 2020-11-02T22:40:32Z
 post_author: "Urša Kačar"
 post_title: "Tehnična podpora"
 post_description: "Nisem še srečala milenijca, ki ne bi bil agent tehnične podpore svojim staršem. Prostovoljno in za skrajšan delovni čas, tako v klicnem centru kot tudi na terenu."
-post_keywords: "tehnicna podpora racunalniki ursa kacar blog"
+post_keywords: "tehnicna podpora racunalniki ursa kacar ursakacar blog"
 hero_image: "/content/images/hero/tehnicna-podpora.jpg"
 photo_credit: "Alexandre Debiève"
 photo_credit_handle: "alexkixa"

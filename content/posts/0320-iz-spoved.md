@@ -3,7 +3,7 @@ date: 2020-03-04T22:40:32Z
 post_author: "Urša Kačar"
 post_title: "((Iz)/s)poved"
 post_description: "Danes sem se odločila, da nikoli ne bom pisateljica. Pri mojih letih je itak že prepozno. "
-post_keywords: "izpoved spoved pisateljica blog zgodba"
+post_keywords: "izpoved spoved pisateljica blog zgodba ursa kacar ursakacar"
 hero_image: "/content/images/hero/izpoved.jpg"
 photo_credit: "Jessica Lewis"
 photo_credit_handle: "thepaintedsquare"

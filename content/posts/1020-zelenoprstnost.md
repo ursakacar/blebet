@@ -3,7 +3,7 @@ date: 2020-10-12T22:40:32Z
 post_author: "Urša Kačar"
 post_title: "Zelenoprstnost in zemljegrebstvo"
 post_description: "Trenutno imam v oskrbi petinštirideset rastlin. O tem, kako visoka bi bila ta številka, če bi vse preživele, raje ne bi govorila."
-post_keywords: "loncnice roze rastline zeleno kraljestvo sobne rastline blog"
+post_keywords: "ursa kacar ursakacar loncnice roze rastline zeleno kraljestvo sobne rastline blog"
 hero_image: "/content/images/hero/zelenoprstnost.jpg"
 photo_credit: "Chris Abney"
 photo_credit_handle: "chrisabney"

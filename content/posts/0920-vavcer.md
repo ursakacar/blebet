@@ -3,7 +3,7 @@ date: 2020-09-30T22:40:32Z
 post_author: "Urša Kačar"
 post_title: "Kad se seljak na vavčer pogospodi"
 post_description: "Poiščimo nekje izven mest hudo vilo, in se za podaljšan vikend pretvarjajmo, da smo bogati!"
-post_keywords: "vavcer turisticni bon vila kras blog"
+post_keywords: "vavcer turisticni bon vila kras ursakacar ursa kacar blog"
 hero_image: "/content/images/hero/vavcer.jpg"
 photo_credit: "Taylor Simpson"
 photo_credit_handle: "taylorgsimpson"
