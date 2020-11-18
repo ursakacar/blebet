@@ -1,8 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
 import headerStyles from "../styles/components/header.module.scss"
-import fbLogo from "../../public/logo-facebook.png"
-import instaLogo from "../../public/logo-instagram.png"
+import fbLogo from "../assets/logo-facebook.png"
+import instaLogo from "../assets/logo-instagram.png"
 
 export default function Header(props) {
   return (
