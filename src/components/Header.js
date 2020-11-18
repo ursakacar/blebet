@@ -1,6 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
 import headerStyles from "../styles/components/header.module.scss"
+import fbLogo from "../../public/logo-facebook.png"
+import instaLogo from "../../public/logo-instagram.png"
 
 export default function Header(props) {
   return (
@@ -67,16 +69,22 @@ export default function Header(props) {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Instič: @blebetalka
+                <img
+                  src={instaLogo}
+                  alt="insta-logo"
+                  className={headerStyles.socialIcon}
+                />
               </a>
-            </li>
-            <li>
               <a
                 href={`https://www.facebook.com/blebetalka`}
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Fejsbuk: @blebetalka
+                <img
+                  src={fbLogo}
+                  alt="facebook-logo"
+                  className={headerStyles.socialIcon}
+                />
               </a>
             </li>
             <li>

@@ -24,6 +24,13 @@
   text-align: center;
 }
 
+.socialIcon {
+  height: 3.5vh;
+  margin-right: 1rem;
+  margin-top: 1.5rem;
+  opacity: 0.7;
+}
+
 .blogname h1 {
   font-size: 3rem;
 }
@@ -62,6 +69,9 @@ h2 {
     img {
       margin-bottom: 0;
     }
+  }
+  .socialIcon {
+    height: 2.5vh;
   }
   ul {
     text-align: left;
