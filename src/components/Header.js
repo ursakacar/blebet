@@ -2,7 +2,9 @@ import React from "react"
 import { Link } from "gatsby"
 import headerStyles from "../styles/components/header.module.scss"
 import fbLogo from "../assets/logo-facebook.png"
+import fbLogoW from "../assets/logo-facebook-white.png"
 import instaLogo from "../assets/logo-instagram.png"
+import instaLogoW from "../assets/logo-instagram-white.png"
 
 export default function Header(props) {
   return (
@@ -70,7 +72,13 @@ export default function Header(props) {
                 rel="noopener noreferrer"
               >
                 <img
-                  src={instaLogo}
+                  src={
+                    props.page === "cookies" ||
+                    props.page === "info" ||
+                    props.page === "subscription"
+                      ? instaLogoW
+                      : instaLogo
+                  }
                   alt="insta-logo"
                   className={headerStyles.socialIcon}
                 />
@@ -81,9 +89,16 @@ export default function Header(props) {
                 rel="noopener noreferrer"
               >
                 <img
-                  src={fbLogo}
+                  src={
+                    props.page === "cookies" ||
+                    props.page === "info" ||
+                    props.page === "subscription"
+                      ? fbLogoW
+                      : fbLogo
+                  }
                   alt="facebook-logo"
                   className={headerStyles.socialIcon}
+                  color="red"
                 />
               </a>
             </li>
