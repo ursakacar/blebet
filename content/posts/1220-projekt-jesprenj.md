@@ -38,7 +38,7 @@ V paniki poskušam samo zmanjšati jakost indukcije, a ta je tako pregreta, da o
 
 ![](/content/images/blog/mini-kitchen2.jpg)
 
-Zaradi ugašanja štedilnika se mi jasno podre cel sistem zaporedja, ki sva ga prej tako skrbno splanirala. Tečejo mi štiri štoparice, ki odmerjajo čas kuhe, in zdaj ne vem več katera spada h kateremu kosu posode. Preveva me okus poraza in brez pravega plana in idej poskušam rešiti buhtečo zmešnjavo pred sabo, fant pa tačas končno razreže vso čebulo, solzne oči se v zmagoslavju bleščijo nad rezalno desko, ko naznani, da bo preveril stanje v zamrzovalniku.
+Zaradi ugašanja štedilnika se mi je sesul sistem zaporedja, ki sva ga prej tako skrbno splanirala. Štiri štoparice, ki odmerjajo čas kuhe, še vedno neusmiljeno tečejo, a zdaj ne vem več katera spada h kateremu kosu posode. Preveva me okus poraza in brez pravega plana in idej poskušam rešiti buhtečo zmešnjavo pred sabo, fant pa tačas končno razreže vso čebulo, solzne oči se v zmagoslavju bleščijo nad rezalno desko, ko naznani, da bo preveril stanje v zamrzovalniku.
 
 Jaz še vedno žongliram s kastrolami, štoparicami in eno delujočo indukcijsko ploščo.
 
