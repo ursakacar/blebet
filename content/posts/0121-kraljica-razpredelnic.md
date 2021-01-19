@@ -3,11 +3,11 @@ date: 2021-01-19T07:27:33Z
 post_author: "Urša Kačar"
 post_title: "Kraljica razpredelnic"
 post_description: "Danes merimo in štejemo vse. Korake, kalorije, kilograme. Ure spanca in minute globokega spanca. Prebrane knjige. Prebrane strani. Pregledane serije. Ure, ki jih presedimo pred televizijo in ure, ki jih presedimo na kolesu. Premagano višinsko razliko, prevožene kilometre. Prehojene kilometre. Povprečen srčni utrip. Beljakovine, do grama natančno. Minute švicanja, minute hranjenja, in grem stavit, da obstajajo tudi heroji, ki skrbno beležijo minute sranja. Iz navadnega nedeljskega izleta se vrnemo polni parametrov in podatkov, namesto polni vtisov. Vsak del našega življenja je kvantificiran, umerjen in primerljiv."
-post_keywords: "urša kačar blog merjenje število korakov srčni utrip"
+post_keywords: "urša kačar blog kraljica obsedenost razpredelnice merjenje število korakov srčni utrip"
 hero_image: "/content/images/hero/kraljica.jpg"
 photo_credit: "Shirly Niv Marton"
 photo_credit_handle: "sniv"
-header_background_color: "#72adab"
+header_background_color: "#be86a3"
 ---
 
 Zametki seznamarije (= izpeljanka iz besede seznam in označuje bolestno obsedenost z le temi. V Slovarju slovenskega knjižnega jezika je ne boste našli, ker sem si jo izmislila pred pol minute, op. a.) so se verjetno pojavili kmalu zatem, ko je prvi človek ugotovil, da lahko deset štrcljastih okončinih svojih rok, poleg za davljenje prehistoričnih kokoši in rezljanje sulic, uporabi tudi za kvantitativne metode. Vse od takrat človeška rasa goji priljuden odnos do številk in seznamov. S tem ne mislim dejanske matematike in nje odvodov, integralov in polinomov, ki je nihče ne mara, ampak primitivno merjenje in primerjanje sveta okoli nas, preko katerega lahko ugotovimo, ali smo boljši ali slabši od soseda. Radi zbiramo in hranimo podatke, jih lično razporejamo, računamo procente in jih pretvarjamo v grafe, ki sicer izgledajo lepše od razpredelnic, razumljivi niso pa nič bolj.
