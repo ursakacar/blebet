@@ -1,5 +1,5 @@
 ---
-date: 2021-01-24T07:27:33Z
+date: 2021-01-27T07:27:33Z
 post_author: "Urša Kačar"
 post_title: "Klorofilne kreature Spalne Loke"
 post_description: "Vsi smo že slišali nasvet, da se je treba z rastlinami pogovarjati. In ker nisem našla boljše ideje, kako pristopiti k svojim zelenim podanikom, sem jih, nerodno in z zatikajočimi besedami, le poskusila nagovoriti in jih pripraviti do dialoga. Na moje veliko presenečenje in še večje nelagodje, so mi začele odgovarjati."
