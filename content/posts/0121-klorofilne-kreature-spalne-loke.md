@@ -48,13 +48,13 @@ Naskrivaj se dobiva z Radom.
 
 **Pogosto zastavljena vprašanja in odgovori:**
 
-_Ali sta Violeta in Rosvita v sorodu?_ Ne.
+> _Ali sta Violeta in Rosvita v sorodu?_ Ne.
 
-_Ali obstaja Rosvita Prva?_ Da, je pa žal že pokojna.
+> _Ali obstaja Rosvita Prva?_ Da, je pa žal že pokojna.
 
-_Ali sta Rosvita Prva in Rosvita Druga v sorodu?_ Ne.
+> _Ali sta Rosvita Prva in Rosvita Druga v sorodu?_ Ne.
 
-_Margareta je nevoščljiva, ker se pozornost ne suče okoli nje. Imate kakšno vprašanje zanjo?_ Ne.
+> _Margareta je nevoščljiva, ker se pozornost ne suče okoli nje. Imate kakšno vprašanje zanjo?_ Ne.
 
 ![Vera](/content/images/blog/klorofilne-kreature/vera.jpg)
 
