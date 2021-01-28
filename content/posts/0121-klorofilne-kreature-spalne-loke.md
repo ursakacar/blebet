@@ -1,16 +1,16 @@
 ---
 date: 2021-01-27T07:27:33Z
-post_author: "Urša Kačar"
+gapost_author: "Urša Kačar"
 post_title: "Klorofilne kreature Spalne Loke"
 post_description: "Vsi smo že slišali nasvet, da se je treba z rastlinami pogovarjati. In ker nisem našla boljše ideje, kako pristopiti k svojim zelenim podanikom, sem jih, nerodno in z zatikajočimi besedami, le poskusila nagovoriti in jih pripraviti do dialoga. Na moje veliko presenečenje in še večje nelagodje, so mi začele odgovarjati."
 post_keywords: "urša kačar lonćnice sobne rastline rože zeleno kraljestvo blog aloe vera slonova noga vodna pahira"
 hero_image: "/content/images/hero/klorofilne-kreature/spalna-loka.jpg"
 photo_credit: "Scott Webb"
 photo_credit_handle: "scottwebb"
-header_background_color: "#6b96a9"
+header_background_color: "#6ba989"
 ---
 
-O svoji preobrazbi iz tiranske vladarice do ponižne služabnice lončnicam sem blebečila že v zapisu **<span style="color:#007fb7">[Zelenoprstnost in Zemljegrebstvo](1020-zelenoprstnost)</span>**, kjer sem tudi omenila, da je bilo podrobno spoznavanje mojih rastlin prvi in najpomembnejši ukrep zajezitve množičnega umiranja in odseljevanja. A to intenzivno proučevanje, takrat le bežno omenjeno v nekaj besedah, je bilo v resnici naporno, več dni trajajoče romanje po vseh deželah mojega zelenega kraljestva, in si zasluži svoj zapis, potopis, svoj kos zemlje na tem mojem internetnem gruntu.
+O svoji preobrazbi iz tiranske vladarice do ponižne služabnice lončnicam sem blebečila že v zapisu **<span style="color:#289a5f">[Zelenoprstnost in Zemljegrebstvo](1020-zelenoprstnost)</span>**, kjer sem tudi omenila, da je bilo podrobno spoznavanje mojih rastlin prvi in najpomembnejši ukrep zajezitve množičnega umiranja in odseljevanja. A to intenzivno proučevanje, takrat le bežno omenjeno v nekaj besedah, je bilo v resnici naporno, več dni trajajoče romanje po vseh deželah mojega zelenega kraljestva, in si zasluži svoj zapis, potopis, svoj kos zemlje na tem mojem internetnem gruntu.
 
 Moja kraljevina zelenja je razdeljena na osem glavnih pokrajin, od katerih jih je z živim šavjem okupiranih sedem. To so mirna in svetla Spalna Loka, pusta tundra Vežan, soparno tropska Svetla Kopalnuška, vedno živahen Kuhneraj, holivudska metropola Dnevnosoba, resna in uradniška Mala Pisarnija ter umetniško uporniški Sobodin. Osma regija, imenovana Temna Kopalnuška, je, kot že ime nakazuje, pod prekletstvom stalnega mrka, in se jo zato fotosintezna bitja izogibajo. Se je pa tja naselila četverica plastičnih sukulent, ki so nerodovitni pokrajini navkljub uspele postati skoraj povsem samooskrbne in od kraljevega dvora ne zahtevajo drugega, kot letno brisanje prahu iz njihovih svetlečih, umetno zelenih umetnih listov.
 
