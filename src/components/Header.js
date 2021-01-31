@@ -105,7 +105,7 @@ export default function Header(props) {
             <li>
               <a href={`mailto:ursa@blebet.si`}> {`ursa@blebet.si`}</a>
             </li>
-            <li>&copy; Urša Kačar 2021</li>
+            <li>&copy; {new Date().getFullYear()} Urša Kačar</li>
           </ul>
         </div>
       </nav>
