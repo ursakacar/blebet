@@ -12,7 +12,7 @@ header_background_color: "#3a798e"
 
 Mesto, ki nikoli ne spi, sem obiskala dvakrat.
 
-Prvič tudi jaz nisem spala, saj sem se udeležila samo dnevnega šnelkursa turistenja v lastni režiji. Ta brutalni potep bi nizkokvaliteten časopis morda naslovil z: Nepripravljena turistka v najhujši newyorški poletni vročini in novih allstarkah naredila petinštirideset tisoč korakov v šestnajstih urah, ne boste verjeli, kaj se je zgodilo potem!
+Prvič tudi jaz nisem spala, saj sem se udeležila samo dnevnega šnelkursa turistenja v lastni režiji. Ta brutalni potep bi nizkokvaliteten časopis morda naslovil z: _Nepripravljena turistka v najhujši newyorški poletni vročini in novih allstarkah naredila petinštirideset tisoč korakov v šestnajstih urah, ne boste verjeli, kaj se je zgodilo potem!_
 
 Vam kar povem, kaj se je zgodilo potem, da vas ne bo nevednost grizla- ko me je ob šestih zjutraj razmajan avtobus izpljunil v Bostonu, kjer sem stanovala, so bile moje noge tako zatečene in ožuljene, da nisem zmogla nekajminutnega sprehoda do stanovanja. Morala sem na taksi. Princesa na zrnu peska v novih allstarkah v New Yorku. Šokantno!
 
