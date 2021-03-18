@@ -38,7 +38,7 @@ Brenčeči ulični množici sem ušla na vrh razglednega stolpa Rockefellerjeveg
 
 “Ljudje tu živijo,” je bila moja edina misel. “Ljudje živijo v New Yorku.”
 
-Zares živijo. Dejansko živijo. S svojimi življenji, sanjami, navadami, rutinami in prepričanji, z družinami, prijatelji in službami. Vsak dan znova se se borijo z agresivnim, sivim mestom, si utirajo pot med množicami in pazijo, da ne oslepijo od blišča. Zakaj?
+Zares živijo. Dejansko živijo. S svojimi življenji, sanjami, navadami, rutinami in prepričanji, z družinami, prijatelji in službami. Vsak dan znova se borijo z agresivnim, sivim mestom, si utirajo pot med množicami in pazijo, da ne oslepijo od blišča. Zakaj?
 
 Če mi lahko uspe tam, mi bo uspelo kjerkoli, je prepeval Sinatra.
 
