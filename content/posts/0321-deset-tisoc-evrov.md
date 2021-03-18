@@ -1,7 +1,7 @@
 ---
 date: 2021-03-18T07:27:33Z
 gapost_author: "Urša Kačar"
-post_title: "Ne želim manifestirati desetih tisoč evrov."
+post_title: "Ne želim manifestirati desetih tisoč evrov"
 post_description: "Dokler bodo samooklicani manifestacijski guruji denar zase manifestirali s plačljivimi delavnicami o manifestaciji denarja, bom jaz še naprej manifestirala svoj denar z dobro plačano službo."
 post_keywords: "urša kačar blog manifestacija evro denar"
 hero_image: "/content/images/hero/money.jpg"
