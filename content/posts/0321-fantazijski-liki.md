@@ -51,7 +51,7 @@ In ravno danes sem to izjemno odkritje, ta čudovit recept, ki vas bo odrešil v
 - Če je moški, naj ne mara športa, a mora vseeno vedno zmagati, kadar ga v tekmovanje prisilijo
 - Iz neznanega razloga mora biti ljubljenec vseh oseb nasprotnega spola
 - Njegov videz naj se opisuje z besedami kot so: magnetične modre oči, porcelanasta polt, visoke in ostre ličnice, prodoren pogled, trmasta brada, polne in čutne ustnice, gospodovalen korak, speven glas. Če gre za moškega, je obvezna visoka postava s širokimi rameni, za ženske pa vitko telo s čvrstimi prsmi in ozkim pasom
-- Na njegovem izgledu mora nekaj izstopati, naj bo to zanimiva brazgotina, nenavadna barva oči ali las, ali pa kar naravni barvni prameni in očesi različnih barv. A pozor! Če se odločite za brazgotino, ta nikako ne sme iznakaziti junakovega izgleda, ampak ga narediti le še bolj zanimivega in nevarnega
+- Na njegovem izgledu mora nekaj izstopati, naj bo to zanimiva brazgotina, nenavadna barva oči ali las, ali pa kar naravni barvni prameni in očesi različnih barv. A pozor! Če se odločite za brazgotino, ta nikakor ne sme iznakaziti junakovega izgleda, ampak ga narediti le še bolj zanimivega in nevarnega
 - Glavne karakterne lastnosti: samostojnost, samosvojost, samozavest. Osredotočenost. Vztrajnost. Pretkanost. Pogum.
 - Sekundarne karakterne lastnosti: občasna nerodnost pri ženskah in razdražljivost pri moških, trma, občutljivost glede preteklosti, pErFekCioNizEm, nežno srce, skrito za oklepom hladnega cinizma
 - V zgodbi naj bo velikokrat omenjeno, a nikoli podkrepljeno s primeri, da je naš lik zelo kompleksen in ga nihče ne razume, čeprav ga je bralcu zelo lahko razumeti
