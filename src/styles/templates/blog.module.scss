@@ -71,6 +71,7 @@
     font-weight: normal;
     padding: 0.5rem 1rem;
     line-height: 1.2;
+    margin-bottom: 0rem;
   }
   p {
     color: #464646;
@@ -88,6 +89,7 @@
     padding-left: 1.45rem;
     font-size: 1rem;
     color: #464646;
+    text-align: left;
   }
 }
 
@@ -163,6 +165,7 @@
     h5,
     h6 {
       padding: 1rem 1rem 0 1rem;
+      margin-bottom: 1rem;
     }
     span {
       width: 100%;
