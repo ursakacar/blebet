@@ -38,4 +38,6 @@ Na koncu sem bila zaradi razmišljanja o izmišljenem denarju že tako pod stres
 
 Če pa kdo zna iz energije vesolje ustvarjati čas\*, in me lahko nauči, kako vsakemu dnevu manifestiram štiri dodatne ure, naj se mi pa le javi. Plačam.
 
+---
+
 #### \* Ne mi prodajat motivacijskih nasvetov za produktivnost. Ne rabim. Rabim dodatne ure, ne prerazporeditev trenutnih.

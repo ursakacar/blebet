@@ -45,8 +45,10 @@ In tretjič, naučila se bom kuhati terjak\*\*\*!
 
 ![](/content/images/blog/mini-planer-disorder.jpg)
 
-\*Prvega planerja, ki je hranil pripetije mojega življenja leta dvadevet, ni več med nami, ker sem ga januarja leta gospodovega dvadeset obredno zažgala. Tako to je, ko si star dvajset in ekstra dramatičen. Še danes žalujem.
+---
 
-\*\*As Aperitivo, pač ena kafana v centru, op. p.
+##### \*Prvega planerja, ki je hranil pripetije mojega življenja leta dvadevet, ni več med nami, ker sem ga januarja leta gospodovega dvadeset obredno zažgala. Tako to je, ko si star dvajset in ekstra dramatičen. Še danes žalujem.
 
-\*\*\*Ti pa nisi iz Selške doline, a? Gre za gost, črni marmeladi podoben zvarek, skuhan iz bezgovih jagod. Priprava traja več dni, pri tem pa je treba slediti nikjer zapisanemu postopku, ki se iz roda v rod prenaša preko ustnega izročila, in vključuje mnoge skrivne uroke in zareke. Terjak je nepokvarljiv in se ponaša s številnimi zdravilnimi učinki. Zmešanega z vrelo vodo se ga pije kot čaj, zato najbolj prija v času nizkih temperatur.
+##### \*\*As Aperitivo, pač ena kafana v centru, op. p.
+
+##### \*\*\*Ti pa nisi iz Selške doline, a? Gre za gost, črni marmeladi podoben zvarek, skuhan iz bezgovih jagod. Priprava traja več dni, pri tem pa je treba slediti nikjer zapisanemu postopku, ki se iz roda v rod prenaša preko ustnega izročila, in vključuje mnoge skrivne uroke in zareke. Terjak je nepokvarljiv in se ponaša s številnimi zdravilnimi učinki. Zmešanega z vrelo vodo se ga pije kot čaj, zato najbolj prija v času nizkih temperatur.

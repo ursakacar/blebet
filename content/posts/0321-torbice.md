@@ -30,4 +30,6 @@ Ta vrsta torbic je od vseh daleč najbolj uporabna, zatorej se ne gre čuditi, d
 
 Nosim samo temno modro. Vseeno razmišljam, da bi kupila še eno belo.
 
+---
+
 #### \* Brez skrbi, nihče ni ilegaliziral žepov na ženskih oblekah, čeprav se včasih počutim, kot da so res prepovedani. V resnici ne poznam zgodovine torbic in ali je povezana z odsotnostjo žepov na oblačilih pripadnic nežnejšega spola.

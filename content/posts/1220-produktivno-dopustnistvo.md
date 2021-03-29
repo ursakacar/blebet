@@ -36,4 +36,6 @@ Zakaj pa je dopust, če ne za zabušavanje. Bom nadoknadila za vikend.\*
 
 V resnici sem se imela prav fino.
 
+---
+
 #### \* Pripis: Nisem nadoknadila za vikend.

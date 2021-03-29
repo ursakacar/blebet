@@ -38,4 +38,6 @@ Dve ptici igrivo preletavata jasno modro podlago neba, po kateri se valjajo redk
 
 Se je splačalo. A bodi dovolj za dve leti.
 
+---
+
 ##### \*V naši družini je prepovedano pošiljanje generičnih “Prejmi lepe pozdrave iz morja, imamo se zelo lepo!” razglednic

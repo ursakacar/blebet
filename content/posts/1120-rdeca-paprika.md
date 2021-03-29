@@ -38,6 +38,8 @@ Tam me je pričakalo razprodano korenje. A ker so dali častno taborniško, da b
 
 **Pripis:** zalogo korenja so obnovili. Hitro sem se zagrebla za dve kili. Po oddaji naročila sva opazila, da nama zmanjkuje tudi sladkorja in čistila. Sva se odločila, da bova brez.
 
+---
+
 ##### \* Cercle so elektronski eventi na nevsakdanjih lokacijah kot so gradovi, narodni parki, na vrhu pečin, gora in znanih zgradb, pred piramidami, za piramidami, v letalih, rastlinjakih, balonih in na vodi plavajočih hišicah, pred jezeri in slapovi, mogoče tudi pod slapovi. Karte so hudo omejene, težko jih je dobiti in njih cena je začinjena.
 
 ##### \*\* V namen dramatiziranja prenapihnjenih besed prosim nikar ne jemljite kot mojo osebno gonjo proti dotičnemu trgovcu. V resnici je verjetno Spar čist fajn. Ali pa tudi ne. Ne vem. Kupujem v Hoferju.

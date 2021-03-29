@@ -56,4 +56,6 @@ Po dveh mesecih spremenjenega režima nege in posvečanja pozornosti vsaki lonč
 
 Le družinske sreče še vedno ne znam oskrbovati. Ravnokar mi je preminula že četrta.
 
+---
+
 #### \* Če mojega dolgovezenja o lončnicah še nimate dovolj, in vas utegne podrobneje zanimati, kako je potekala moja pot spoznavanja rastlinskih podanikov, ter kakšne zgodbe se skrivajo za njihovimi zelenimi listi, si preberite še zapis **<span style="color:#01ab68">[Klorofilne kreature Spalne Loke](0121-klorofilne-kreature-spalne-loke)</span>**.
