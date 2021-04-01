@@ -7,7 +7,7 @@ post_keywords: "urša kačar blog pogovori s soncem zgodba meditacija"
 hero_image: "/content/images/hero/sonce-stol.jpg"
 photo_credit: "Kenan Süleymanoğlu"
 photo_credit_handle: "sixbarrels"
-header_background_color: "#a7cae6"
+header_background_color: "#98c4ea"
 ---
 
 #### **Predgovor:** Serija utrinkov jutranjega življenja, zapisanega v dvanajstih kratkih zgodbah. Te v enomesečnih razmakih opisujejo moje nenavadno enoletno prijateljstvo, ki se je razvilo lanskega aprila.

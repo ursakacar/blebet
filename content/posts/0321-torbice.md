@@ -7,7 +7,7 @@ post_keywords: "urša kačar blog torbice ženske torbice"
 hero_image: "/content/images/hero/torbica.jpg"
 photo_credit: "Nick Noel"
 photo_credit_handle: "nickelinanoel"
-header_background_color: "#a7cae6"
+header_background_color: "#85cabc"
 ---
 
 Po mojem stanovanju se pase zaskrbljujoče število plastičnih vrečk, škatel in torbic. Očitno gojim posebno zaščitniška čustva do predmetov, v katere se lahko pospravi druge predmete.
