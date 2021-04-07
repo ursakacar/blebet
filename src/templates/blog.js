@@ -85,7 +85,7 @@ export default function Blog(props) {
         ></div>
         <div className={blogTemplateStyles.blog__footer}>
           <Link
-            to={`blog/${nextSlug}`}
+            to={`/blog/${nextSlug}`}
             className={blogTemplateStyles.blog__footernav}
           >
             <div>prejšnja</div>
@@ -97,7 +97,7 @@ export default function Blog(props) {
             prijava na nove objave
           </Link>
           <Link
-            to={`blog/${previousSlug}`}
+            to={`/blog/${previousSlug}`}
             className={blogTemplateStyles.blog__footernav}
           >
             <div>naslednja</div>
@@ -105,13 +105,13 @@ export default function Blog(props) {
         </div>
         <div className={blogTemplateStyles.blog__footermobile}>
           <Link
-            to={`blog/${nextSlug}`}
+            to={`/blog/${nextSlug}`}
             className={blogTemplateStyles.blog__footermobilenext}
           >
             <div>&#8672;</div>
           </Link>
           <Link
-            to={`blog/${previousSlug}`}
+            to={`/blog/${previousSlug}`}
             className={blogTemplateStyles.blog__footermobileprev}
           >
             <div>&#8674;</div>
