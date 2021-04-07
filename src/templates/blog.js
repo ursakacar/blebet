@@ -40,6 +40,9 @@ export default function Blog(props) {
   }
 
   useEffect(() => {
+    if (window.location.href.includes("#")) {
+      return
+    }
     setTimeout(() => {
       articleRef.current.scrollIntoView(true)
     }, 10)
