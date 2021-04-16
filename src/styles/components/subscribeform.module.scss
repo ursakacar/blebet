@@ -5,10 +5,10 @@
 }
 
 .subscribeButton {
-  background-color: #9d3d85;
+  background-color: #B22C95;
   color: #ebebeb;
   border: 2px solid;
-  border-color: #9d3d85;
+  border-color: #B22C95;
   font-weight: bold;
   border-radius: 5px;
   width: 120px;
@@ -20,8 +20,8 @@
 
   &:hover {
     cursor: pointer;
-    background: darken(#9d3d85, 10%);
-    border-color: darken(#9d3d85, 10%);
+    background: darken(#B22C95, 10%);
+    border-color: darken(#B22C95, 10%);
   }
 }
 
