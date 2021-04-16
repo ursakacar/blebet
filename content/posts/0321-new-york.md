@@ -24,7 +24,7 @@ New York je akcija, je blišč, je dogajanje, je neprestano hitenje čez drn in 
 
 Zaklela sem se, da se v New York moram vrniti. To je to, to je pravo mesto!, sem si govorila. V glavi sem si že vrtela scene, kako se preselim na Manhattan in vsako jutro s kavo v roki strumno koračim po pravilno pravokotnih ulicah, povsem imuna na mogočnost visokih stavb, ki bi se kot neizprosni stražarji v betonskih uniformah vse okoli mene dvigale v nebo. Živo sem si predstavljala živahno življenje, sestoječe iz mjuziklov, pice in previsokih napitnin. To bi bilo to, to bi bil lajf!, sem si govorila.
 
-![NYC](/content/images/blog/nyc.jpg)
+![NYC](/content/images/blog/mini-nyc.jpg)
 
 Drugič sem tam preživela cel teden, kar še vedno niti slučajno ni dovolj časa za ustvarjanje realnega vtisa o življenju v kateremkoli mestu, a že teh nekaj dni je moje slavospeve Velikemu jabolku prepisalo v črvive žalostinke. Uspelo mi je pokukati v njegovo zaodrje in z razočaranjem sem uvidela, da je bleščeča fasada samo kulisa. Ne znam s prstom pokazati kaj točno me je razočaralo, ker v resnici ni šlo za eno stvar, niti za posamezne stvari, ampak za celoto.
 
