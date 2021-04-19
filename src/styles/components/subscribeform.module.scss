@@ -1,7 +1,21 @@
-.subscribeForm {
+.subscribeSuccess, .subscribeFail, .subscribeForm {
   display: flex;
   width: 100%;
-  margin-top: 4rem;
+}
+
+.subscribeFail, .subscribeSuccess {
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-align: justify;
+  visibility: hidden;
+}
+.subscribeFail {
+  color: #f7674e;
+}
+
+.subscribeSuccess {
+  margin: 1rem 0 1rem 0;
+  color: #85cabc;
 }
 
 .subscribeButton {
@@ -37,6 +51,22 @@
 .subscribeLabel {
   flex-grow: 1;
   margin-right: 10px;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.visible {
+  visibility: visible;
+}
+
+.subscribeInputSuccessBorder {
+  border: 10px solid #85cabc
+}
+
+.subscribeInputFailBorder {
+  border: 10px solid #f7674e
 }
 
 @media (min-width: 768px) {

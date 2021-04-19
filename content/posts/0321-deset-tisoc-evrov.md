@@ -7,7 +7,7 @@ post_keywords: "urša kačar blog manifestacija evro denar"
 hero_image: "/content/images/hero/money.jpg"
 photo_credit: "Piotr Łaskawski"
 photo_credit_handle: "tot87"
-header_background_color: "#a23835"
+header_background_color: "#dc6b67"
 ---
 
 Zadnjič, včeraj, prejšnji teden, saj ni važno kdaj točno, me je med brezciljnim in cikličnim pregledovanjem socialnih omrežij targetiral oglas za delavnico manifestiranja denarja. Prvič, drugič in tretjič sem ga ignorirala, skupaj z ostalimi reklamami, a mi je na neki točki zmanjkalo ostale vsebine, in lotila sem se branja sponzoriranih objav. V množici nasmejanih belk v poznih dvajsetih in zgodnjih tridesetih, ki prodajajo vse od pižamic, pajkic, kremic, sesalcev in angelskih sporočil, mi je le najbolj padla v oči najava, ki je obljubljala finančno blagostanje.
