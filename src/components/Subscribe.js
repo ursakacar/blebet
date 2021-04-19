@@ -2,7 +2,8 @@ import React from "react"
 import addToMailchimp from "gatsby-plugin-mailchimp"
 import subscribeFormStyles from "../styles/components/subscribeform.module.scss"
 
-const isError = true
+const isSubscribeError = false
+const isSubscribeSuccess = false
 
 export default class Subscribe extends React.Component {
   constructor() {
@@ -16,10 +17,13 @@ export default class Subscribe extends React.Component {
     const result = await addToMailchimp(this.state.email)
     debugger
     if (result.result === "error") {
-      isError = true
+      isSubscribeError = true
+      isSubscribeSuccess = false
       // hide success, show error, remove border, add border
       alert(`Opala, na obveščanje si že prijavljen! Ali pa je prišlo do neke druge napake. Daj mi pošlji mail, pa bova zrihtala.`)
     } else {
+      isSubscribeSuccess = true
+      isSubscribeError = false
       // hide error, show success, remove border, add border
       alert(`Prijava zabeležena! Preverite svoj email`)
     }
@@ -33,8 +37,7 @@ export default class Subscribe extends React.Component {
   render() {
     return (
       <div>
-        {/* <div id="subscribeSuccess" className={subscribeFormStyles.subscribeSuccess}>Prijava zabeležena, jo bo pa treba še potrditi preko emaila. Preveri svoj e-poštni predal za potrditveno sporočilo.</div> */}
-        <div id="subscribeSuccess" className={isError ? 'hidden' : 'visible'}>Prijava zabeležena, jo bo pa treba še potrditi preko emaila. Preveri svoj e-poštni predal za potrditveno sporočilo.</div>
+        <div id="subscribeSuccess" className={isSubscribeSuccess ? subscribeFormStyles.subscribeSuccess : subscribeFormStyles.hidden}>Prijava zabeležena, jo bo pa treba še potrditi preko emaila. Preveri svoj e-poštni predal za potrditveno sporočilo.</div>
         <form onSubmit={this.handleSubmit} className={subscribeFormStyles.subscribeForm}>
           <label className={subscribeFormStyles.subscribeLabel}>
             <input
@@ -51,7 +54,7 @@ export default class Subscribe extends React.Component {
             Prijava
           </button>
         </form>
-        <div id="subscribeFail" className={subscribeFormStyles.subscribeFail}>Opala, na obveščanje si že prijavljen! Ali pa je prišlo do neke druge napake. Daj mi pošlji mail na ursa@blebet.si, pa bova zrihtala.</div>
+        <div id="subscribeFail"  className={isSubscribeError ? subscribeFormStyles.subscribeFail : subscribeFormStyles.hidden}>Opala, na obveščanje si že prijavljen! Ali pa je prišlo do neke druge napake. Daj mi pošlji mail na ursa@blebet.si, pa bova zrihtala.</div>
       </div>
     )
   }
