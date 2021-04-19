@@ -101,7 +101,12 @@ module.exports = {
         plugins: [
           "gatsby-remark-relative-images",
           "gatsby-remark-normalize-paths",
-          "gatsby-remark-autolink-headers",
+          {
+            resolve: "gatsby-remark-autolink-headers",
+            options: {
+              icon: false,
+            },
+          },
           {
             resolve: "gatsby-remark-images",
             options: {
