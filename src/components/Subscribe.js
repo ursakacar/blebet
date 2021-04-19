@@ -20,12 +20,12 @@ export default class Subscribe extends React.Component {
       isSubscribeError = true
       isSubscribeSuccess = false
       // hide success, show error, remove border, add border
-      alert(`Opala, na obveščanje si že prijavljen! Ali pa je prišlo do neke druge napake. Daj mi pošlji mail, pa bova zrihtala.`)
+      // alert(`Opala, na obveščanje si že prijavljen! Ali pa je prišlo do neke druge napake. Daj mi pošlji mail, pa bova zrihtala.`)
     } else {
       isSubscribeSuccess = true
       isSubscribeError = false
       // hide error, show success, remove border, add border
-      alert(`Prijava zabeležena! Preverite svoj email`)
+      // alert(`Prijava zabeležena! Preverite svoj email`)
     }
     this.setState({ result: result })
   }
