@@ -9,7 +9,7 @@ export default function Layout(props) {
   return (
     <section
       className={`${layoutStyles.layout} ${(props.page === "info" ||
-        props.page === "subscription" ||
+        props.page === "subscribe" ||
         props.page === "cookies" ||
         props.page === "404") &&
         layoutStyles.sub_page}`}

@@ -11,7 +11,7 @@ export default function Header(props) {
     <header
       style={{ backgroundColor: props.bgColorHeader }}
       className={`${headerStyles.header} ${(props.page === "info" ||
-        props.page === "subscription" ||
+        props.page === "subscribe" ||
         props.page === "cookies") &&
         headerStyles.sub_page}`}
     >
@@ -37,10 +37,10 @@ export default function Header(props) {
           <div>
             <h2>
               <Link
-                to={props.page === "subscription" ? "/" : "/subscription"}
+                to={props.page === "subscribe" ? "/" : "/subscribe"}
                 activeClassName={headerStyles.navItemActive}
               >
-                {props.page === "subscription"
+                {props.page === "subscribe"
                   ? "Daj mi mail."
                   : "Nove objave?"}
               </Link>
@@ -75,7 +75,7 @@ export default function Header(props) {
                   src={
                     props.page === "cookies" ||
                     props.page === "info" ||
-                    props.page === "subscription"
+                    props.page === "subscribe"
                       ? instaLogoW
                       : instaLogo
                   }
@@ -92,7 +92,7 @@ export default function Header(props) {
                   src={
                     props.page === "cookies" ||
                     props.page === "info" ||
-                    props.page === "subscription"
+                    props.page === "subscribe"
                       ? fbLogoW
                       : fbLogo
                   }

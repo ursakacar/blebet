@@ -1,6 +1,6 @@
 const config = require("./config.json")
 const infoData = require("./content/data/info.json")
-const subscriptionData = require("./content/data/subscription.json")
+const subscriptionData = require("./content/data/subscribe.json")
 const cookiesData = require("./content/data/cookies.json")
 
 require("dotenv").config({

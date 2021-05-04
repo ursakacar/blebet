@@ -61,7 +61,7 @@ export default function Blog(props) {
       </Helmet>
       <article className={blogTemplateStyles.blog} ref={articleRef}>
         <figure className={blogTemplateStyles.blog__hero}>
-          <Link to="/subscription">
+          <Link to="/subscribe">
             <Img
               fluid={data.frontmatter.hero_image.childImageSharp.fluid}
               alt={data.frontmatter.post_title}
@@ -94,7 +94,7 @@ export default function Blog(props) {
             <div>prejšnja</div>
           </Link>
           <Link
-            to="/subscription"
+            to="/subscribe"
             className={blogTemplateStyles.blog__footersubscribe}
           >
             prijava na nove objave
