@@ -18,6 +18,7 @@ export default function Cookies() {
       <Helmet>
         <title>Ni piškotkov.</title>
         <meta property="og:image" content="https://www.blebet.si/blebet-cookies.jpg" />
+        <meta property="og:image:secure_url" content="https://www.blebet.si/blebet-cookies.jpg" />
         <meta property="og:description" content="Spletišče Blebet ne uporablja piškotkov." />
         <meta name="description" content="Spletišče Blebet ne uporablja piškotkov." />
       </Helmet>

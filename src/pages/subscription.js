@@ -18,6 +18,7 @@ export default function Subscription() {
       <Helmet>
         <title>Prijava na nove objave</title>
         <meta property="og:image" content="https://www.blebet.si/blebet-subscribe2.jpg" />
+        <meta property="og:image:secure_url" content="https://www.blebet.si/blebet-subscribe2.jpg" />
         <meta property="og:description" content="Zaupajte mi svoj elektronski naslov in postanite prvi obveščenec, ko se na Blebetu manifestira frišna objava." />
         <meta name="description" content="Zaupajte mi svoj elektronski naslov in postanite prvi obveščenec, ko se na Blebetu manifestira frišna objava." />
       </Helmet>

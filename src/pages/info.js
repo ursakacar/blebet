@@ -16,6 +16,7 @@ export default function Info() {
       <Helmet>
         <title>O meni. Mogoče.</title>
         <meta property="og:image" content="https://www.blebet.si/blebet-info.jpg" />
+        <meta property="og:image:secure_url" content="https://www.blebet.si/blebet-info.jpg" />
         <meta property="og:description" content="Kdo in zakaj je Blebetalka?" />
         <meta name="description" content="Kdo in zakaj je Blebetalka?" />
       </Helmet>
