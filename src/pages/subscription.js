@@ -4,7 +4,6 @@ import Helmet from "react-helmet"
 import subscriptionStyles from "../styles/pages/subpage.module.scss"
 import useSiteMetaData from "../static_queries/useSiteMetadata"
 import Subscribe from '../components/Subscribe'
-import subscribeImage from "../assets/blebet-subscribe2.jpg"
 
 export default function Subscription() {
   const { subscriptionData } = useSiteMetaData()
@@ -18,7 +17,7 @@ export default function Subscription() {
       </section>
       <Helmet>
         <title>Prijava na nove objave</title>
-        <meta property="og:image" content={subscribeImage} />
+        <meta property="og:image" content="https://www.blebet.si/blebet-subscribe2.jpg" />
         <meta property="og:description" content="Zaupajte mi svoj elektronski naslov in postanite prvi obveščenec, ko se na Blebetu manifestira frišna objava." />
         <meta name="description" content="Zaupajte mi svoj elektronski naslov in postanite prvi obveščenec, ko se na Blebetu manifestira frišna objava." />
       </Helmet>
