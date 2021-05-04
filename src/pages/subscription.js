@@ -3,6 +3,8 @@ import Layout from "../components/Layout"
 import subscriptionStyles from "../styles/pages/subpage.module.scss"
 import useSiteMetaData from "../static_queries/useSiteMetadata"
 import Subscribe from '../components/Subscribe'
+import subscribeImage from "../assets/blebet-subscribe2.jpg"
+
 
 export default function Subscription() {
   const { subscriptionData } = useSiteMetaData()
@@ -14,6 +16,11 @@ export default function Subscription() {
         </h2>
         <Subscribe />
       </section>
+      <img
+        src={subscribeImage}
+        alt="blebet-subscribe-image"
+        className={subscriptionStyles.thumb_image}
+      />
     </Layout>
   )
 }
