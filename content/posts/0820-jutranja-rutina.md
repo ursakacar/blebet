@@ -3,7 +3,7 @@ date: 2020-08-11T22:40:32Z
 post_author: "Urša Kačar"
 post_title: "Jutranja rutina"
 post_description: "Zjutraj vstanem ob pol šestih. No, takrat prvič zvoni budilka. Po dvojnem dremežu se mi iz postelje uspe zvaliti nekje okoli šeste ure, plus minus deset minut."
-post_keywords: "jutranja rutina uspeh samodisciplina vztrajnost volja predanost joga tek meditacija botoks blog ursa kacar ursakacar"
+post_keywords: "jutranja rutina uspeh samodisciplina vztrajnost volja predanost joga tek meditacija blog ursa kacar ursakacar"
 hero_image: "/content/images/hero/jutranja.jpg"
 photo_credit: "Ramiz Dedaković"
 photo_credit_handle: "ramche"
