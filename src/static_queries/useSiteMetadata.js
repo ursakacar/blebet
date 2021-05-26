@@ -19,7 +19,7 @@ export default function useSiteMetadata() {
             description
             background_color
           }
-          cookiesData {
+          privacyData {
             description
             background_color
           }

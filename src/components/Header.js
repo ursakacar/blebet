@@ -12,7 +12,7 @@ export default function Header(props) {
       style={{ backgroundColor: props.bgColorHeader }}
       className={`${headerStyles.header} ${(props.page === "info" ||
         props.page === "subscribe" ||
-        props.page === "cookies") &&
+        props.page === "privacy") &&
         headerStyles.sub_page}`}
     >
       <nav
@@ -49,10 +49,10 @@ export default function Header(props) {
           <div>
             <h2>
               <Link
-                to={props.page === "cookies" ? "/" : "/cookies"}
+                to={props.page === "privacy" ? "/" : "/privacy"}
                 activeClassName={headerStyles.navItemActive}
               >
-                {props.page === "cookies" ? "Ni piškotkov." : "Piškotki?"}
+                {props.page === "privacy" ? "Ni piškotkov." : "Piškotki?"}
               </Link>
             </h2>
           </div>
@@ -73,7 +73,7 @@ export default function Header(props) {
               >
                 <img
                   src={
-                    props.page === "cookies" ||
+                    props.page === "privacy" ||
                     props.page === "info" ||
                     props.page === "subscribe"
                       ? instaLogoW
@@ -90,7 +90,7 @@ export default function Header(props) {
               >
                 <img
                   src={
-                    props.page === "cookies" ||
+                    props.page === "privacy" ||
                     props.page === "info" ||
                     props.page === "subscribe"
                       ? fbLogoW

@@ -1,7 +1,7 @@
 const config = require("./config.json")
 const infoData = require("./content/data/info.json")
 const subscriptionData = require("./content/data/subscribe.json")
-const cookiesData = require("./content/data/cookies.json")
+const privacyData = require("./content/data/privacy.json")
 
 require("dotenv").config({
   path: `.env.${process.env.NODE_ENV}`,
@@ -29,7 +29,7 @@ module.exports = {
     primaryColor: config.primary_color,
     infoData: infoData,
     subscriptionData: subscriptionData,
-    cookiesData: cookiesData,
+    privacyData: privacyData,
   },
   plugins: [
     "gatsby-plugin-sass",
