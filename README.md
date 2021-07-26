@@ -8,9 +8,11 @@ Built with [Gatsby](https://www.gatsbyjs.org/) & [Brevifolia](https://www.gatsby
 
 #### Release checklist for my own personal sanity
 
-- push to production (don't forget to optimise hero img & doublecheck post metadata)
-- schedule medium
+- push to production (don't forget to optimise & resize hero img, change header color & doublecheck post metadata)
 - send mailchimp
 - schedule insta post
 - schedule facebook post
-- set reminders: insta story, FB story + share to private
+- schedule medium
+- set reminders: insta story, FB story, share to private
+- copy text over to 'done' doc
+- change link in instagram profile
