@@ -7,7 +7,7 @@ post_keywords: "urša kačar covid kovid pandemija maska tretji val"
 hero_image: "/content/images/hero/crna-maska.jpg"
 photo_credit: "KMA"
 photo_credit_handle: "kmaimg"
-header_background_color: "#6ba989"
+header_background_color: "#b3bcd3"
 ---
 
 Virusna norija izgleda kot da se le počasi umirja, že nekaj časa nam je ponovno dovoljeno postopanje tudi okoli sosedove hiše, počitnikovanje v katerikoli občini, še na morje na Hrvaško se lahko odpravimo brez večjih zapletov. Ljubljena Ljubljana se počasi polni, slišati je vrišč in smeh in klepet, mize ob Ljubljanici so zasedene, po ulicah se valijo skupine najstnikov v grdih supergah in na vogalu se hitro spotakneš ob vidno očaranega turista. Srce mi vzhičeno vzklika vsakič, ko prešvicana in s soncem obsijana postopam po Čopovi ter se izmikam kolesarjem in sončnim žarkom. Skoraj je že zbledel srhljiv spomin na povsem prazne in tihe ulice sicer tako živahnega mesta, po katerih sem nekajkrat ilegalno stopala kmalu po začetku prvega vala.

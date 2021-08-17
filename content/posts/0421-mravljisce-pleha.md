@@ -5,8 +5,8 @@ post_title: "Mravljišče pleha"
 post_description: "Obdaja me mravljišče pleha. Povsod so avtomobili. Nešteto jih je, drenjajo se ob strani vsake tlakovane uličice, med bloki, pred bloki, ob blokih, obkrožajo kante za smeti, zasedajo pločnike, se tlačijo v grmovje, zmanevrirani so v vsak kot, ob vsako potko, pred vsako klopco in nabasani pred vsak vhod. "
 post_keywords: "urša kačar blog zgodba fićo fiat 500 avtomobili pleh"
 hero_image: "/content/images/hero/mravljisce-pleha.jpg"
-photo_credit: "Juan Zunino"
-photo_credit_handle: "juanzunino"
+photo_credit: "Robin Ooode"
+photo_credit_handle: "robinoode"
 header_background_color: "#7babd4"
 ---
 
