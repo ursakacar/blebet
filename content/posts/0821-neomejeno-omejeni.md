@@ -7,7 +7,7 @@ post_keywords: "urša kačar internet pivo omejeni delo od doma delo na daljavo"
 hero_image: "/content/images/hero/neomejeno-omejeni.jpg"
 photo_credit: "Barbara Zandoval"
 photo_credit_handle: "barbarazandoval"
-header_background_color: "#6ba989"
+header_background_color: "#e6aca1"
 ---
 
 Normalizacija dela od doma je meni najljubša stvar, ki jo je, poleg gore sranja, prinesla pandemija. Folk, ki svoj cel delovnik preždi pred računalnikom, lahko to menda počne tudi v udobju lastnega stanovanja, ter se s tem izogne pisarniški politiki ter gužvanju v prometni konici.
