@@ -22,7 +22,7 @@ Ob koncu dneva pa se pred spanjem pocrkljam še z glukozaminom in MSM.
 
 Začela sem z omega 3. Enkrat sem pač na internetu prebrala, kako zdrave so te maščobe, in da se jih priporoča vsem, ki ne jejo veliko rib. Glede na to, da je moja konzumacija te veje živalskega kraljestva omejena na Delamaris konzervo skuš vsak tretji četrtek, sem si, odrasla in skrbeča za svoje zdravje, nabavila kapsule omega 3.
 
-Ko le vsaj na tisti točki zaključila z internetno raziskavo! Ampak ne, jaz sem nadaljevala, brskala in prebirala, ter končno naletela na mnogo člankov, ki so promovirali jemanje multivitamina. Kao da dnevno ne zaužijemo dovolj sadja in zelenjave. Pa sem kupila še multivitamine- so cenejši od sadja in zelenjave.
+Ko bi le vsaj na tisti točki zaključila z internetno raziskavo! Ampak ne, jaz sem nadaljevala, brskala in prebirala, ter končno naletela na mnogo člankov, ki so promovirali jemanje multivitamina. Kao da dnevno ne zaužijemo dovolj sadja in zelenjave. Pa sem kupila še multivitamine- so cenejši od sadja in zelenjave.
 
 D3 je tudi baje fajn, če nisi ravno vsak dan na soncu. No, jaz nisem. Prvič, ker itak delam cel dan, drugič, ker sonce povzroča gube! Tega sem se naučila na samovodenem internetnem izobraževanje, na koncu katerega so mi prodali pet različnih serumov, a o tem malo kasneje. Da se vrnemo k učinkom vitamina D3, njegovo pomanjkanje naj bi povzročalo tudi malodušje in blago depresijo, kar je pri meni pogosto, in tako sem začela jemati še D3. Sicer ne malodušja ne žalosti ni odpravil, jemljem ga pa še vedno. Za vsak slučaj. Mogoče bi bilo brez njega še slabše. In mogoče bi prej odpravila melanholijo, če bi manj delala in bila več na soncu.
 
