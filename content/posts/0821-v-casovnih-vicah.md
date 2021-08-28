@@ -18,7 +18,7 @@ Oziroma ne, da ne obstaja, samo izgubi svoj pomen.
 
 Jaz temu pravim časovne vice. Časovna vica? Sklanjatve mi ne grejo. Študirala sem naravoslovje. Izgovori, izgovori.
 
-V časovnih vicah se znajdem, kadar potujem sama- na letališčih ali v hotelih, kjer prespim noč ali dve, čakajoč na naslednji let. Ker zadnje tri leta precej potujem službeno, so ti pojavi izkrivljenega prostora in časa dokaj pogosti.
+V časovnih vicah se znajdem, kadar potujem sama- na letališčih ali v hotelih, kjer prespim noč ali dve, čakajoča na naslednji let. Ker zadnje tri leta precej potujem službeno, so ti pojavi izkrivljenega prostora in časa dokaj pogosti.
 
 Kraji, kjer je čas samo motna ideja nečesa.
 
