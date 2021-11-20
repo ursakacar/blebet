@@ -1,5 +1,5 @@
 ---
-date: 2021-11-20T07:27:33Z
+date: 2021-11-11T07:27:33Z
 gapost_author: "Urša Kačar"
 post_title: "Prekletstvo ustvarjalnih ciklov"
 post_description: "Najbolj mirna sem, ko sem sama. Ko ne spremljam novic in nisem na tekočem ne s stanjem v državi ne z najnovejšimi žaljivkami iz taborov cepilcev in proticepilcev. Ko ne spremljam socialnih medijev in nimam pojma s katerimi kolagenskimi dodatki se trenutno pitajo influencerke. Ko nisem stalno v kontaktu s petimi ljudmi naenkrat in ko včasih za več dni ugasnem telefon."
