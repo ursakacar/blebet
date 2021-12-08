@@ -2,7 +2,7 @@
 date: 2021-12-08T07:27:33Z
 gapost_author: "Urša Kačar"
 post_title: "Prvi šotor ob cesti"
-post_description: "TBD"
+post_description: "To ni zgodba, ki jo je kdorkoli želel, in tudi ni zgodba, ki bi si jo kdorkoli zaslužil. Pa sem jo vseeno napisala. Je resnična pripoved o šotoru in tudi moja prva kratka zgodba."
 post_keywords: "urša kačar blebet kratka zgodba šotor festival"
 hero_image: "/content/images/hero/prvi-sotor-ob-cesti.jpg"
 photo_credit: "Katsu Utaharu"
