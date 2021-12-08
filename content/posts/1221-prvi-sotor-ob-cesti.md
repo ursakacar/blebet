@@ -97,7 +97,7 @@ Ravno je preverjal zadnji par klinov, ko ga je ogovoril šotor nasproti: »Ti si
 Ni bilo vprašanje. Bila je trditev. Pokimal je v odgovor.\
 »Živijo, jaz sem Vijola.«\
 Vijola je bila lepa. Nova. Manjša, a zelo elegantna. V svetlovijoličastem odtenku se je popolno napeta zamolklo lesketala pod umirajočimi žarki sonca in govorila počasi, ležerno, kot nekdo, ki se še predobro zaveda svojega visokega statusa.\
-»In to je Šotor ob vinogradu,« je pomignila proti svetlosivemu šotoru na svoji desni, prav tako modernega dizajna, napetih vrvic in bleščečih klinov. »In tam so še Šotor na klancu, Drugi šotor ob cesti, Mali zeleni šotor, Veliki zeleni šotor in Bine.«\
+»In to je Šotor ob vinogradu,« je pomignila proti svetlosivemu šotoru na svoji desni, prav tako modernega dizajna, napetih vrvic in bleščečih klinov. »In tam so še Šotor na klancu, Drugi šotor ob cesti, Mali zeleni šotor, Veliki zeleni šotor in Bine.«
 
 Prvi šotor ob cesti je komaj opazno pokimal v odgovor in sramežljivo povesil pogled. Bilo mu je hudo neprijetno. Vsi šotori, ki so ga obkrožali, so bili imenitnejši. Novejši. Modernejši. Dražji. Lepši. Mlajši. Čeprav je bil daleč največji od vseh, saj je imel edini več kot eno spalnico, se je v eminentni družbi počutil majhnega. Zavedal se je svojih skrivljenih in zarjavelih klinov pa plesnive ponjave in zaplate zasušenega blata pod levo spalnico. Trudil se je potlačiti občutke manjvrednosti in živčno je razmišljal, kaj naj odgovori Vijoli, da se bosta zapletla v pogovor, a se je Šotor ob vinogradu odločil, da mu da jasno vedeti, kje je njegovo mesto.
 
@@ -109,7 +109,7 @@ Prvi šotor ob cesti je komaj opazno pokimal v odgovor in sramežljivo povesil p
 »Zakaj ga ti napadaš?«\
 »Ker lahko!«\
 »Ti sploh ne veš, kaj je Jugoslavija,« se je z zamudo razpravi pridružil še Veliki zeleni šotor in Mali zeleni šotor, ki je bil postavljen tik zraven, je v odobravanju besed večjega prijatelja navdušeno pisknil.\
-»A boš rekel, da sem neizobražen?« se je razjezil Šotor ob vinogradu. »Daj, kar vprašaj me kaj o Jugoslaviji! Karkoli! No, daj, vprašaj!«
+»A boš rekel, da sem neizobražen?« se je razjezil Šotor ob vinogradu. »Daj, kar vprašaj me kaj o Jugoslaviji! Karkoli! No, daj, vprašaj!«\
 »Pustite Jugoslavijo, karkoli to že je, a ste videli, da Prvi šotor ob cesti sploh ni do konca postavljen?« je zdaj zavpil Šotor na klancu in Prvi šotor ob cesti je oblil mrzel srh. Počutil se je, kot bi ga nekdo na pretesno povezal z debelo vrvjo, zašibili so se mu sprednji klini in prevzela ga je panika. Šotor na klancu je bil postavljen ravno pod pravim kotom, da je še lahko videl del mlahave ponjave, kjer bi morala stati tretja spalnica.
 
 Med šotori se je razlegel posmehljiv vrišč. Na vse pretege so napenjali ponjave in palice in se iztegovali, da bi ugledali to sramoto, a na njihovo razočaranje nihče drug, razen Šotora na klancu, ni videl zadnjega dela Prvega šotora ob cesti. Kar pa jih ni ustavilo pred obmetavanjem z vsemi možnimi zbadljivkami in žaljivkami. Najglasneje od vseh se je krohotal Šotor ob vinogradu, vesel, da je bila tema o Jugoslaviji opuščena, Mali zeleni šotor pa se je od hihitanja tako tresel, da se mu je skoraj iztaknil klin. Samo Vijola se ni smejala.
@@ -121,24 +121,24 @@ Med šotori se je razlegel posmehljiv vrišč. Na vse pretege so napenjali ponja
 »O, glejte, spregovoril je! Tišina, vsi zbrani, poslušajmo, kaj ima starec povedati!«\
 »... v nasprotju s tabo, glede na to, kako se ti plahta sveti, bi rekel, da še nikoli prej nisi bil postavljen. Te je že kdaj dobro napral dež ali si uletel direkt iz izložbe?«
 
-Med šotori, ki so utišali svoje žaljivke, da so lahko slišali besede Prvega šotora ob cesti, se je zdaj razlegel pritajen hehet. V resnici jim je bilo čisto vseeno, koga obrekujejo, samo da se nekaj dogaja. Njihova življenja so bila omejena na tisti teden ali dva poletnega kampiranja, zato so kot harpije zgrabili vsako priložnost razpihovanja drame.
+Med šotori, ki so utišali svoje žaljivke, da so lahko slišali prve besede Prvega šotora ob cesti, se je zdaj razlegel pritajen hehet. V resnici jim je bilo čisto vseeno, koga obrekujejo, samo da se nekaj dogaja. Njihova življenja so bila omejena na tisti teden ali dva poletnega kampiranja, zato so kot harpije zgrabili vsako priložnost razpihovanja drame.
 
 »Ni prvič, včeraj so me postavili na vrtu!« se je prehitro hitel braniti Šotor ob vinogradu in med šotori je ponovno zavreščalo.\
 »Na vrtu! Pred hišo! Kakšna hrabrost, res!«\
 »Testno postavljanje ne šteje! To pa ja ve vsak šotor!«\
 »Mene bi bilo sram!«\
-vinogradu še nikoli ni bil umazan!«\
+»Šotor pri vinogradu še nikoli ni bil umazan!«\
 »Šotor pri vinogradu še nikoli ni občutil dežja!«
 
 Samo Vijola se ni smejala.
 
 »Brezzvezni ste, res,« je s kraljevsko vzvišenostjo zavihala nos. »Kamorkoli grem, se razvije neki prepir. A se res ne moremo normalno pogovarjati.«\
 »In o čem bi se gospoda pogovarjala?« si jo je Drugi šotor ob cesti drznil vprašati z izrazitim posmehom v glasu in Vijola ga je prebodla s takim prezirom, da so mu od ponižanja vzdrgetale palice.\
-»Lahko bi recimo debatirali o šotorskih navadah ljudi iz različnih generacij. Ali pa razpravljali o prednostih in slabostih samopostavitvenih tehnik. Rada bi slišala tudi mnenja drugih o načinih priprave ponjave na prezimovanje. Organizirali bi lahko odprt forum …«\
+»Lahko bi recimo debatirali o šotorskih navadah ljudi iz različnih generacij. Ali pa razpravljali o prednostih in slabostih samopostavitvenih tehnik. Rada bi slišala tudi mnenja drugih o načinih priprave ponjave na prezimovanje. Organizirali bi lahko odprt forum …«
 
 Utihnila je sredi stavka. Drugi šotori so radovedno zrli vanjo, nato pa v odgovor njeni nenadni tišini začutili, kako so jim po ponjavah spolzele prve mehke kaplje dežja. Če šotori med dežjem govorijo, se jim namreč premoči plahta, zato je špetir šotorov v hipu utihnil in zamenjali so ga mehko prasketanje dežnih kapljic, piš in grom bližajoče se nevihte ter oddaljeni, težki basi elektronske glasbe.
 
---
+---
 
 ## Noč
 
@@ -301,8 +301,10 @@ Poškilil je navzgor in nad sabo zagledal dva para nog v širokih pisanih hlača
 »A pa je še cel?«\
 »Zjutraj je še stal.«\
 »A ga lahko vzameva?«\
-»Itak.«\
-Neznane roke so iz tal previdno populile kline ter začele skrbno zlagati premočeno ponjavo in podrte palice. Šotor je bil zmeden. Kaj se dogaja? Zakaj ga ne pustijo tu, da se utopi v svojem porazu? Kaj bodo naredili z njim?\
+»Itak.«
+
+Neznane roke so iz tal previdno populile kline ter začele skrbno zlagati premočeno ponjavo in podrte palice. Šotor je bil zmeden. Kaj se dogaja? Zakaj ga ne pustijo tu, da se utopi v svojem porazu? Kaj bodo naredili z njim?
+
 »Glej, še torbo so pustili.«\
 »O, super, dajva ga kar noter, bo zasedel manj placa.«\
 »Ampak moker je, da ne bo splesnel?«\
