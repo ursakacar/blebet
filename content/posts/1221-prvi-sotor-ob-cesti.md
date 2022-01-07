@@ -10,7 +10,7 @@ photo_credit_handle: "terrell032"
 header_background_color: "#d39a46"
 ---
 
-#### **Predgovor:** To ni zgodba, ki jo je kdorkoli želel, in tudi ni zgodba, ki bi si jo kdorkoli zaslužil. Pa sem jo vseeno napisala. Je resnična pripoved o šotoru in tudi moja prva kratka zgodba. 💛 Ker gre za malenkost daljšo literarno obliko, kot smo jih vajeni na Blebetu, sem za lažje branje pripravila tudi .pdf: <a target="_blank" rel="noopener noreferrer" href="/files/ursakacar-prvi-sotor-ob-cesti.pdf"> <span style="color:#01597f">**Urša Kačar: Prvi šotor ob cesti**</a></span>
+#### **Predgovor:** To ni zgodba, ki jo je kdorkoli želel, in tudi ni zgodba, ki bi si jo kdorkoli zaslužil. Pa sem jo vseeno napisala. Je resnična pripoved o šotoru in tudi moja prva kratka zgodba. Ker gre za malenkost daljšo literarno obliko, kot smo jih vajeni na Blebetu, sem za lažje branje pripravila tudi .pdf: <a target="_blank" rel="noopener noreferrer" href="/files/ursakacar-prvi-sotor-ob-cesti.pdf"> <span style="color:#01597f">**Urša Kačar: Prvi šotor ob cesti**</a></span>
 
 ### Kazalo:
 

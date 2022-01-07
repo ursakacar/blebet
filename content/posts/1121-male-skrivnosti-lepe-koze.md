@@ -7,7 +7,7 @@ post_keywords: "urša kačar blebet blog nega kože botoks serum hialuron vitami
 hero_image: "/content/images/hero/skrivnosti-lepe-koze.jpg"
 photo_credit: "Hanna Postova"
 photo_credit_handle: "annapostovaya"
-header_background_color: "#6f8cf5"
+header_background_color: "#9cace7"
 ---
 
 Nego svoje kože jemljem smrtno resno. V današnjem svetu nam je ženskam namreč dano jasno vedeti, da s tridesetim izstopimo iz obdobja svojih najboljših let, pri čemer najboljših v resnici pomeni družbeno sprejemljivih, družbeno sprejemljivih pa je krovni slogan za čvrsto kožo, nobene gube, čvrsta stegna, nobenih kontroverznih stališč, čvrste joške in še ne povsem izdelane identitete. S tridesetim tako svetujejo, da vso svojo pozornost posvetimo majhnim gubicam, ter se hkrati začnemo počasi pripravljati na umik iz družbe, s čimer bomo naredile prostor očem prijetnejšim in čvrstim dvajsetletnicam, ki nimajo toliko mnenj in se ne pritožujejo tako glasno.
