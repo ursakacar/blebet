@@ -2,8 +2,8 @@
 date: 2022-01-07T22:40:32Z
 post_author: "Urša Kačar"
 post_title: "Nevernica"
-post_description: "Zjutraj vstanem ob pol šestih. No, takrat prvič zvoni budilka. Po dvojnem dremežu se mi iz postelje uspe zvaliti nekje okoli šeste ure, plus minus deset minut."
-post_keywords: "jutranja rutina uspeh samodisciplina vztrajnost volja predanost joga tek meditacija blog ursa kacar ursakacar"
+post_description: "Moji možgani nimajo veljavnega prazničnega programa. Pomoje je nekje pred polnoletnostjo potekla licenca, pa se je nikomur ni dalo obnoviti. Zato zdaj v prazničnih obdobjih, medtem ko se mnogim od samega navdušenja iskrijo oči, zaman čakam, da še mene zagrabi obredna čarobnost."
+post_keywords: "blog ursa kacar ursakacar blebet prazniki božič novo leto praznično vzdušje lučke novoletna jelka praznični čas"
 hero_image: "/content/images/hero/2022/nevernica.jpg"
 photo_credit: "Isabella and Zsa Fischer"
 photo_credit_handle: "twinsfisch"
