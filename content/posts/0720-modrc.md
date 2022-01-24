@@ -1,7 +1,7 @@
 ---
 date: 2020-07-03T22:40:32Z
 post_author: "Urša Kačar"
-post_title: "Vedno znova me nategnejo"
+post_title: "Modrc"
 post_description: "V ranljivem trenutku navdiha in želje po lepem, zapeljivem novem kosu spodnjega perila, vstopim, in k meni takoj prifrfota prodajalka, oči kot žareče oglje, za osebnost pa brbotajoč optimizem. Zanima jo, če lahko kako pomaga. Povem ji, da kupujem modrc. Polna spoštljive vljudnosti me vpraša po velikosti."
 post_keywords: "modrci modrc nakupovanje kapitalizem razočaranje joški blog zgodba ursa kacar ursakacar"
 hero_image: "/content/images/hero/modrc.jpg"
@@ -48,7 +48,7 @@ Pusti me samo, v čudovitem, čipkastem, premajhnem modro-belem modrcu, iz kater
 
 Vem, kaj sledi.
 
-Vrne se z veliko, zaprašeno škatlo, jo odpre in opravičujoče pridrži predme.
+Vrne se z veliko, zaprašeno škatlo, jo odpre in opravičujoče pridrži predme.
 
 “Zdajle trenutno imamo samo tole, bomo pa verjetno kmalu dobili še kakšen model.”
 
