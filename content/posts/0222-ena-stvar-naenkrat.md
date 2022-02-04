@@ -32,4 +32,4 @@ Taka sem pač bila. Ampak zdaj pa nočem biti več taka! Kar nekaj knjig o produ
 
 Mogoče bi potem lahko tudi jaz o tem napisala celo knjigo in ne samo objavila tole kratko razmišljanje na zaprašenem koncu interneta, ki mu pravim Blebet. Lahko bi vam pridigala kaj vse delate narobe. Danes tega ne morem, ker sama delam isto narobe. Zato pridigam sebi.
 
-Javim, kje bova jaz in moja glava konec leta. Hitrejših izboljšav namreč ne pričakujem. Če bo šlo samo še na slabše in v nekaj mesecih dosežem status čustvene razvaline, pa mogoče dobite še eno nepotrebno knjigo o izgorelosti. Pridigam sebi bi bil kar dober naslov, se ti ne zdi?
+Javim, kje bova jaz in moja glava konec leta. Hitrejših izboljšav namreč ne pričakujem. Če bo šlo samo še na slabše in v nekaj mesecih dosežem status čustvene razvaline, pa mogoče dobite še eno nepotrebno knjigo o izgorelosti. *Pridigam sebi* bi bil kar dober naslov, se ti ne zdi?
