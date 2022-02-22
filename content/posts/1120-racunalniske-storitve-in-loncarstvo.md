@@ -12,7 +12,7 @@ header_background_color: "#e0a485"
 
 #### **Opozorilo:** med spodnjim besedičenjem se nahaja fotografija glinenih penisov. Pred branjem odstranite otroke in vašo lastno zategnjenost, ako ta obstaja.
 
-Moja pozna dvajseta so bila obdobje neplačanih nadur, puhli gonji za nazivi in čustvene navezanosti na službo, nekje vmes sem prebolela še blago izgorelost, in ko me je pri tridesetih udarilo spoznanje, da sem, no, pač stara trideset, me je postalo sram, da na vprašanje: “Kaj pa kaj delaš v prostem času?” nimam odgovora.
+Moja pozna dvajseta so bila obdobje neplačanih nadur, puhle gonje za nazivi in čustvene navezanosti na službo, nekje vmes sem prebolela še blago izgorelost, in ko me je pri tridesetih udarilo spoznanje, da sem, no, pač stara trideset, me je postalo sram, da na vprašanje: “Kaj pa kaj delaš v prostem času?” nimam odgovora.
 
 Potrebovala sem hobi, nujno.
 
