@@ -1,5 +1,5 @@
 ---
-date: 2020-03-05T07:27:33Z
+date: 2020-03-03T07:27:33Z
 gapost_author: "Urša Kačar"
 post_title: "Pestra in uravnotežena prehrana"
 post_description: "Že nekaj časa opažam, da se mi leta počasi začenjajo poznati tudi na želodcu. S tem ne mislim na šlaufke špehca, ki se me zvesto oklepajo že iz vrtca, ampak na dejstvo, da se po preveliki ali napačni (recimo cela čokolada, Viki krema kot jed na žlico ali pa banjica sladoleda za glavni obrok) količini hrane počutim izjemno slabo."
