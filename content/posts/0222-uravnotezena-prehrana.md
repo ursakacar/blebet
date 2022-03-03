@@ -12,7 +12,7 @@ header_background_color: "#fd9e25"
 
 _Prehransko dopolnilo ni nadomestilo za pestro in uravnoteženo prehrano._
 
-Besede, natisnjene na škatlici multivitaminov, s katerimi se pitam vsak dan po prvem obroku. Paradoks? Zakaj bi jedla dodatke, če bi bil moj jedilnik raznobarven in uravnovešem? Ne bi imelo smisla. Odločila sem se, da je ta zlovešč stavek mišljen samo kot dobronameren nasvet, ki ga lahko brez slabe vesti ignoriram. Moja prehranska piramida izgleda bolj kot nestabilen paralelogram, v katerem so s prosto roko po naključnih kotovih narisana jajca, banane, jogurti, kosmiči, kruh in (pre)veliko sladkarij, zato je smotrno za vsak slučaj poštukati še s kakšnim dodatkom.
+Besede, natisnjene na škatlici multivitaminov, s katerimi se pitam vsak dan po prvem obroku. Paradoks? Zakaj bi jedla dodatke, če bi bil moj jedilnik raznobarven in uravnovešen? Ne bi imelo smisla. Odločila sem se, da je ta zlovešč stavek mišljen samo kot dobronameren nasvet, ki ga lahko brez slabe vesti ignoriram. Moja prehranska piramida izgleda bolj kot nestabilen paralelogram, v katerem so s prosto roko po naključnih kotih narisana jajca, banane, jogurti, kosmiči, kruh in (pre)veliko sladkarij, zato je smotrno za vsak slučaj poštukati še s kakšnim dodatkom.
 
 Že nekaj časa opažam, da se mi leta počasi začenjajo poznati tudi na želodcu. S tem ne mislim na šlaufke špehca, ki se me zvesto oklepajo že iz vrtca, ampak na dejstvo, da se po preveliki ali napačni (recimo cela čokolada, Viki krema kot jed na žlico ali pa banjica sladoleda za glavni obrok) količini hrane počutim izjemno slabo. Poudarek je na izjemno. Ne mislim psihično, ampak fizično. Boli me trebuh, težko diham in slabo mi je.
 
@@ -43,7 +43,7 @@ Tri sekunde kasneje iz vrečke potegne granatno jabolko.
 “Zakaj?”\
 “Ja da bova jedla več sadja!”\
 “A ti je sploh dobro?”\
-“Ja, ne vem, verjetno.”\
+“Ja, ne vem, verjetno.”
 
 Ko je naletel še na grozdje, je samo globoko zavzdihnil in se vzdržal komentarja.
 
