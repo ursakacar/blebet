@@ -1,5 +1,5 @@
 ---
-date: 2022-04-05T07:27:33Z
+date: 2022-04-11T07:27:33Z
 gapost_author: "Urša Kačar"
 post_title: "Kam so vsi metalci šli?"
 post_description: "V srednji šoli sem bila metalka. To je pomenilo, da sem se oblačila samo v črno, obuvala samo v bulerje, se vesila s ketnami, imela pas z neti, si faco vsak dan napudrala z belim pudrom, zlorabljala črno barvico za oči in poslušala glasbo, ki v večini sestoji iz divjih bobnov, pobesnelih kitar in rjovenja v mikrofon."
