@@ -7,7 +7,7 @@ post_keywords: "urša kačar subkultura kontrakultura alternativa metalci panker
 hero_image: "/content/images/hero/2022/metalci.jpg"
 photo_credit: "Joris Molenaar"
 photo_credit_handle: "jorismolenaar"
-header_background_color: "#df4278"
+header_background_color: "#8066cf"
 ---
 
 V srednji šoli sem bila metalka. To je pomenilo, da sem se oblačila samo v črno, obuvala samo v bulerje, se vesila s ketnami, imela pas z neti, si faco vsak dan napudrala z belim pudrom, zlorabljala črno barvico za oči in poslušala glasbo, ki v večini sestoji iz divjih bobnov, pobesnelih kitar in rjovenja v mikrofon. Vedno sem se držala resno ter zato izgledala žalostno, čeprav sem mislila, da sem totalno zajebana. Ponočevali smo na Metelkovi in iz plastičnih kozarcev pili bambus namešan iz merkator kole in namiznega rdečega vina, včasih tudi tistega iz tetrapaka. Na spletu smo se udejstvovali na portalih Glasuj zame in MySpace in slednjega kar pogrešam. Za razliko od današnjih socialnih omrežij, kjer vsi profili izgledajo enako, si lahko svojo MySpace stran povsem prilagodil svojemu slabemu okusu in pomanjkanju dizajnerskih spretnosti, ter tako resnično izrazil svojo še ne povsem izdelano osebnost.
