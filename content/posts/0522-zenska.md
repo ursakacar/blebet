@@ -2,7 +2,7 @@
 date: 2022-05-31T07:27:33Z
 gapost_author: "Urša Kačar"
 post_title: "Ženska"
-post_description: "Pravijo ti, da si vredna ljubezni tudi z dvemi strijami, vsako na enem stegnu, ter ti v isti sapi ponujajo dvajset procentni popust pri nakupu kreme proti celulitu. Spet prikimavaš. In izkoristiš kodo za popust."
+post_description: "Pravijo ti, da si vredna ljubezni tudi z dvema strijama, vsako na enem stegnu, ter ti v isti sapi ponujajo dvajset procentni popust pri nakupu kreme proti celulitu. Spet prikimavaš. In izkoristiš kodo za popust."
 post_keywords: "urša kačar zenska celulit strije mati zena koda za popust influenserke"
 hero_image: "/content/images/hero/2022/zenska.jpg"
 photo_credit: "Becca Tapert"
@@ -38,7 +38,7 @@ Pravijo ti, da si sposobna tudi, če na obrazu nimaš treh plasti pudra in rdeč
 
 Pravijo ti, da si ne zaslužiš spolne zlorabe, tudi če imaš na obrazu tri plasti pudra in rdečo šminko. Grlo ti zadrgne potlačen spomin, dva srčna utripa nevede zadržuješ sapo in solze. Prikimavaš.
 
-Pravijo ti, da si vredna ljubezni tudi z dvemi strijami, vsako na enem stegnu, ter ti v isti sapi ponujajo dvajset procentni popust pri nakupu kreme proti celulitu. Spet prikimavaš. In izkoristiš kodo za popust.
+Pravijo ti, da si vredna ljubezni tudi z dvema strijama, vsako na enem stegnu, ter ti v isti sapi ponujajo dvajset procentni popust pri nakupu kreme proti celulitu. Spet prikimavaš. In izkoristiš kodo za popust.
 
 Svet se odvija mimo tebe. Včasih misliš, da se ti bo zmešalo in včasih se počutiš tako ujeto, da bi najraje gola, nenamazana, z narastkom, mastnimi lasmi  in odkrušenim lakom na nohtih tekla po ulici in izkričala svoja pljuča, v katerih je toliko neizrečenega. Misliš, da ne veš kdo si. A v resnici si vedno vedela. V tihih večerih se sama sebi zdiš popolnoma dovolj, a kaj, ko te svet čez dan prepričuje v nasprotno. Si prisilno udomačena divja žival, ki so ji drugi dodelili vlogo skrbnice, partnerke, žene, matere. Ženske.
 
