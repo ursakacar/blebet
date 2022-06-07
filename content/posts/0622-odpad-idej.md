@@ -31,15 +31,15 @@ Ena od idej razglablja, kako prekleto težko se je po tridesetem uskladiti za ka
 
 In kar naenkrat jih imaš osemdeset in še vedno nisi bil na kavi.
 
-Potem je tu ideja o minimalizmu, oziroma obsedenosti z le-tem, ki je postala samo še ena od novodobnih bedarij. Folk je pozabil, da smisel ni tekmovati, kdo ima čim manj (ter posledično zmetati stran ves pribor razen ene žlice), ampak čustvena distanca do predmetov, ki so v naši lasti. Poleg tega je ekstremni minimalizen rezerviran za priviligirane, ker si marsikdo ne more privoščiti stran zmetati vsega, kar “v njem ne zaneti iskre”, češ, boš že kasneje spet kupil, če boš rabil.
+Potem je tu ideja o minimalizmu, oziroma obsedenosti z le-tem, ki je postala samo še ena od novodobnih bedarij. Folk je pozabil, da smisel ni tekmovati, kdo ima čim manj (ter posledično zmetati stran vsega pribora razen ene žlice), ampak čustvena distanca do predmetov, ki so v naši lasti. Poleg tega je ekstremni minimalizen rezerviran za priviligirane, ker si marsikdo ne more privoščiti stran zmetati vsega, kar “v njem ne zaneti iskre”, češ, boš že kasneje spet kupil, če boš rabil.
 
 Tu sta tudi dve bolj jezni ideji, prva se sprašuje, zakaj se ne morem odvaditi branja komentarjev Slovenceljnev na takih in drugačnih brezveznih forumih, ki v meni ne vzbujajo drugega kot jeze in obupa, druga pa je polna nepopularnih mnenj o socialnih omrežjih. Na živce mi gre, kadar se ustvarjalci vsebin prepričujejo, da objavljajo v dobrobit drugih in ne zase (priznajmo si, da nam je pač fajn, ko nas raja na internetu opazi!). Ko se obnašajo, kot da so jim sledilci dolžni lajke in komentarje, povsem normalni občasni upad zanimanja za njihov profil pa enačijo z: “Ljudje dandanes ne marajo več kvalitetne vsebine, buhuhu.” Uf. Bom kar tu zaključila, preden izbruham ves svoj gnev.
 
-Veliko razmišljam o tem, kako prav vse, kar vidim in doživim, postane del mene. Od razgleda iz balkona v tujem mestu, tradicionalne jutranje kavice, čudnega prijateljstva, ki sem ga spletla pred desetletjem in nasmeha simpatičnega kelnarja, ki me je stregel dva dni nazaj. Moja bit v resnici samo skupek zaznav, izkustev in spominov, ki nastajajo ob moji interakciji z okoljem. Kdo sem potemtakem jaz?
+Veliko razmišljam o tem, kako prav vse, kar vidim in doživim, postane del mene. Od razgleda iz balkona v tujem mestu, tradicionalne jutranje kavice, čudnega prijateljstva, ki sem ga spletla pred desetletjem in nasmeha simpatičnega kelnarja, ki me je stregel dva dni nazaj. Moja bit je v resnici samo skupek zaznav, izkustev in spominov, ki nastajajo ob interakciji z okoljem. Kdo sem potemtakem jaz?
 
 Pisati hočem tudi o najpogostejši temi prepirov v stanovanju. Ker ne vem, če bo ta ideja kadarkoli ubesednjena, vam kar zdaj zaupam razlog najinih špetirjev: Sir. Obožujem sir! Tak, ki smrdi po prdcih in starih nogavicah in ki s svojim žmohtnim vonjem prepoji cel prostor. Zadnjič sem si v Bruslju kupila enega tako odličnega, da mu je uspelo zasmraditi cel hladilnik, čeprav je bil ohomotan v alufolijo in zaprt v nepredušni posodi.
 
-Nekoč bi rada ubesedila nered, ki vlada v mojih mislih in govorila o spremembah, ki so v resnici edina stalnica življenja. V glavi imam zgodbo o mojem večnem bordo rdečem puloverju, ki ga imam iz osnovne šole in še vedno mi je prav, ter razmišljanje, kako in zakaj me ne mika biti mama, mogoče bi pa lahko bila oče. Pisala bi o mojem neigranju klavirja ter zgražanju nad ljudmi, ki v torte dajejo fižol, kao da bodo bolj zdrave. Dragi moji, namen torte ni in nikoli ni bil, da je zdrava! In naj temu ostane tako!
+Nekoč bi rada ubesedila nered, ki vlada v mojih mislih in govorila o spremembah, ki so v resnici edina stalnica življenja. V glavi imam zgodbo o mojem večnem bordo rdečem puloverju, ki ga imam iz osnovne šole in mi je še vedno prav, ter razmišljanje, kako in zakaj me ne mika biti mama, mogoče bi pa lahko bila oče. Pisala bi o mojem neigranju klavirja ter zgražanju nad ljudmi, ki v torte dajejo fižol, kao da bodo bolj zdrave. Dragi moji, namen torte ni, in nikoli ni bil, da je zdrava! In naj temu ostane tako!
 
 Skup imam vrženih tudi nekaj stavkov o mojem odporu do mat šmink in kolektivni napaljenosti na bež barvo, ki je od vseh barv najbolj brezvezna. Slednje je spodbudil nedavni pripetljaj, ko sem na troli zakorakala v sivo-rjavo-bež oblečeno morje ljudi. In če smo že pri stilih oblačenja, kdaj in predvsem zakaj smo se kot družba odločili, da ne bomo več nosili klobučkov in avantgardnih naglavnih pokrival?
 
@@ -65,9 +65,17 @@ Mislim, da smo zdaj približno obdelali grmado idej, ki se dotikajo mojega resni
 
 Večini je skupna tema smrt. No, saj so vedno pravili, da sem malo morbidna.
 
-Ženska v navalu besa ubije svojega tipa, nato k sebi na kavo pokliče svoji dve najboljši frendici iz srednje šole (ena je tretjič noseča, neporočena, delavna in odgovorna, druga pa izhaja iz bogate ljubljanske familije in rada govori o tem, da je treba razmišljati pozitivno in si moraš vsako stvar pošteno prislužiti, čeprav so ji starši podarili stanovanje v centru Ljubljane in ji služba nikoli ni bila pogoj za preživetje). Skupaj razglabljajo in travmirajo, kako naj se znebijo trupla, ki ga je protagonistka medtem zvlekla v banjo. Prašičja farma v Ihanu? Kisline in baze? Razkos in blender? Prisežem, da ni po resničnih dogodkih, se je pa ideja utrnila že v srednji šoli. Zaplet zgodbe torej v meni živi že več kot desetletje. Mogoče ji moram počasi začeti računati najemnino.
+Ženska v navalu besa ubije svojega tipa, nato pa k sebi na kavo pokliče svoji dve najboljši frendici iz srednje šole (ena je tretjič noseča, neporočena, delavna in odgovorna, druga pa izhaja iz bogate ljubljanske familije in rada govori o tem, da je treba razmišljati pozitivno in si moraš vsako stvar pošteno prislužiti, čeprav so ji starši podarili stanovanje v centru Ljubljane in ji služba nikoli ni bila pogoj za preživetje). Skupaj razglabljajo in travmirajo, kako naj se znebijo trupla, ki ga je protagonistka medtem zvlekla v banjo. Prašičja farma v Ihanu? Kisline in baze? Razkos in blender? Prisežem, da ni po resničnih dogodkih, se je pa ideja utrnila že v srednji šoli. Zaplet zgodbe torej v meni živi že več kot desetletje. Mogoče ji moram počasi začeti računati najemnino.
 
-Dva prijatelja, eden je nesmrten, drugi pa potuje skozi čas. Dve duši, ki se srečujeta po smrti ter se pogovarjata o življenjih, ki sta jih že dali čez ter tuhtata, kaj bi radi preizkusili v naslednjem. Prvoosebna pripovedovalka na zapuščenem grobu pusti šopek narcis, ponoči pa se ji prebivalci groba pridejo zahvalit- ta je pa bila navdahnjena po resničnih dogodkih. Telefonski klic, ki protagonista obvesti o smrti njegovega očeta, v tistem se pa njegov oče pojavi na vhodnih vratih. Dekle, ki postane nova smrt. Dobesedno. Preselijo jo v veliki dvorec, vsako jutro ob osmih prične z delom v pisarni in ravnokar umrle seznanja z njihovimi novimi pravicami in dolžnostmi.
+Dva prijatelja, eden je nesmrten, drugi pa potuje skozi čas.
+
+Dve duši, ki se srečujeta po smrti ter se pogovarjata o življenjih, ki sta jih že dali čez ter tuhtata, kaj bi radi preizkusili v naslednjem.
+
+Prvoosebna pripovedovalka na zapuščenem grobu pusti šopek narcis, ponoči pa se ji prebivalci groba pridejo zahvalit- ta je pa bila navdahnjena po resničnih dogodkih!
+
+Telefonski klic, ki protagonista obvesti o smrti njegovega očeta, v tistem se pa njegov oče pojavi na vhodnih vratih.
+
+Dekle, ki postane nova smrt. Dobesedno. Preselijo jo v veliki dvorec, vsako jutro ob osmih prične z delom v pisarni in ravnokar umrle seznanja z njihovimi novimi pravicami in dolžnostmi.
 
 Nekaj idej je andropomorfičnih. Recimo biografije mojih lončnic- monstera Erna razmišlja, da bi izdala zbirko poezij, singonij Sreda pa se je iz kreativne računovodkinje razvila v eno najbolj uspešnih kriptotrgovalk.
 
@@ -77,7 +85,11 @@ Usode, ki dejansko fizično obstajajo. Tiste bolj bedne pristanejo na dnu hierar
 
 Kaj pa kakšna bolj normalna ideja?
 
-Dve bedni superjunakinj, ena ljudem krade zgodbe, druga pa še ne vem kaj zna, je pa brez desne noge od kolena navzdol, in noče več biti super heroj. Mesto, kjer vedno dežuje, njegovi prebivalci pa se samo pritožujejo nad dežjem, nihče pa ne pomisli, da bi se odselil. Dež je tu seveda lako tudi prispodoba. Stara teta, pri kateri se v stanovanju vsak dan nekaj pokvari. Tudi nenehno pokvarjanje predmetov je lahko prispodoba.
+Dve bedni superjunakinj, ena ljudem krade zgodbe, druga pa še ne vem kaj zna, je pa brez desne noge od kolena navzdol, in noče več biti super heroj.
+
+Mesto, kjer vedno dežuje, njegovi prebivalci pa se samo pritožujejo nad dežjem, nihče pa ne pomisli, da bi se odselil. Dež je tu seveda lako tudi prispodoba.
+
+Stara teta, pri kateri se v stanovanju vsak dan nekaj pokvari. Tudi nenehno pokvarjanje predmetov je lahko prispodoba.
 
 Uf, mogoče malenkost bolj normalna?
 
