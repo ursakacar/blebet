@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import headerStyles from "../styles/components/header.module.scss"
+import * as headerStyles from "../styles/components/header.module.scss"
 import fbLogo from "../assets/logo-facebook.png"
 import fbLogoW from "../assets/logo-facebook-white.png"
 import instaLogo from "../assets/logo-instagram.png"

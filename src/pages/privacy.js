@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/Layout"
 import Helmet from "react-helmet"
-import privacyStyles from "../styles/pages/subpage.module.scss"
+import * as privacyStyles from "../styles/pages/subpage.module.scss"
 import useSiteMetaData from "../static_queries/useSiteMetadata"
 
 export default function Cookies() {
