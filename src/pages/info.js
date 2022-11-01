@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/Layout"
 import Helmet from "react-helmet"
-import infoStyles from "../styles/pages/subpage.module.scss"
+import * as infoStyles from "../styles/pages/subpage.module.scss"
 import useSiteMetaData from "../static_queries/useSiteMetadata"
 
 export default function Info() {

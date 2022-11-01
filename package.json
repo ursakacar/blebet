@@ -6,43 +6,41 @@
   "author": "Ursa Kacar",
   "scripts": {
     "build": "gatsby build",
-    "dev": "gatsby develop -o",
+    "dev": "gatsby develop",
     "format": "prettier --write src/**/*.{js,jsx}",
     "serve": "gatsby serve"
   },
   "dependencies": {
+    "gatsby": "^4.24.5",
+    "install": "^0.13.0",
+    "node-sass": "^7.0.3",
     "dotenv": "^8.2.0",
-    "gatsby": "^2.13.9",
+    "npm": "^7.24.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-helmet": "^5.2.1",
     "gatsby-image": "^2.2.8",
     "gatsby-plugin-mailchimp": "^5.2.2",
-    "gatsby-plugin-react-helmet": "^3.1.0",
+    "gatsby-plugin-react-helmet": "^5.2.0",
     "gatsby-plugin-robots-txt": "^1.5.1",
-    "gatsby-plugin-sass": "^2.1.0",
-    "gatsby-plugin-sharp": "^2.2.3",
-    "gatsby-plugin-sitemap": "^2.4.12",
-    "gatsby-remark-autolink-headers": "^3.2.0",
-    "gatsby-remark-images": "^3.1.3",
+    "gatsby-plugin-sass": "^5.2.0",
+    "gatsby-plugin-sharp": "^4.24.0",
+    "gatsby-plugin-sitemap": "^5.24.0",
+    "gatsby-remark-autolink-headers": "^5.24.0",
+    "gatsby-remark-images": "^6.23.0",
     "gatsby-remark-normalize-paths": "^1.0.0",
     "gatsby-remark-relative-images": "^0.2.2",
-    "gatsby-source-filesystem": "^2.1.2",
-    "gatsby-transformer-remark": "^2.6.1",
-    "gatsby-transformer-sharp": "^2.2.1",
-    "gatsby-transformer-yaml": "^2.2.4",
-    "install": "^0.13.0",
-    "node-sass": "^4.12.0",
-    "npm": "^7.8.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-helmet": "^5.2.1"
+    "gatsby-source-filesystem": "^4.24.0",
+    "gatsby-transformer-remark": "^5.24.0",
+    "gatsby-transformer-sharp": "^4.24.0",
+    "gatsby-transformer-yaml": "^4.24.0"
   },
   "devDependencies": {
-    "prettier": "^1.18.2"
+    "prettier": "^2.7.1"
   },
   "keywords": [
     "writing",
-    "blog",
-    "netlify",
-    "gatsby"
+    "blog"
   ],
   "repository": {
     "type": "git",

@@ -1,6 +1,6 @@
 import React from "react"
 import addToMailchimp from "gatsby-plugin-mailchimp"
-import subscribeFormStyles from "../styles/components/subscribeform.module.scss"
+import * as subscribeFormStyles from "../styles/components/subscribeform.module.scss"
 
 let isSubscribeError = false
 let isSubscribeSuccess = false

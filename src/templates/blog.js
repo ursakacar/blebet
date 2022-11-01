@@ -3,7 +3,7 @@ import Layout from "../components/Layout"
 import { graphql, Link } from "gatsby"
 import Helmet from "react-helmet"
 import useBlogData from "../static_queries/useBlogData"
-import blogTemplateStyles from "../styles/templates/blog.module.scss"
+import * as blogTemplateStyles from "../styles/templates/blog.module.scss"
 //this component handles the blur img & fade-ins
 import Img from "gatsby-image"
 
