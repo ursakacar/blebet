@@ -1,13 +1,13 @@
 ---
 date: 2022-01-22T22:40:32Z
-post_author: "Urša Kačar"
+gapost_author: "Urša Kačar"
 post_title: "Rekreativna smučarka"
 post_description: "V želji po izboljšavah sva zato letos s prijateljico, ki se ji na ledenih podlagah prav tako malo bolj tresejo noge in ji je bližje disciplina pluga kot slaloma, najeli učitelja smučanja. Naj nama malo nakaže, kako se pravilno smuča! Je pokazal in ugotovila sem, da vse delam narobe. Niso bila problem samo kolena in pa nepravilno težišče."
 post_keywords: "smučanje ski opening francija karving učenje smučanja blebet urša kačar"
-hero_image: "/content/images/hero/2022/rekreativna-smucarka.jpg"
+hero_image: "/content/images/hero/2022/rekreativnasmucarka.jpg"
 photo_credit: "Harrison Moore"
 photo_credit_handle: "moorecreative"
-header_background_color: "#e39d23"
+header_background_color: "#a14b7f"
 ---
 
 Na belih strminah nisem kaj prida spretna. Bližje od karvinga mi je tehnika oddrsavanja, sem in tja rada še malo zaplužim, kratkih zavojev kratkomalo ne maram in na smučkah sem zakrčena vedno v eni in isti pozi, da izgledam kot ulita v mavec. Sramota je še večja, če vam izdam, da sem odraščala v vasi pod smučiščem in je moj oče učil smučanje. Svoje znanje je uspešno prenesel tako na brata kot na sestro, ki vsako zimo z nasmehom na obrazu in ostro nabrušenimi robniki strumno režeta bele strmine. Kaj je šlo narobe pri meni? Zakaj jaz nisem bila deležna učnih ur spuščanja po klancu na dveh dilah? Zakaj nisem dokončala smučarske šole na hribu za hišo? Verjetno sem se enkrat strmarila, potem me pa niso več silili. Vztrajnosti mi res manjka, svojeglavosti pač ne.

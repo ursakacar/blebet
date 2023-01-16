@@ -5,8 +5,8 @@ post_title: "Če bi šli smučat"
 post_description: "Večino dni bi naredili par fur, se dobili na pivu in pomfriju, odsmučali še dve, tri runde, in se z bolečimi stegni podričali domov. Na dober dan bi me fant še neuspešno poskušal prepričati, naj pokarvam. A kaj, ko jaz raje drsim. Na slab dan bi bila proga prekrita s plastjo čez noč zapadlega snega, ki se ga Francozi namenoma ne bi potrudili zratrakirati. Baje je smuka po celcu francoska specialiteta. "
 post_keywords: "urša kačar blog smučanje skiopening smučarija dopust"
 hero_image: "/content/images/hero/smucanje.jpg"
-photo_credit: "Harrison Moore"
-photo_credit_handle: "moorecreative"
+photo_credit: "Joan Oger"
+photo_credit_handle: "joanoger"
 header_background_color: "#6bb3c1"
 ---
 
