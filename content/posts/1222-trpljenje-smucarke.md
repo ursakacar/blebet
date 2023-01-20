@@ -1,10 +1,10 @@
 ---
-date: 2022-12-12T07:27:33Z
+date: 2023-01-20T07:27:11Z
 post_author: "Urša Kačar"
 post_title: "Trpljenje (ne več tako) mlade smučarke"
 post_description: "Od sonca in ledenega vetra razdražena koža me žge ob vsakem nasmehu, od mraza razpokane ustnice zapečejo ob najmanjšem požirku pelinkovca. Zjutraj se zbujam s krvavim nosom in presušenim grlom, tlačim razbolela stopala v trde pancarje, desno je mravljinčasto že od ponedeljka, palca na levem ne čutim od torka."
-post_keywords: "urša kačar smucanje ski opening zima slovenski nacionalni sport"
-hero_image: "/content/images/hero/2022/trpljenjesmucarke.jpg"
+post_keywords: "urša kačar smučanje ski opening zima slovenski nacionalni šport"
+hero_image: "/content/images/hero/2023/trpljenje-smucarke.jpg"
 photo_credit: "Harrison Moore"
 photo_credit_handle: "moorecreative"
 header_background_color: "#9885bb"
