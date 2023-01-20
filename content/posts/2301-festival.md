@@ -2,7 +2,7 @@
 date: 2023-01-23T07:27:11Z
 post_author: "Urša Kačar"
 post_title: "Zakaj bi moral vsak vsaj enkrat v lajfu na glasbeni festival"
-post_description: "Od sonca in ledenega vetra razdražena koža me žge ob vsakem nasmehu, od mraza razpokane ustnice zapečejo ob najmanjšem požirku pelinkovca. Zjutraj se zbujam s krvavim nosom in presušenim grlom, tlačim razbolela stopala v trde pancarje, desno je mravljinčasto že od ponedeljka, palca na levem ne čutim od torka."
+post_description: "Festivali so kot letališča. Kraji, kjer je čas izkrivljen, pravila ne obstajajo in jutranje pivo ni anomalija. Živi se od svobode in sparjenih sendvičev, zadnji obrok pred spanjem pa si, s kičastim sončnim vzhodom za kuliso, največkrat pripraviš ob sedmi uri zjutraj. Oziroma ti je pripravljen, medtem ko žuliš še zadnje pivo pred spanjem, ker “enga pa še lahka!”"
 post_keywords: "urša kačar elektronska glasba glasbeni festival ples najlepša jutra so zjutraj"
 hero_image: "/content/images/hero/2023/glasbeni-festival.jpg"
 photo_credit: "Brandon Bynum"
