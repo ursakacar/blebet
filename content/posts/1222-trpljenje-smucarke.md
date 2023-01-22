@@ -12,7 +12,7 @@ header_background_color: "#9885bb"
 
 Od sonca in ledenega vetra razdražena koža me žge ob vsakem nasmehu, od mraza razpokane ustnice zapečejo ob najmanjšem požirku pelinkovca. Zjutraj se zbujam s krvavim nosom in presušenim grlom, tlačim razbolela stopala v trde pancarje, desno je mravljinčasto že od ponedeljka, palca na levem ne čutim od torka. Na golenih imam modrice in cela noga od kolena navzdol boli na dotik. Nase navlečem sedem tankih plasti oblačil, ki naj bi me varovala pred mrazom, a me hkrati tudi povsem imobilizirajo.
 
-Nisem kaj prida smučarka, tudi nisem kaj prida ljubiteljica smučanja, in ko s smučkami na rami na pol koračim in napol drsim po zaledeneli cesti proti prvi sedežnici, se sprašujem, kaj je narobe z ljudmi, da si to delamo. Zakaj se obuvamo v trdo plastiko, si pod noge nabijamo dve dili, po katerih se pri minus desetih stopinjah spuščamo iz vrha gora in hribov ter se delamo, da nam je super fajn ko nam gorijo stegna in zmrzujejo prsti.
+Nisem kaj prida smučarka, tudi nisem kaj prida ljubiteljica smučanja, in ko s smučkami na rami napol koračim in napol drsim po zaledeneli cesti proti prvi sedežnici, se sprašujem, kaj je narobe z ljudmi, da si to delamo. Zakaj se obuvamo v trdo plastiko, si pod noge nabijamo dve dili, po katerih se pri minus desetih stopinjah spuščamo iz vrha gora in hribov ter se delamo, da nam je super fajn ko nam gorijo stegna in zmrzujejo prsti.
 
 Mar bi ostala doma in brala.
 
