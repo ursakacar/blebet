@@ -1,5 +1,5 @@
 ---
-date: 2023-01-25T07:27:11Z
+date: 2023-02-01T07:27:11Z
 post_author: "Urša Kačar"
 post_title: "Čudni Čevlji™️"
 post_description: "Sem torej amaterska zbirateljica čudnih čevljev. Trenutno je v moji skrbno kurirani zbirki pet parov nevsakdanjih in neklasičnih obuval in ker vsak zbiratelj česarkoli rad pokaže svoje skrbno čuvane predmete, bom tudi jaz v nadaljevanju predstavila svojih pet parov Čudnih Čevljev™️, od katerih ima vsak par, kot se za predmete sentimentalne vrednosti spodobi, svoje ime in zgodbo."
