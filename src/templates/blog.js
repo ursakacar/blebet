@@ -52,9 +52,10 @@ export default function Blog(props) {
     <Layout bgColorHeader={data.frontmatter.header_background_color}>
       <Helmet>
         <title>{data.frontmatter.post_title}</title>
-        <meta name="author" content={data.frontmatter.post_author}></meta>
+        <meta name="og:author" content={data.frontmatter.post_author}></meta>
+        <meta name="og:image" content={data.frontmatter.hero_image}></meta>
         <meta
-          name="description"
+          name="og:description"
           content={data.frontmatter.post_description}
         ></meta>
         <meta name="keywords" content={data.frontmatter.post_keywords}></meta>
