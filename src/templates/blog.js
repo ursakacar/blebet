@@ -8,7 +8,7 @@ import * as blogTemplateStyles from "../styles/templates/blog.module.scss"
 import Img from "gatsby-image"
 
 export default function Blog(props) {
-  console.log(props)
+  // console.log(props)
   const data = props.data.markdownRemark
   const allBlogData = useBlogData()
   const nextSlug = getNextSlug(data.fields.slug)
