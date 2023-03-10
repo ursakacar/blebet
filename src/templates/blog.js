@@ -8,6 +8,7 @@ import * as blogTemplateStyles from "../styles/templates/blog.module.scss"
 import Img from "gatsby-image"
 
 export default function Blog(props) {
+  console.log(props)
   const data = props.data.markdownRemark
   const allBlogData = useBlogData()
   const nextSlug = getNextSlug(data.fields.slug)
@@ -52,8 +53,10 @@ export default function Blog(props) {
     <Layout bgColorHeader={data.frontmatter.header_background_color}>
       <Helmet>
         <title>{data.frontmatter.post_title}</title>
+        <meta property="og:url" content={props.location.href}></meta>
+        <meta property="og:title" content={data.frontmatter.post_title}></meta>
         <meta property="og:author" content={data.frontmatter.post_author}></meta>
-        <meta property="og:image" content={`https://blebet.si${data.frontmatter.hero_image.childImageSharp.fluid.src}`}></meta>
+        <meta property="og:image" content={`${props.location.origin}${data.frontmatter.hero_image.childImageSharp.fluid.src}`}></meta>
         <meta
           property="og:description"
           content={data.frontmatter.post_description}
