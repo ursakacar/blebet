@@ -52,10 +52,10 @@ export default function Blog(props) {
     <Layout bgColorHeader={data.frontmatter.header_background_color}>
       <Helmet>
         <title>{data.frontmatter.post_title}</title>
-        <meta name="og:author" content={data.frontmatter.post_author}></meta>
-        <meta name="og:image" content={`https://blebet.si${data.frontmatter.hero_image.childImageSharp.fluid.src}`}></meta>
+        <meta property="og:author" content={data.frontmatter.post_author}></meta>
+        <meta property="og:image" content={`https://blebet.si${data.frontmatter.hero_image.childImageSharp.fluid.src}`}></meta>
         <meta
-          name="og:description"
+          property="og:description"
           content={data.frontmatter.post_description}
         ></meta>
         <meta name="keywords" content={data.frontmatter.post_keywords}></meta>
