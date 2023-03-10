@@ -53,7 +53,7 @@ export default function Blog(props) {
       <Helmet>
         <title>{data.frontmatter.post_title}</title>
         <meta name="og:author" content={data.frontmatter.post_author}></meta>
-        <meta name="og:image" content={data.frontmatter.hero_image}></meta>
+        <meta name="og:image" content={`https://blebet.si${data.frontmatter.hero_image.childImageSharp.fluid.src}`}></meta>
         <meta
           name="og:description"
           content={data.frontmatter.post_description}
