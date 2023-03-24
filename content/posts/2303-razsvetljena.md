@@ -5,12 +5,12 @@ post_title: "Razsvetljena"
 post_description: "TBD To je zgodba o eni dotični pripetiji, ki se je odvila nekega večera, je bila sreda? ali četrtek?, pa saj ni važno. Kar morate vedeti je, da je v tej mali smučarski vasici dvatisoč metrov nad morjem en mali trg in na tem malem trgu je en mali market. In ta mali market je odlično založen, saj Francozi dobro razumejo, da sta dobra pijača in jedača po pomembnosti takoj za zrakom, ki ga dihamo in internetom, od katerega smo vsi odvisni."
 post_keywords: "TBD urša kačar blebet bajka mit legenda bela bageta smucanje francija pijaca jedaca"
 hero_image: "/content/images/hero/2023/razsvetljena.jpg"
-photo_credit: "Carlos Alberto"
-photo_credit_handle: "iniguez"
+photo_credit: "Klara Kulikova"
+photo_credit_handle: "kkalerry"
 header_background_color: "#3f89b5"
 ---
 
-#### **Predgovor:** Doživljajski potopis Razsvetljena je nastal po resničnih dogodkih, in se tekom pisanja po pomoti prelevil iz kratkega zapisa v kratko zgodbo. Gre torej za malenkost daljšo literarno obliko, kot smo jih vajeni na tem internetnem otočku, ki sem ga poimenovala Blebet, in zatorej sem ga shranila tudi v .pdf obliki, ki je na voljo za prenos na sledeči povezavi: <a target="_blank" rel="noopener noreferrer" href="/files/ursakacar-razsvetljena.pdf"> <span style="color:#01597f">**Urša Kačar: Razsvetljena**</a></span>
+#### **Predgovor:** Doživljajski potopis Razsvetljena je nastal po resničnih dogodkih, in se tekom pisanja po pomoti prelevil iz kratkega zapisa v kratko zgodbo. Gre torej za malenkost daljšo literarno obliko, kot smo jih vajeni na tem internetnem otočku, ki sem ga poimenovala Blebet, in zatorej sem ga shranila tudi v .pdf obliki, ki je na voljo za prenos na sledeči povezavi: <a target="_blank" rel="noopener noreferrer" href="/files/ursa-kacar-razsvetljena.pdf"> <span style="color:#01597f">**Urša Kačar: Razsvetljena**</a></span>
 
 
 Moder pleh mojega avta je obsijan z žarki zgodnje popoldanskega, in uradno še vedno poletnega sonca, ko iz sive Ljubljane po omejitvah drvim proti še nikoli slišanemu kraju nekje v okolici velenjskega hribovja. Odsotno opazujem z rjavimi krpami sušečega listja prepredeno morje zelenih drevesnih krošenj, ki se razprostira ob obeh straneh skoraj prazne ceste, medtem ko Citroen pod svojimi kolesi požira kilometre asfalta. Prihaja jesen, mudi se ji, čeprav po vseh koledarskih zakonih še ni njen čas, svoje dolge rdeče lase iz jesenskega listja že ovija poletju okoli vratu, duši ga na obroke in se pripravlja, da me počasi utopi v mokrih, mrzlih koprenah večne oktobrske megle.

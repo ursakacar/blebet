@@ -5,9 +5,9 @@ post_title: "Mit o beli bageti"
 post_description: "To je zgodba o eni dotični pripetiji, ki se je odvila nekega večera, je bila sreda? ali četrtek?, pa saj ni važno. Kar morate vedeti je, da je v tej mali smučarski vasici dvatisoč metrov nad morjem en mali trg in na tem malem trgu je en mali market. In ta mali market je odlično založen, saj Francozi dobro razumejo, da sta dobra pijača in jedača po pomembnosti takoj za zrakom, ki ga dihamo in internetom, od katerega smo vsi odvisni."
 post_keywords: "urša kačar blebet bajka mit legenda bela bageta smucanje francija pijaca jedaca"
 hero_image: "/content/images/hero/2023/bela-bageta.jpg"
-photo_credit: "Claudia Stucki"
-photo_credit_handle: "claustucki"
-header_background_color: "#cd9b9b"
+photo_credit: "Glen Carrie"
+photo_credit_handle: "glencarrie"
+header_background_color: "#648ccf"
 ---
 
 Tale zgodba se glasi takole: nekoč, davno je že tega- kakšno leto ali dva, je za devetimi gorami, za devetimi vodami, za devetimi ribniki, za devetimi gozdovi in devetimi studenci živela skupina prijateljev. In ti prijatelji so bili ravno dovolj stari, da so imeli dobre službe, a ravno prav mladi, ali pa neodrasli, da si še niso nakopali hujših odgovornosti in skrbi, ki bi jim mrščile čelo, jim kratile spanec ter jih priklenile na njihove domove. Živeli so brezskrbno, malo potovali, veliko pili, dobro jedli in včasih plesali po mizah.
