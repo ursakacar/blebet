@@ -63,7 +63,7 @@ Seveda, da ne. Vedno večkrat se zadnje čase takole spričkam sama s sabo- poč
 
 Oddaljeno zvonjenje me opomni na obstoj časa in z grozo ugotovim, da zamujam na uradno otvoritev spiritualnega oddiha. Nekje v moji paniki ob zamujanju na meditacijo se zagotovo skriva ironija.
 
-![](/content/images/blog/razsvetljena.jpg)
+![](/content/images/blog/mini-razsvetljena.jpg)
 
 Vame se zazre osem milih, preplašenih obrazov, ter spodbujajoč nasmeh joga mojstrice, ko zadihana vpadem v sobano, namenjeno jogi.
 
@@ -105,7 +105,7 @@ Začnem se glasno smejati. Tako butasto se počutim in tako fino se imam.
 
 Zlezem iz ribnika in se ovijem v plašč. Z oblekami v eni roki in z natikači v drugi se bosa odpravim po blatni travi nazaj proti svetlobi.
 
-![](/content/images/blog/razsvetljena.jpg)
+![](/content/images/blog/mini-razsvetljena.jpg)
 
 Sledeči dnevi so se vsi držali istega urnika, saj je pot do nirvane lažja, če je predvidljiva in konsistentna. Trije obroki dnevno: zajtrk, kosilo in večerja. Tri seanse joge in meditacije dnevno: zjutraj, popoldne in zvečer. Tišina do kosila. Popoldansko savnanje. Vmes pa mnogo preveč ur časa, namenjenih razmišljanju in počitku.
 
@@ -138,7 +138,7 @@ O moji borbi z meditacijo sem med večerjo potožila učiteljici, medtem ko sem 
 
 O njenih besedah sem razmišljala še dolgo v noč, ko sem ležala v postelji in čakala, da me premaga spanec. Namesto mirnih sanj se je v sobo prikradel komar, ter me šele proti jutru končno le pičil v čelo.
 
-![](/content/images/blog/razsvetljena.jpg)
+![](/content/images/blog/mini-razsvetljena.jpg)
 
 Zadnji dan retreata se prebudim v vedro jutro. Dež je ponehal, a gosti temni oblaki se še vedno gnetejo na nebu, podobno kot se v meni gnete nemir, ko se pripravljam na še zadnjo seanso joge, nase vlečem oprijete pajkice ter se z gimnastičnimi gibi spravljam v športni modrc.
 
