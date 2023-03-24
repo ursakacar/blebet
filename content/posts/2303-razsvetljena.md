@@ -1,5 +1,5 @@
 ---
-date: 2023-03-15T07:27:11Z
+date: 2023-03-23T07:27:11Z
 post_author: "Urša Kačar"
 post_title: "Razsvetljena"
 post_description: "TBD To je zgodba o eni dotični pripetiji, ki se je odvila nekega večera, je bila sreda? ali četrtek?, pa saj ni važno. Kar morate vedeti je, da je v tej mali smučarski vasici dvatisoč metrov nad morjem en mali trg in na tem malem trgu je en mali market. In ta mali market je odlično založen, saj Francozi dobro razumejo, da sta dobra pijača in jedača po pomembnosti takoj za zrakom, ki ga dihamo in internetom, od katerega smo vsi odvisni."
